@@ -1,0 +1,253 @@
+{
+  "animal": [
+    {
+      "image": "images/animal/animal.png",
+      "word": "animal",
+      "chunks": ["a", "ni", "mal"]
+    },
+    { "image": "images/animal/bear.png", "word": "bear", "chunks": ["bear"] },
+    { "image": "images/animal/bee.png", "word": "bee", "chunks": ["bee"] },
+    { "image": "images/animal/bird.png", "word": "bird", "chunks": ["bird"] },
+    {
+      "image": "images/animal/cat.png",
+      "word": "cat",
+      "chunks": ["cat"]
+    },
+    {
+      "image": "images/animal/chicken.png",
+      "word": "chicken",
+      "chunks": ["chick", "en"]
+    },
+    { "image": "images/animal/cow.png", "word": "cow", "chunks": ["cow"] },
+    {
+      "image": "images/animal/crocodile.png",
+      "word": "crocodile",
+      "chunks": ["cro", "co", "dile"]
+    },
+    {
+      "image": "images/animal/dog.png",
+      "word": "dog",
+      "chunks": ["dog"]
+    },
+    {
+      "image": "images/animal/donkey.png",
+      "word": "donkey",
+      "chunks": ["don", "key"]
+    },
+    {
+      "image": "images/animal/duck.png",
+      "word": "duck",
+      "chunks": ["du", "ck"]
+    },
+    {
+      "image": "images/animal/elephant.png",
+      "word": "elephant",
+      "chunks": ["el", "e", "phant"]
+    },
+    {
+      "image": "images/animal/fish.png",
+      "word": "fish",
+      "chunks": ["fi", "sh"]
+    },
+    {
+      "image": "images/animal/fish-pl.png",
+      "word": "fish",
+      "chunks": ["fi", "sh"]
+    },
+    { "image": "images/animal/frog.png", "word": "frog", "chunks": ["frog"] },
+    {
+      "image": "images/animal/giraffe.png",
+      "word": "giraffe",
+      "chunks": ["gi", "raffe"]
+    },
+    {
+      "image": "images/animal/goat.png",
+      "word": "goat",
+      "chunks": ["g", "oa", "t"]
+    },
+    {
+      "image": "images/animal/hippo.png",
+      "word": "hippo",
+      "chunks": ["hip", "po"]
+    },
+    {
+      "image": "images/animal/horse.png",
+      "word": "horse",
+      "chunks": ["hor", "se"]
+    },
+    {
+      "image": "images/animal/jellyfish.png",
+      "word": "jellyfish",
+      "chunks": ["jel", "ly", "fish"]
+    },
+    {
+      "image": "images/animal/lizard.png",
+      "word": "lizard",
+      "chunks": ["li", "zard"]
+    },
+    {
+      "image": "images/animal/monkey.png",
+      "word": "monkey",
+      "chunks": ["mon", "key"]
+    },
+    {
+      "image": "images/animal/mouse.png",
+      "word": "mouse",
+      "chunks": ["m", "ou", "se"]
+    },
+    { "image": "images/animal/mice.png", "word": "mice", "chunks": ["mice"] },
+    {
+      "image": "images/animal/pet.png",
+      "word": "pet",
+      "chunks": ["pet"]
+    },
+    {
+      "image": "images/animal/polar-bear.png",
+      "word": "polar bear",
+      "chunks": ["polar", "bear"]
+    },
+    {
+      "image": "images/animal/sheep.png",
+      "word": "sheep",
+      "chunks": ["sh", "ee", "p"]
+    },
+    {
+      "image": "images/animal/sheep-pl.png",
+      "word": "sheep",
+      "chunks": ["sh", "ee", "p"]
+    },
+    {
+      "image": "images/animal/snake.png",
+      "word": "snake",
+      "chunks": ["s", "na", "ke"]
+    },
+    {
+      "image": "images/animal/spider.png",
+      "word": "spider",
+      "chunks": ["spi", "der"]
+    },
+    {
+      "image": "images/animal/tail.png",
+      "word": "tail",
+      "chunks": ["t", "ai", "l"]
+    },
+    {
+      "image": "images/animal/tiger.png",
+      "word": "tiger",
+      "chunks": ["ti", "ger"]
+    },
+    {
+      "image": "images/animal/zebra.png",
+      "word": "zebra",
+      "chunks": ["ze", "bra"]
+    },
+    { "image": "images/animal/zoo.png", "word": "zoo", "chunks": ["zoo"] }
+  ],
+  "body": [
+    { "image": "images/face.png", "word": "face" },
+    { "image": "images/foot.png", "word": "foot" },
+    { "image": "images/hair.png", "word": "hair" },
+    { "image": "images/hand.png", "word": "hand" },
+    { "image": "images/mouth.png", "word": "mouth" },
+    { "image": "images/nose.png", "word": "nose" }
+  ],
+  "clothes": [
+    { "image": "images/trousers.jpg", "word": "trousers" },
+    { "image": "images/pants.png", "word": "pants" },
+    { "image": "images/jeans.png", "word": "jeans" },
+    { "image": "images/shirt.png", "word": "shirt" },
+    { "image": "images/jacket.png", "word": "jacket" },
+    { "image": "images/socks.png", "word": "socks" },
+    { "image": "images/cap.png", "word": "cap" },
+    { "image": "images/hat.jpg", "word": "hat" },
+    { "image": "images/handbag.png", "word": "handbag" },
+    { "image": "images/bag.png", "word": "bag" }
+  ],
+  "colour": [
+    { "image": "images/red.png", "word": "red" },
+    { "image": "images/yellow.png", "word": "yellow" },
+    { "image": "images/blue.png", "word": "blue" },
+    { "image": "images/purple.png", "word": "purple" },
+    { "image": "images/pink.png", "word": "pink" }
+  ],
+  "fruit": [
+    { "image": "images/apple.jpg", "word": "apple" },
+    { "image": "images/banana.jpg", "word": "banana" },
+    { "image": "images/lemon.jpg", "word": "lemon" },
+    { "image": "images/lime.jpg", "word": "lime" },
+    { "image": "images/mango.jpg", "word": "mango" },
+    { "image": "images/pear.jpg", "word": "pear" },
+    { "image": "images/watermelon.jpg", "word": "watermelon" },
+    { "image": "images/kiwi.jpg", "word": "kiwi" },
+    { "image": "images/tomato.jpg", "word": "tomato" },
+    { "image": "images/grape.jpg", "word": "grape" },
+    { "image": "images/pineapple.jpg", "word": "pineapple" }
+  ],
+  "food": [
+    { "image": "images/rice.jpg", "word": "rice" },
+    { "image": "images/milk.jpg", "word": "milk" },
+    { "image": "images/burger.jpg", "word": "burger" },
+    { "image": "images/chicken.jpg", "word": "chicken" },
+    { "image": "images/egg.jpg", "word": "egg" },
+    { "image": "images/bread.jpg", "word": "bread" },
+    { "image": "images/sausage.jpg", "word": "sausage" },
+    { "image": "images/cake.jpg", "word": "cake" },
+    { "image": "images/chips.jpg", "word": "chips" }
+  ],
+  "home": [
+    { "image": "images/lamp.jpg", "word": "lamp" },
+    { "image": "images/sofa.jpg", "word": "sofa" },
+    { "image": "images/clock.jpg", "word": "clock" },
+    { "image": "images/mirror.jpg", "word": "mirror" },
+    { "image": "images/computer.jpg", "word": "computer" },
+    { "image": "images/camera.jpg", "word": "camera" },
+    { "image": "images/telephone.jpg", "word": "telephone" },
+    { "image": "images/table.jpg", "word": "table" },
+    { "image": "images/house.jpg", "word": "house" },
+    { "image": "images/toy.jpg", "word": "toy" },
+    { "image": "images/doll.jpg", "word": "doll" },
+    { "image": "images/teddy bear.jpg", "word": "teddy bear" },
+    { "image": "images/skateboard.jpg", "word": "skateboard" },
+    { "image": "images/tennis ball.jpg", "word": "tennis ball" },
+    { "image": "images/kite.jpg", "word": "kite" },
+    { "image": "images/robot.jpg", "word": "robot" },
+    { "image": "images/chair.jpg", "word": "chair" },
+    { "image": "images/rug.jpg", "word": "rug" },
+    { "image": "images/mat.jpg", "word": "mat" },
+    { "image": "images/garden.jpg", "word": "garden" },
+    { "image": "images/flower.jpg", "word": "flower" },
+    { "image": "images/park.png", "word": "park" },
+    { "image": "images/tree.png", "word": "tree" },
+    { "image": "images/sea.png", "word": "sea" }
+  ],
+  "people": [
+    { "image": "images/man.jpg", "word": "man" },
+    { "image": "images/boy.jpg", "word": "boy" },
+    { "image": "images/woman.jpg", "word": "woman" },
+    { "image": "images/girl.jpg", "word": "girl" },
+    { "image": "images/dad.jpg", "word": "dad" },
+    { "image": "images/father.jpg", "word": "father" },
+    { "image": "images/mum.jpg", "word": "mum" },
+    { "image": "images/mother.jpg", "word": "mother" },
+    { "image": "images/son.jpg", "word": "son" },
+    { "image": "images/daughter.jpg", "word": "daughter" },
+    { "image": "images/brother.jpg", "word": "brother" },
+    { "image": "images/sister.jpg", "word": "sister" },
+    { "image": "images/baby.jpg", "word": "baby" },
+    { "image": "images/child.jpg", "word": "child" },
+    { "image": "images/children.jpg", "word": "children" }
+  ],
+  "transportation": [
+    { "image": "images/boat.png", "word": "boat" },
+    { "image": "images/bike.png", "word": "bike" },
+    { "image": "images/helicopter.jpg", "word": "helicopter" },
+    { "image": "images/train.jpg", "word": "train" },
+    { "image": "images/plane.jpg", "word": "plane" }
+  ],
+  "verb": [
+    { "image": "images/look.png", "word": "look" },
+    { "image": "images/eat.png", "word": "eat" },
+    { "image": "images/point.png", "word": "point" },
+    { "image": "images/fly.png", "word": "fly" }
+  ]
+}

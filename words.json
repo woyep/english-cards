@@ -1,0 +1,9 @@
+[
+  {
+    "id": "animal-bear",
+    "word": "bear",
+    "image": "images/animal/bear.png",
+    "chunks": ["bear"],
+    "category": "animal"
+  }
+]

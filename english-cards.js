@@ -3,21 +3,19 @@ let words = [];
 let currentIndex = 0;
 let currentMode = "read";
 
-// 初始化加载数据
-fetch("words-starters.json")
+fetch("words.json")
   .then((res) => res.json())
   .then((data) => {
     allWordSets = data;
-    loadWordSet("animal"); // 默认加载 animal
+    loadWordSet("animal");
   });
 
-// 加载某个类别，只加载图片
 function loadWordSet(category) {
-  if (allWordSets[category]) {
-    words = allWordSets[category];
+  words = allWordSets.filter((wordObj) => wordObj.category === category);
+  if (words.length > 0) {
     currentIndex = 0;
     clearFields();
-    loadImage(); // 只加载图片
+    loadImage();
   }
 }
 

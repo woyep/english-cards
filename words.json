@@ -220,7 +220,7 @@
     "word": "sheep",
     "level": "starters",
     "category": "animal",
-    "chunks": ["sh", "eep"],
+    "chunks": ["sh", "ee", "p"],
     "image": "images/animal/sheep.png"
   },
   {
@@ -270,5 +270,117 @@
     "category": "animal",
     "chunks": ["zoo"],
     "image": "images/animal/zoo.png"
+  },
+  {
+    "id": "body-face-arm",
+    "word": "arm",
+    "level": "starters",
+    "category": "body-face",
+    "chunks": ["arm"],
+    "image": "images/body-face/arm.png"
+  },
+  {
+    "id": "body-face-body",
+    "word": "body",
+    "level": "starters",
+    "category": "body-face",
+    "chunks": ["b", "o", "dy"],
+    "image": "images/body-face/body.png"
+  },
+  {
+    "id": "body-face-ear",
+    "word": "ear",
+    "level": "starters",
+    "category": "body-face",
+    "chunks": ["e", "ar"],
+    "image": "images/body-face/ear.png"
+  },
+  {
+    "id": "body-face-eye",
+    "word": "eye",
+    "level": "starters",
+    "category": "body-face",
+    "chunks": ["eye"],
+    "image": "images/body-face/eye.png"
+  },
+  {
+    "id": "body-face-face",
+    "word": "face",
+    "level": "starters",
+    "category": "body-face",
+    "chunks": ["f", "ace"],
+    "image": "images/body-face/face.png"
+  },
+  {
+    "id": "body-face-foot",
+    "word": "foot",
+    "level": "starters",
+    "category": "body-face",
+    "chunks": ["f", "oo", "t"],
+    "image": "images/body-face/foot.png"
+  },
+  {
+    "id": "body-face-feet",
+    "word": "feet",
+    "level": "starters",
+    "category": "body-face",
+    "chunks": ["f", "ee", "t"],
+    "image": "images/body-face/feet.png"
+  },
+  {
+    "id": "body-face-hair",
+    "word": "hair",
+    "level": "starters",
+    "category": "body-face",
+    "chunks": ["h", "ai", "r"],
+    "image": "images/body-face/hair.png"
+  },
+  {
+    "id": "body-face-hand",
+    "word": "hand",
+    "level": "starters",
+    "category": "body-face",
+    "chunks": ["h", "an", "d"],
+    "image": "images/body-face/hand.png"
+  },
+  {
+    "id": "body-face-head",
+    "word": "head",
+    "level": "starters",
+    "category": "body-face",
+    "chunks": ["h", "ea", "d"],
+    "image": "images/body-face/head.png"
+  },
+  {
+    "id": "body-face-leg",
+    "word": "leg",
+    "level": "starters",
+    "category": "body-face",
+    "chunks": ["l", "eg"],
+    "image": "images/body-face/leg.png"
+  },
+  {
+    "id": "body-face-mouth",
+    "word": "mouth",
+    "level": "starters",
+    "category": "body-face",
+    "chunks": ["m", "ou", "th"],
+    "image": "images/body-face/mouth.png"
+  },
+  {
+    "id": "body-face-nose",
+    "word": "nose",
+    "level": "starters",
+    "category": "body-face",
+    "chunks": ["n", "ose"],
+    "image": "images/body-face/nose.png"
+  },
+  {
+    "id": "body-face-smile",
+    "word": "smile",
+    "level": "starters",
+    "category": "body-face",
+    "chunks": ["sm", "ile"],
+    "image": "images/body-face/smile.png"
   }
 ]

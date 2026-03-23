@@ -1,9 +1,274 @@
 [
   {
+    "id": "animal-animal",
+    "word": "animal",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["a", "ni", "mal"],
+    "image": "images/animal/animal.png"
+  },
+  {
     "id": "animal-bear",
     "word": "bear",
-    "image": "images/animal/bear.png",
+    "level": "starters",
+    "category": "animal",
     "chunks": ["bear"],
-    "category": "animal"
+    "image": "images/animal/bear.png"
+  },
+  {
+    "id": "animal-bee",
+    "word": "bee",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["bee"],
+    "image": "images/animal/bee.png"
+  },
+  {
+    "id": "animal-bird",
+    "word": "bird",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["bird"],
+    "image": "images/animal/bird.png"
+  },
+  {
+    "id": "animal-cat",
+    "word": "cat",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["cat"],
+    "image": "images/animal/cat.png"
+  },
+  {
+    "id": "animal-chicken",
+    "word": "chicken",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["ch", "ick", "en"],
+    "image": "images/animal/chicken.png"
+  },
+  {
+    "id": "animal-cow",
+    "word": "cow",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["cow"],
+    "image": "images/animal/cow.png"
+  },
+  {
+    "id": "animal-crocodile",
+    "word": "crocodile",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["croc", "o", "dile"],
+    "image": "images/animal/crocodile.png"
+  },
+  {
+    "id": "animal-dog",
+    "word": "dog",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["dog"],
+    "image": "images/animal/dog.png"
+  },
+  {
+    "id": "animal-donkey",
+    "word": "donkey",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["don", "key"],
+    "image": "images/animal/donkey.png"
+  },
+  {
+    "id": "animal-duck",
+    "word": "duck",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["duck"],
+    "image": "images/animal/duck.png"
+  },
+  {
+    "id": "animal-elephant",
+    "word": "elephant",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["el", "e", "phant"],
+    "image": "images/animal/elephant.png"
+  },
+  {
+    "id": "animal-fish",
+    "word": "fish",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["fish"],
+    "image": "images/animal/fish.png"
+  },
+  {
+    "id": "animal-fish-plural",
+    "word": "fish",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["fish"],
+    "image": "images/animal/fish.png"
+  },
+  {
+    "id": "animal-frog",
+    "word": "frog",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["frog"],
+    "image": "images/animal/frog.png"
+  },
+  {
+    "id": "animal-giraffe",
+    "word": "giraffe",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["gi", "raffe"],
+    "image": "images/animal/giraffe.png"
+  },
+  {
+    "id": "animal-goat",
+    "word": "goat",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["goat"],
+    "image": "images/animal/goat.png"
+  },
+  {
+    "id": "animal-hippo",
+    "word": "hippo",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["hip", "po"],
+    "image": "images/animal/hippo.png"
+  },
+  {
+    "id": "animal-horse",
+    "word": "horse",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["horse"],
+    "image": "images/animal/horse.png"
+  },
+  {
+    "id": "animal-jellyfish",
+    "word": "jellyfish",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["jelly", "fish"],
+    "image": "images/animal/jellyfish.png"
+  },
+  {
+    "id": "animal-lizard",
+    "word": "lizard",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["li", "zard"],
+    "image": "images/animal/lizard.png"
+  },
+  {
+    "id": "animal-monkey",
+    "word": "monkey",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["mon", "key"],
+    "image": "images/animal/monkey.png"
+  },
+  {
+    "id": "animal-mouse",
+    "word": "mouse",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["m", "ou", "se"],
+    "image": "images/animal/mouse.png"
+  },
+  {
+    "id": "animal-mice",
+    "word": "mice",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["mice"],
+    "image": "images/animal/mice.png"
+  },
+  {
+    "id": "animal-pet",
+    "word": "pet",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["pet"],
+    "image": "images/animal/pet.png"
+  },
+  {
+    "id": "animal-polar-bear",
+    "word": "polar bear",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["polar", "bear"],
+    "image": "images/animal/polar-bear.png"
+  },
+  {
+    "id": "animal-sheep",
+    "word": "sheep",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["sh", "ee", "p"],
+    "image": "images/animal/sheep.png"
+  },
+  {
+    "id": "animal-sheep-plural",
+    "word": "sheep",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["sh", "eep"],
+    "image": "images/animal/sheep.png"
+  },
+  {
+    "id": "animal-snake",
+    "word": "snake",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["sn", "ake"],
+    "image": "images/animal/snake.png"
+  },
+  {
+    "id": "animal-spider",
+    "word": "spider",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["spi", "der"],
+    "image": "images/animal/spider.png"
+  },
+  {
+    "id": "animal-tail",
+    "word": "tail",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["tail"],
+    "image": "images/animal/tail.png"
+  },
+  {
+    "id": "animal-tiger",
+    "word": "tiger",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["ti", "ger"],
+    "image": "images/animal/tiger.png"
+  },
+  {
+    "id": "animal-zebra",
+    "word": "zebra",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["ze", "bra"],
+    "image": "images/animal/zebra.png"
+  },
+  {
+    "id": "animal-zoo",
+    "word": "zoo",
+    "level": "starters",
+    "category": "animal",
+    "chunks": ["zoo"],
+    "image": "images/animal/zoo.png"
   }
 ]

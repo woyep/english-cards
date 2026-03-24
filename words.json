@@ -534,5 +534,101 @@
     "category": "clothes",
     "chunks": ["w", "ear"],
     "image": "images/clothes/wear.png"
+  },
+  {
+    "id": "colors-black",
+    "word": "black",
+    "level": "starters",
+    "category": "colors",
+    "chunks": ["bl", "ack"],
+    "image": "images/colors/black.png"
+  },
+  {
+    "id": "colors-blue",
+    "word": "blue",
+    "level": "starters",
+    "category": "colors",
+    "chunks": ["bl", "ue"],
+    "image": "images/colors/blue.png"
+  },
+  {
+    "id": "colors-brown",
+    "word": "brown",
+    "level": "starters",
+    "category": "colors",
+    "chunks": ["br", "own"],
+    "image": "images/colors/brown.png"
+  },
+  {
+    "id": "colors-color",
+    "word": "color",
+    "level": "starters",
+    "category": "colors",
+    "chunks": ["col", "or"],
+    "image": "images/colors/color.png"
+  },
+  {
+    "id": "colors-gray",
+    "word": "gray",
+    "level": "starters",
+    "category": "colors",
+    "chunks": ["gr", "ay"],
+    "image": "images/colors/gray.png"
+  },
+  {
+    "id": "colors-green",
+    "word": "green",
+    "level": "starters",
+    "category": "colors",
+    "chunks": ["gr", "een"],
+    "image": "images/colors/green.png"
+  },
+  {
+    "id": "colors-orange",
+    "word": "orange",
+    "level": "starters",
+    "category": "colors",
+    "chunks": ["or", "ange"],
+    "image": "images/colors/orange.png"
+  },
+  {
+    "id": "colors-pink",
+    "word": "pink",
+    "level": "starters",
+    "category": "colors",
+    "chunks": ["pi", "nk"],
+    "image": "images/colors/pink.png"
+  },
+  {
+    "id": "colors-purple",
+    "word": "purple",
+    "level": "starters",
+    "category": "colors",
+    "chunks": ["pur", "ple"],
+    "image": "images/colors/purple.png"
+  },
+  {
+    "id": "colors-red",
+    "word": "red",
+    "level": "starters",
+    "category": "colors",
+    "chunks": ["r", "e", "d"],
+    "image": "images/colors/red.png"
+  },
+  {
+    "id": "colors-white",
+    "word": "white",
+    "level": "starters",
+    "category": "colors",
+    "chunks": ["wh", "ite"],
+    "image": "images/colors/white.png"
+  },
+  {
+    "id": "colors-yellow",
+    "word": "yellow",
+    "level": "starters",
+    "category": "colors",
+    "chunks": ["yel", "low"],
+    "image": "images/colors/yellow.png"
   }
 ]

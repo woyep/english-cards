@@ -517,7 +517,7 @@
     "level": "starters",
     "category": "clothes",
     "chunks": ["T", "-", "sh", "ir", "t"],
-    "image": "images/clothes/T-shirt.png"
+    "image": "images/clothes/t-shirt.png"
   },
   {
     "id": "clothes-watch",
@@ -536,99 +536,331 @@
     "image": "images/clothes/wear.png"
   },
   {
-    "id": "colors-black",
+    "id": "colours-black",
     "word": "black",
     "level": "starters",
-    "category": "colors",
+    "category": "colours",
     "chunks": ["bl", "ack"],
-    "image": "images/colors/black.png"
+    "image": "images/colours/black.png"
   },
   {
-    "id": "colors-blue",
+    "id": "colours-blue",
     "word": "blue",
     "level": "starters",
-    "category": "colors",
+    "category": "colours",
     "chunks": ["bl", "ue"],
-    "image": "images/colors/blue.png"
+    "image": "images/colours/blue.png"
   },
   {
-    "id": "colors-brown",
+    "id": "colours-brown",
     "word": "brown",
     "level": "starters",
-    "category": "colors",
+    "category": "colours",
     "chunks": ["br", "own"],
-    "image": "images/colors/brown.png"
+    "image": "images/colours/brown.png"
   },
   {
-    "id": "colors-color",
-    "word": "color",
+    "id": "colours-colour",
+    "word": "colour",
     "level": "starters",
-    "category": "colors",
-    "chunks": ["col", "or"],
-    "image": "images/colors/color.png"
+    "category": "colours",
+    "chunks": ["col", "our"],
+    "image": "images/colours/colour.png"
   },
   {
-    "id": "colors-gray",
-    "word": "gray",
+    "id": "colours-grey",
+    "word": "grey",
     "level": "starters",
-    "category": "colors",
-    "chunks": ["gr", "ay"],
-    "image": "images/colors/gray.png"
+    "category": "colours",
+    "chunks": ["gr", "ey"],
+    "image": "images/colours/grey.png"
   },
   {
-    "id": "colors-green",
+    "id": "colours-green",
     "word": "green",
     "level": "starters",
-    "category": "colors",
+    "category": "colours",
     "chunks": ["gr", "een"],
-    "image": "images/colors/green.png"
+    "image": "images/colours/green.png"
   },
   {
-    "id": "colors-orange",
+    "id": "colours-orange",
     "word": "orange",
     "level": "starters",
-    "category": "colors",
+    "category": "colours",
     "chunks": ["or", "ange"],
-    "image": "images/colors/orange.png"
+    "image": "images/colours/orange.png"
   },
   {
-    "id": "colors-pink",
+    "id": "colours-pink",
     "word": "pink",
     "level": "starters",
-    "category": "colors",
+    "category": "colours",
     "chunks": ["pi", "nk"],
-    "image": "images/colors/pink.png"
+    "image": "images/colours/pink.png"
   },
   {
-    "id": "colors-purple",
+    "id": "colours-purple",
     "word": "purple",
     "level": "starters",
-    "category": "colors",
+    "category": "colours",
     "chunks": ["pur", "ple"],
-    "image": "images/colors/purple.png"
+    "image": "images/colours/purple.png"
   },
   {
-    "id": "colors-red",
+    "id": "colours-red",
     "word": "red",
     "level": "starters",
-    "category": "colors",
+    "category": "colours",
     "chunks": ["r", "e", "d"],
-    "image": "images/colors/red.png"
+    "image": "images/colours/red.png"
   },
   {
-    "id": "colors-white",
+    "id": "colours-white",
     "word": "white",
     "level": "starters",
-    "category": "colors",
+    "category": "colours",
     "chunks": ["wh", "ite"],
-    "image": "images/colors/white.png"
+    "image": "images/colours/white.png"
   },
   {
-    "id": "colors-yellow",
+    "id": "colours-yellow",
     "word": "yellow",
     "level": "starters",
-    "category": "colors",
+    "category": "colours",
     "chunks": ["yel", "low"],
-    "image": "images/colors/yellow.png"
+    "image": "images/colours/yellow.png"
+  },
+  {
+    "id": "family-friends-baby",
+    "word": "baby",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["ba", "by"],
+    "image": "images/family-friends/baby.png"
+  },
+  {
+    "id": "family-friends-boy",
+    "word": "boy",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["b", "o", "y"],
+    "image": "images/family-friends/boy.png"
+  },
+  {
+    "id": "family-friends-brother",
+    "word": "brother",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["bro", "ther"],
+    "image": "images/family-friends/brother.png"
+  },
+  {
+    "id": "family-friends-child",
+    "word": "child",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["ch", "i", "ld"],
+    "image": "images/family-friends/child.png"
+  },
+  {
+    "id": "family-friends-children",
+    "word": "children",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["child", "ren"],
+    "image": "images/family-friends/children.png"
+  },
+  {
+    "id": "family-friends-classmate",
+    "word": "classmate",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["class", "mate"],
+    "image": "images/family-friends/classmate.png"
+  },
+  {
+    "id": "family-friends-cousin",
+    "word": "cousin",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["cou", "sin"],
+    "image": "images/family-friends/cousin.png"
+  },
+  {
+    "id": "family-friends-dad",
+    "word": "dad",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["d", "a", "d"],
+    "image": "images/family-friends/dad.png"
+  },
+  {
+    "id": "family-friends-family",
+    "word": "family",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["fa", "mi", "ly"],
+    "image": "images/family-friends/family.png"
+  },
+  {
+    "id": "family-friends-father",
+    "word": "father",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["fa", "ther"],
+    "image": "images/family-friends/father.png"
+  },
+  {
+    "id": "family-friends-friend",
+    "word": "friend",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["fri", "end"],
+    "image": "images/family-friends/friend.png"
+  },
+  {
+    "id": "family-friends-girl",
+    "word": "girl",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["gi", "rl"],
+    "image": "images/family-friends/girl.png"
+  },
+  {
+    "id": "family-friends-grandfather",
+    "word": "grandfather",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["grand", "father"],
+    "image": "images/family-friends/grandfather.png"
+  },
+  {
+    "id": "family-friends-grandma",
+    "word": "grandma",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["grand", "ma"],
+    "image": "images/family-friends/grandma.png"
+  },
+  {
+    "id": "family-friends-grandmother",
+    "word": "grandmother",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["grand", "mother"],
+    "image": "images/family-friends/grandmother.png"
+  },
+  {
+    "id": "family-friends-grandpa",
+    "word": "grandpa",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["grand", "pa"],
+    "image": "images/family-friends/grandpa.png"
+  },
+  {
+    "id": "family-friends-kids",
+    "word": "kids",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["kid", "s"],
+    "image": "images/family-friends/kids.png"
+  },
+  {
+    "id": "family-friends-live",
+    "word": "live",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["l", "i", "v", "e"],
+    "image": "images/family-friends/live.png"
+  },
+  {
+    "id": "family-friends-man",
+    "word": "man",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["m", "a", "n"],
+    "image": "images/family-friends/man.png"
+  },
+  {
+    "id": "family-friends-men",
+    "word": "men",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["m", "e", "n"],
+    "image": "images/family-friends/men.png"
+  },
+  {
+    "id": "family-friends-mother",
+    "word": "mother",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["mo", "ther"],
+    "image": "images/family-friends/mother.png"
+  },
+  {
+    "id": "family-friends-mum",
+    "word": "mum",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["m", "u", "m"],
+    "image": "images/family-friends/mum.png"
+  },
+  {
+    "id": "family-friends-old",
+    "word": "old",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["o", "l", "d"],
+    "image": "images/family-friends/old.png"
+  },
+  {
+    "id": "family-friends-person",
+    "word": "person",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["per", "son"],
+    "image": "images/family-friends/person.png"
+  },
+  {
+    "id": "family-friends-people",
+    "word": "people",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["peo", "ple"],
+    "image": "images/family-friends/people.png"
+  },
+  {
+    "id": "family-friends-sister",
+    "word": "sister",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["sis", "ter"],
+    "image": "images/family-friends/sister.png"
+  },
+  {
+    "id": "family-friends-woman",
+    "word": "woman",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["wo", "man"],
+    "image": "images/family-friends/woman.png"
+  },
+  {
+    "id": "family-friends-women",
+    "word": "women",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["wo", "men"],
+    "image": "images/family-friends/women.png"
+  },
+  {
+    "id": "family-friends-young",
+    "word": "young",
+    "level": "starters",
+    "category": "family-friends",
+    "chunks": ["y", "o", "u", "n", "g"],
+    "image": "images/family-friends/young.png"
   }
 ]

@@ -382,5 +382,157 @@
     "category": "body-face",
     "chunks": ["sm", "ile"],
     "image": "images/body-face/smile.png"
+  },
+  {
+    "id": "clothes-bag",
+    "word": "bag",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["b", "ag"],
+    "image": "images/clothes/bag.png"
+  },
+  {
+    "id": "clothes-baseball-cap",
+    "word": "baseball cap",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["base", "ball", "cap"],
+    "image": "images/clothes/baseball-cap.png"
+  },
+  {
+    "id": "clothes-boots",
+    "word": "boots",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["b", "oo", "ts"],
+    "image": "images/clothes/boots.png"
+  },
+  {
+    "id": "clothes-clothes",
+    "word": "clothes",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["clo", "thes"],
+    "image": "images/clothes/clothes.png"
+  },
+  {
+    "id": "clothes-dress",
+    "word": "dress",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["dr", "ess"],
+    "image": "images/clothes/dress.png"
+  },
+  {
+    "id": "clothes-glasses",
+    "word": "glasses",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["gl", "ass", "es"],
+    "image": "images/clothes/glasses.png"
+  },
+  {
+    "id": "clothes-handbag",
+    "word": "handbag",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["hand", "bag"],
+    "image": "images/clothes/handbag.png"
+  },
+  {
+    "id": "clothes-hat",
+    "word": "hat",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["h", "at"],
+    "image": "images/clothes/hat.png"
+  },
+  {
+    "id": "clothes-jacket",
+    "word": "jacket",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["jack", "et"],
+    "image": "images/clothes/jacket.png"
+  },
+  {
+    "id": "clothes-jeans",
+    "word": "jeans",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["j", "ea", "ns"],
+    "image": "images/clothes/jeans.png"
+  },
+  {
+    "id": "clothes-shirt",
+    "word": "shirt",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["sh", "ir", "t"],
+    "image": "images/clothes/shirt.png"
+  },
+  {
+    "id": "clothes-shoes",
+    "word": "shoes",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["sh", "oe", "s"],
+    "image": "images/clothes/shoes.png"
+  },
+  {
+    "id": "clothes-shorts",
+    "word": "shorts",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["sh", "or", "ts"],
+    "image": "images/clothes/shorts.png"
+  },
+  {
+    "id": "clothes-skirt",
+    "word": "skirt",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["sk", "ir", "t"],
+    "image": "images/clothes/skirt.png"
+  },
+  {
+    "id": "clothes-sock",
+    "word": "sock",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["s", "ock"],
+    "image": "images/clothes/sock.png"
+  },
+  {
+    "id": "clothes-trousers",
+    "word": "trousers",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["tr", "ou", "ser", "s"],
+    "image": "images/clothes/trousers.png"
+  },
+  {
+    "id": "clothes-t-shirt",
+    "word": "T-shirt",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["T", "-", "sh", "ir", "t"],
+    "image": "images/clothes/T-shirt.png"
+  },
+  {
+    "id": "clothes-watch",
+    "word": "watch",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["wa", "tch"],
+    "image": "images/clothes/watch.png"
+  },
+  {
+    "id": "clothes-wear",
+    "word": "wear",
+    "level": "starters",
+    "category": "clothes",
+    "chunks": ["w", "ear"],
+    "image": "images/clothes/wear.png"
   }
 ]

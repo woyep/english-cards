@@ -1576,11 +1576,163 @@
     "image": "images/it/tablet.png"
   },
   {
-    "id": "numbers-one",
+    "id": "number-one",
     "word": "one",
     "level": "starters",
-    "category": "numbers",
+    "category": "number",
     "chunks": ["o", "n", "e"],
-    "image": "images/numbers/one.png"
+    "image": "images/number/one.png"
+  },
+  {
+    "id": "number-two",
+    "word": "two",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["t", "w", "o"],
+    "image": "images/number/two.png"
+  },
+  {
+    "id": "number-three",
+    "word": "three",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["th", "r", "ee"],
+    "image": "images/number/three.png"
+  },
+  {
+    "id": "number-four",
+    "word": "four",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["f", "ou", "r"],
+    "image": "images/number/four.png"
+  },
+  {
+    "id": "number-five",
+    "word": "five",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["f", "ive"],
+    "image": "images/number/five.png"
+  },
+  {
+    "id": "number-six",
+    "word": "six",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["s", "i", "x"],
+    "image": "images/number/six.png"
+  },
+  {
+    "id": "number-seven",
+    "word": "seven",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["s", "ev", "en"],
+    "image": "images/number/seven.png"
+  },
+  {
+    "id": "number-eight",
+    "word": "eight",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["ei", "ght"],
+    "image": "images/number/eight.png"
+  },
+  {
+    "id": "number-nine",
+    "word": "nine",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["n", "ine"],
+    "image": "images/number/nine.png"
+  },
+  {
+    "id": "number-ten",
+    "word": "ten",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["t", "e", "n"],
+    "image": "images/number/ten.png"
+  },
+  {
+    "id": "number-eleven",
+    "word": "eleven",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["el", "e", "ven"],
+    "image": "images/number/eleven.png"
+  },
+  {
+    "id": "number-twelve",
+    "word": "twelve",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["tw", "el", "ve"],
+    "image": "images/number/twelve.png"
+  },
+  {
+    "id": "number-thirteen",
+    "word": "thirteen",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["th", "ir", "teen"],
+    "image": "images/number/thirteen.png"
+  },
+  {
+    "id": "number-fourteen",
+    "word": "fourteen",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["fo", "ur", "teen"],
+    "image": "images/number/fourteen.png"
+  },
+  {
+    "id": "number-fifteen",
+    "word": "fifteen",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["fif", "teen"],
+    "image": "images/number/fifteen.png"
+  },
+  {
+    "id": "number-sixteen",
+    "word": "sixteen",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["six", "teen"],
+    "image": "images/number/sixteen.png"
+  },
+  {
+    "id": "number-seventeen",
+    "word": "seventeen",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["seven", "teen"],
+    "image": "images/number/seventeen.png"
+  },
+  {
+    "id": "number-eighteen",
+    "word": "eighteen",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["eigh", "teen"],
+    "image": "images/number/eighteen.png"
+  },
+  {
+    "id": "number-nineteen",
+    "word": "nineteen",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["nine", "teen"],
+    "image": "images/number/nineteen.png"
+  },
+  {
+    "id": "number-twenty",
+    "word": "twenty",
+    "level": "starters",
+    "category": "number",
+    "chunks": ["tw", "en", "ty"],
+    "image": "images/number/twenty.png"
   }
 ]

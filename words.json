@@ -1222,5 +1222,349 @@
     "category": "food-drink",
     "chunks": ["wa", "ter", "me", "lon"],
     "image": "images/food-drink/watermelon.png"
+  },
+  {
+    "id": "home-apartment",
+    "word": "apartment",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["a", "part", "ment"],
+    "image": "images/home/apartment.png"
+  },
+  {
+    "id": "home-armchair",
+    "word": "armchair",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["arm", "chair"],
+    "image": "images/home/armchair.png"
+  },
+  {
+    "id": "home-bath",
+    "word": "bath",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["b", "a", "th"],
+    "image": "images/home/bath.png"
+  },
+  {
+    "id": "home-bathroom",
+    "word": "bathroom",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["bath", "room"],
+    "image": "images/home/bathroom.png"
+  },
+  {
+    "id": "home-bed",
+    "word": "bed",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["b", "e", "d"],
+    "image": "images/home/bed.png"
+  },
+  {
+    "id": "home-bedroom",
+    "word": "bedroom",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["bed", "room"],
+    "image": "images/home/bedroom.png"
+  },
+  {
+    "id": "home-bookcase",
+    "word": "bookcase",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["book", "case"],
+    "image": "images/home/bookcase.png"
+  },
+  {
+    "id": "home-box",
+    "word": "box",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["b", "o", "x"],
+    "image": "images/home/box.png"
+  },
+  {
+    "id": "home-camera",
+    "word": "camera",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["ca", "me", "ra"],
+    "image": "images/home/camera.png"
+  },
+  {
+    "id": "home-chair",
+    "word": "chair",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["ch", "air"],
+    "image": "images/home/chair.png"
+  },
+  {
+    "id": "home-clock",
+    "word": "clock",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["cl", "ock"],
+    "image": "images/home/clock.png"
+  },
+  {
+    "id": "home-computer",
+    "word": "computer",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["com", "pu", "ter"],
+    "image": "images/home/computer.png"
+  },
+  {
+    "id": "home-cupboard",
+    "word": "cupboard",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["cup", "board"],
+    "image": "images/home/cupboard.png"
+  },
+  {
+    "id": "home-desk",
+    "word": "desk",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["d", "e", "sk"],
+    "image": "images/home/desk.png"
+  },
+  {
+    "id": "home-dining-room",
+    "word": "dining room",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["dining", "room"],
+    "image": "images/home/dining-room.png"
+  },
+  {
+    "id": "home-doll",
+    "word": "doll",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["d", "o", "ll"],
+    "image": "images/home/doll.png"
+  },
+  {
+    "id": "home-door",
+    "word": "door",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["d", "oo", "r"],
+    "image": "images/home/door.png"
+  },
+  {
+    "id": "home-flat",
+    "word": "flat",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["fl", "at"],
+    "image": "images/home/flat.png"
+  },
+  {
+    "id": "home-flower",
+    "word": "flower",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["fl", "ow", "er"],
+    "image": "images/home/flower.png"
+  },
+  {
+    "id": "home-garden",
+    "word": "garden",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["g", "ar", "den"],
+    "image": "images/home/garden.png"
+  },
+  {
+    "id": "home-hall",
+    "word": "hall",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["h", "all"],
+    "image": "images/home/hall.png"
+  },
+  {
+    "id": "home-home",
+    "word": "home",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["h", "ome"],
+    "image": "images/home/home.png"
+  },
+  {
+    "id": "home-house",
+    "word": "house",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["h", "ou", "se"],
+    "image": "images/home/house.png"
+  },
+  {
+    "id": "home-kitchen",
+    "word": "kitchen",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["kit", "chen"],
+    "image": "images/home/kitchen.png"
+  },
+  {
+    "id": "home-lamp",
+    "word": "lamp",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["l", "a", "mp"],
+    "image": "images/home/lamp.png"
+  },
+  {
+    "id": "home-living-room",
+    "word": "living room",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["living", "room"],
+    "image": "images/home/living-room.png"
+  },
+  {
+    "id": "home-mat",
+    "word": "mat",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["m", "a", "t"],
+    "image": "images/home/mat.png"
+  },
+  {
+    "id": "home-mirror",
+    "word": "mirror",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["mir", "ror"],
+    "image": "images/home/mirror.png"
+  },
+  {
+    "id": "home-painting",
+    "word": "painting",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["paint", "ing"],
+    "image": "images/home/painting.png"
+  },
+  {
+    "id": "home-phone",
+    "word": "phone",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["ph", "o", "ne"],
+    "image": "images/home/phone.png"
+  },
+  {
+    "id": "home-picture",
+    "word": "picture",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["pic", "ture"],
+    "image": "images/home/picture.png"
+  },
+  {
+    "id": "home-radio",
+    "word": "radio",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["ra", "dio"],
+    "image": "images/home/radio.png"
+  },
+  {
+    "id": "home-room",
+    "word": "room",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["r", "oo", "m"],
+    "image": "images/home/room.png"
+  },
+  {
+    "id": "home-rug",
+    "word": "rug",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["r", "u", "g"],
+    "image": "images/home/rug.png"
+  },
+  {
+    "id": "home-sleep",
+    "word": "sleep",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["sl", "ee", "p"],
+    "image": "images/home/sleep.png"
+  },
+  {
+    "id": "home-sofa",
+    "word": "sofa",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["s", "o", "fa"],
+    "image": "images/home/sofa.png"
+  },
+  {
+    "id": "home-table",
+    "word": "table",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["t", "able"],
+    "image": "images/home/table.png"
+  },
+  {
+    "id": "home-tv",
+    "word": "TV",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["t", "v"],
+    "image": "images/home/tv.png"
+  },
+  {
+    "id": "home-toy",
+    "word": "toy",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["t", "o", "y"],
+    "image": "images/home/toy.png"
+  },
+  {
+    "id": "home-tree",
+    "word": "tree",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["t", "r", "ee"],
+    "image": "images/home/tree.png"
+  },
+  {
+    "id": "home-wall",
+    "word": "wall",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["w", "all"],
+    "image": "images/home/wall.png"
+  },
+  {
+    "id": "home-watch",
+    "word": "watch",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["wa", "tch"],
+    "image": "images/home/watch.png"
+  },
+  {
+    "id": "home-window",
+    "word": "window",
+    "level": "starters",
+    "category": "home",
+    "chunks": ["w", "in", "dow"],
+    "image": "images/home/window.png"
   }
 ]

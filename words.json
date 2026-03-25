@@ -862,5 +862,365 @@
     "category": "family-friends",
     "chunks": ["y", "o", "u", "n", "g"],
     "image": "images/family-friends/young.png"
+  },
+  {
+    "id": "food-drink-apple",
+    "word": "apple",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["a", "p", "p", "le"],
+    "image": "images/food-drink/apple.png"
+  },
+  {
+    "id": "food-drink-banana",
+    "word": "banana",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["b", "a", "na", "na"],
+    "image": "images/food-drink/banana.png"
+  },
+  {
+    "id": "food-drink-bean",
+    "word": "bean",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["b", "ea", "n"],
+    "image": "images/food-drink/bean.png"
+  },
+  {
+    "id": "food-drink-bread",
+    "word": "bread",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["br", "ea", "d"],
+    "image": "images/food-drink/bread.png"
+  },
+  {
+    "id": "food-drink-breakfast",
+    "word": "breakfast",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["br", "eak", "fa", "st"],
+    "image": "images/food-drink/breakfast.png"
+  },
+  {
+    "id": "food-drink-burger",
+    "word": "burger",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["bur", "ger"],
+    "image": "images/food-drink/burger.png"
+  },
+  {
+    "id": "food-drink-cake",
+    "word": "cake",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["c", "ake"],
+    "image": "images/food-drink/cake.png"
+  },
+  {
+    "id": "food-drink-candy",
+    "word": "candy",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["c", "an", "dy"],
+    "image": "images/food-drink/candy.png"
+  },
+  {
+    "id": "food-drink-carrot",
+    "word": "carrot",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["ca", "r", "rot"],
+    "image": "images/food-drink/carrot.png"
+  },
+  {
+    "id": "food-drink-chicken",
+    "word": "chicken",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["ch", "ic", "ken"],
+    "image": "images/food-drink/chicken.png"
+  },
+  {
+    "id": "food-drink-chips",
+    "word": "chips",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["ch", "i", "ps"],
+    "image": "images/food-drink/chips.png"
+  },
+  {
+    "id": "food-drink-chocolate",
+    "word": "chocolate",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["ch", "o", "co", "la", "te"],
+    "image": "images/food-drink/chocolate.png"
+  },
+  {
+    "id": "food-drink-coconut",
+    "word": "coconut",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["co", "co", "nut"],
+    "image": "images/food-drink/coconut.png"
+  },
+  {
+    "id": "food-drink-dinner",
+    "word": "dinner",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["d", "in", "ner"],
+    "image": "images/food-drink/dinner.png"
+  },
+  {
+    "id": "food-drink-drink",
+    "word": "drink",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["dr", "in", "k"],
+    "image": "images/food-drink/drink.png"
+  },
+  {
+    "id": "food-drink-eat",
+    "word": "eat",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["e", "a", "t"],
+    "image": "images/food-drink/eat.png"
+  },
+  {
+    "id": "food-drink-egg",
+    "word": "egg",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["e", "g", "g"],
+    "image": "images/food-drink/egg.png"
+  },
+  {
+    "id": "food-drink-fish",
+    "word": "fish",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["f", "i", "sh"],
+    "image": "images/food-drink/fish.png"
+  },
+  {
+    "id": "food-drink-food",
+    "word": "food",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["f", "oo", "d"],
+    "image": "images/food-drink/food.png"
+  },
+  {
+    "id": "food-drink-fries",
+    "word": "fries",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["f", "ri", "es"],
+    "image": "images/food-drink/fries.png"
+  },
+  {
+    "id": "food-drink-fruit",
+    "word": "fruit",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["f", "ru", "it"],
+    "image": "images/food-drink/fruit.png"
+  },
+  {
+    "id": "food-drink-grapes",
+    "word": "grapes",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["g", "ra", "pe", "s"],
+    "image": "images/food-drink/grapes.png"
+  },
+  {
+    "id": "food-drink-ice-cream",
+    "word": "ice cream",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["i", "ce", "c", "re", "am"],
+    "image": "images/food-drink/ice-cream.png"
+  },
+  {
+    "id": "food-drink-juice",
+    "word": "juice",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["j", "u", "i", "ce"],
+    "image": "images/food-drink/juice.png"
+  },
+  {
+    "id": "food-drink-kiwi",
+    "word": "kiwi",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["ki", "wi"],
+    "image": "images/food-drink/kiwi.png"
+  },
+  {
+    "id": "food-drink-lemon",
+    "word": "lemon",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["le", "mon"],
+    "image": "images/food-drink/lemon.png"
+  },
+  {
+    "id": "food-drink-lemonade",
+    "word": "lemonade",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["le", "mo", "na", "de"],
+    "image": "images/food-drink/lemonade.png"
+  },
+  {
+    "id": "food-drink-lime",
+    "word": "lime",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["li", "me"],
+    "image": "images/food-drink/lime.png"
+  },
+  {
+    "id": "food-drink-lunch",
+    "word": "lunch",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["l", "un", "ch"],
+    "image": "images/food-drink/lunch.png"
+  },
+  {
+    "id": "food-drink-mango",
+    "word": "mango",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["m", "an", "go"],
+    "image": "images/food-drink/mango.png"
+  },
+  {
+    "id": "food-drink-meat",
+    "word": "meat",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["m", "ea", "t"],
+    "image": "images/food-drink/meat.png"
+  },
+  {
+    "id": "food-drink-meatballs",
+    "word": "meatballs",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["m", "ea", "t", "ba", "lls"],
+    "image": "images/food-drink/meatballs.png"
+  },
+  {
+    "id": "food-drink-milk",
+    "word": "milk",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["m", "il", "k"],
+    "image": "images/food-drink/milk.png"
+  },
+  {
+    "id": "food-drink-onion",
+    "word": "onion",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["o", "ni", "on"],
+    "image": "images/food-drink/onion.png"
+  },
+  {
+    "id": "food-drink-orange",
+    "word": "orange",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["or", "an", "ge"],
+    "image": "images/food-drink/orange.png"
+  },
+  {
+    "id": "food-drink-pear",
+    "word": "pear",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["p", "ea", "r"],
+    "image": "images/food-drink/pear.png"
+  },
+  {
+    "id": "food-drink-pie",
+    "word": "pie",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["p", "ie"],
+    "image": "images/food-drink/pie.png"
+  },
+  {
+    "id": "food-drink-pineapple",
+    "word": "pineapple",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["p", "ine", "apple"],
+    "image": "images/food-drink/pineapple.png"
+  },
+  {
+    "id": "food-drink-potato",
+    "word": "potato",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["po", "ta", "to"],
+    "image": "images/food-drink/potato.png"
+  },
+  {
+    "id": "food-drink-rice",
+    "word": "rice",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["r", "ice"],
+    "image": "images/food-drink/rice.png"
+  },
+  {
+    "id": "food-drink-sausage",
+    "word": "sausage",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["s", "au", "s", "age"],
+    "image": "images/food-drink/sausage.png"
+  },
+  {
+    "id": "food-drink-sweet",
+    "word": "sweet",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["sw", "ee", "t"],
+    "image": "images/food-drink/sweet.png"
+  },
+  {
+    "id": "food-drink-tomato",
+    "word": "tomato",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["to", "ma", "to"],
+    "image": "images/food-drink/tomato.png"
+  },
+  {
+    "id": "food-drink-water",
+    "word": "water",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["wa", "ter"],
+    "image": "images/food-drink/water.png"
+  },
+  {
+    "id": "food-drink-watermelon",
+    "word": "watermelon",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["wa", "ter", "me", "lon"],
+    "image": "images/food-drink/watermelon.png"
   }
 ]

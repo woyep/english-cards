@@ -109,7 +109,7 @@
     "level": "starters",
     "category": "animal",
     "chunks": ["fish"],
-    "image": "images/animal/fish.png"
+    "image": "images/animal/fish-pl.png"
   },
   {
     "id": "animal-frog",
@@ -221,7 +221,7 @@
     "level": "starters",
     "category": "animal",
     "chunks": ["sh", "ee", "p"],
-    "image": "images/animal/sheep.png"
+    "image": "images/animal/sheep-pl.png"
   },
   {
     "id": "animal-snake",

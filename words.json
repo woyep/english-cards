@@ -1566,5 +1566,13 @@
     "category": "home",
     "chunks": ["w", "in", "dow"],
     "image": "images/home/window.png"
+  },
+  {
+    "id": "it-tablet",
+    "word": "tablet",
+    "level": "starters",
+    "category": "it",
+    "chunks": ["tab", "let"],
+    "image": "images/it/tablet.png"
   }
 ]

@@ -1734,5 +1734,141 @@
     "category": "number",
     "chunks": ["tw", "en", "ty"],
     "image": "images/number/twenty.png"
+  },
+  {
+    "id": "place-direction-behind",
+    "word": "behind",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["be", "h", "in", "d"],
+    "image": "images/place-direction/behind.png"
+  },
+  {
+    "id": "place-direction-between",
+    "word": "between",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["be", "tw", "ee", "n"],
+    "image": "images/place-direction/between.png"
+  },
+  {
+    "id": "place-direction-in",
+    "word": "in",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["i", "n"],
+    "image": "images/place-direction/in.png"
+  },
+  {
+    "id": "place-direction-in-front-of",
+    "word": "in front of",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["in", "front", "of"],
+    "image": "images/place-direction/in-front-of.png"
+  },
+  {
+    "id": "place-direction-next-to",
+    "word": "next to",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["next", "to"],
+    "image": "images/place-direction/next-to.png"
+  },
+  {
+    "id": "place-direction-on",
+    "word": "on",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["o", "n"],
+    "image": "images/place-direction/on.png"
+  },
+  {
+    "id": "place-direction-under",
+    "word": "under",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["un", "der"],
+    "image": "images/place-direction/under.png"
+  },
+  {
+    "id": "place-direction-here",
+    "word": "here",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["h", "ere"],
+    "image": "images/place-direction/here.png"
+  },
+  {
+    "id": "place-direction-there",
+    "word": "there",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["th", "ere"],
+    "image": "images/place-direction/there.png"
+  },
+  {
+    "id": "place-direction-bookshop",
+    "word": "bookshop",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["book", "shop"],
+    "image": "images/place-direction/bookshop.png"
+  },
+  {
+    "id": "place-direction-bookshop",
+    "word": "bookstore",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["book", "store"],
+    "image": "images/place-direction/bookstore.png"
+  },
+  {
+    "id": "place-direction-end",
+    "word": "end",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["e", "n", "d"],
+    "image": "images/place-direction/end.png"
+  },
+  {
+    "id": "place-direction-park",
+    "word": "park",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["p", "ark"],
+    "image": "images/place-direction/park.png"
+  },
+  {
+    "id": "place-direction-playground",
+    "word": "playground",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["play", "ground"],
+    "image": "images/place-direction/playground.png"
+  },
+  {
+    "id": "place-direction-shop",
+    "word": "shop",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["sh", "op"],
+    "image": "images/place-direction/shop.png"
+  },
+  {
+    "id": "place-direction-store",
+    "word": "store",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["st", "ore"],
+    "image": "images/place-direction/store.png"
+  },
+  {
+    "id": "place-direction-street",
+    "word": "street",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["st", "reet"],
+    "image": "images/place-direction/street.png"
   }
 ]

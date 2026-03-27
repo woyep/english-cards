@@ -1870,5 +1870,421 @@
     "category": "place-direction",
     "chunks": ["st", "reet"],
     "image": "images/place-direction/street.png"
+  },
+  {
+    "id": "school-alphabet",
+    "word": "alphabet",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["al", "pha", "bet"],
+    "image": "images/school/alphabet.png"
+  },
+  {
+    "id": "school-answer",
+    "word": "answer",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["an", "sw", "er"],
+    "image": "images/school/answer.png"
+  },
+  {
+    "id": "school-ask",
+    "word": "ask",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["a", "s", "k"],
+    "image": "images/school/ask.png"
+  },
+  {
+    "id": "school-board",
+    "word": "board",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["bo", "ard"],
+    "image": "images/school/board.png"
+  },
+  {
+    "id": "school-book",
+    "word": "book",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["b", "oo", "k"],
+    "image": "images/school/book.png"
+  },
+  {
+    "id": "school-bookcase",
+    "word": "bookcase",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["book", "case"],
+    "image": "images/school/bookcase.png"
+  },
+  {
+    "id": "school-class",
+    "word": "class",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["cl", "ass"],
+    "image": "images/school/class.png"
+  },
+  {
+    "id": "school-classroom",
+    "word": "classroom",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["class", "room"],
+    "image": "images/school/classroom.png"
+  },
+  {
+    "id": "school-close",
+    "word": "close",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["c", "lo", "se"],
+    "image": "images/school/close.png"
+  },
+  {
+    "id": "school-correct",
+    "word": "correct",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["c", "or", "rect"],
+    "image": "images/school/correct.png"
+  },
+  {
+    "id": "school-crayons",
+    "word": "crayons",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["c", "ra", "yons"],
+    "image": "images/school/crayons.png"
+  },
+  {
+    "id": "school-cross",
+    "word": "cross",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["c", "ro", "ss"],
+    "image": "images/school/cross.png"
+  },
+  {
+    "id": "school-cupboard",
+    "word": "cupboard",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["cup", "board"],
+    "image": "images/school/cupboard.png"
+  },
+  {
+    "id": "school-draw",
+    "word": "draw",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["dr", "aw"],
+    "image": "images/school/draw.png"
+  },
+  {
+    "id": "school-English",
+    "word": "English",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["Eng", "lish"],
+    "image": "images/school/English.png"
+  },
+  {
+    "id": "school-eraser",
+    "word": "eraser",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["e", "ra", "ser"],
+    "image": "images/school/eraser.png"
+  },
+  {
+    "id": "school-example",
+    "word": "example",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["ex", "am", "ple"],
+    "image": "images/school/example.png"
+  },
+  {
+    "id": "school-find",
+    "word": "find",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["fi", "nd"],
+    "image": "images/school/find.png"
+  },
+  {
+    "id": "school-floor",
+    "word": "floor",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["fl", "oor"],
+    "image": "images/school/floor.png"
+  },
+  {
+    "id": "school-know",
+    "word": "know",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["k", "no", "w"],
+    "image": "images/school/know.png"
+  },
+  {
+    "id": "school-learn",
+    "word": "learn",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["le", "arn"],
+    "image": "images/school/learn.png"
+  },
+  {
+    "id": "school-lesson",
+    "word": "lesson",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["le", "sson"],
+    "image": "images/school/lesson.png"
+  },
+  {
+    "id": "school-letter",
+    "word": "letter",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["le", "tter"],
+    "image": "images/school/letter.png"
+  },
+  {
+    "id": "school-line",
+    "word": "line",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["l", "ine"],
+    "image": "images/school/line.png"
+  },
+  {
+    "id": "school-listen",
+    "word": "listen",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["li", "sten"],
+    "image": "images/school/listen.png"
+  },
+  {
+    "id": "school-look",
+    "word": "look",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["l", "oo", "k"],
+    "image": "images/school/look.png"
+  },
+  {
+    "id": "school-music",
+    "word": "music",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["mu", "sic"],
+    "image": "images/school/music.png"
+  },
+  {
+    "id": "school-number",
+    "word": "number",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["num", "ber"],
+    "image": "images/school/number.png"
+  },
+  {
+    "id": "school-open",
+    "word": "open",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["o", "pen"],
+    "image": "images/school/open.png"
+  },
+  {
+    "id": "school-page",
+    "word": "page",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["p", "age"],
+    "image": "images/school/page.png"
+  },
+  {
+    "id": "school-paper",
+    "word": "paper",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["pa", "per"],
+    "image": "images/school/paper.png"
+  },
+  {
+    "id": "school-part",
+    "word": "part",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["pa", "rt"],
+    "image": "images/school/part.png"
+  },
+  {
+    "id": "school-pen",
+    "word": "pen",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["p", "en"],
+    "image": "images/school/pen.png"
+  },
+  {
+    "id": "school-pencil",
+    "word": "pencil",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["p", "en", "cil"],
+    "image": "images/school/pencil.png"
+  },
+  {
+    "id": "school-poster",
+    "word": "poster",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["pos", "ter"],
+    "image": "images/school/poster.png"
+  },
+  {
+    "id": "school-question",
+    "word": "question",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["ques", "tion"],
+    "image": "images/school/question.png"
+  },
+  {
+    "id": "school-read",
+    "word": "read",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["r", "ea", "d"],
+    "image": "images/school/read.png"
+  },
+  {
+    "id": "school-right",
+    "word": "right",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["r", "i", "ght"],
+    "image": "images/school/right.png"
+  },
+  {
+    "id": "school-rubber",
+    "word": "rubber",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["r", "ub", "ber"],
+    "image": "images/school/rubber.png"
+  },
+  {
+    "id": "school-ruler",
+    "word": "ruler",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["ru", "ler"],
+    "image": "images/school/ruler.png"
+  },
+  {
+    "id": "school-school",
+    "word": "school",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["s", "ch", "oo", "l"],
+    "image": "images/school/school.png"
+  },
+  {
+    "id": "school-sentence",
+    "word": "sentence",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["sen", "ten", "ce"],
+    "image": "images/school/sentence.png"
+  },
+  {
+    "id": "school-sit",
+    "word": "sit",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["s", "i", "t"],
+    "image": "images/school/sit.png"
+  },
+  {
+    "id": "school-spell",
+    "word": "spell",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["sp", "ell"],
+    "image": "images/school/spell.png"
+  },
+  {
+    "id": "school-stand",
+    "word": "stand",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["st", "and"],
+    "image": "images/school/stand.png"
+  },
+  {
+    "id": "school-story",
+    "word": "story",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["st", "ory"],
+    "image": "images/school/story.png"
+  },
+  {
+    "id": "school-teacher",
+    "word": "teacher",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["tea", "ch", "er"],
+    "image": "images/school/teacher.png"
+  },
+  {
+    "id": "school-tell",
+    "word": "tell",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["t", "ell"],
+    "image": "images/school/tell.png"
+  },
+  {
+    "id": "school-tick",
+    "word": "tick",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["t", "ick"],
+    "image": "images/school/tick.png"
+  },
+  {
+    "id": "school-understand",
+    "word": "understand",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["under", "stand"],
+    "image": "images/school/understand.png"
+  },
+  {
+    "id": "school-word",
+    "word": "word",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["w", "or", "d"],
+    "image": "images/school/word.png"
+  },
+  {
+    "id": "school-write",
+    "word": "write",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["w", "ri", "te"],
+    "image": "images/school/write.png"
   }
 ]

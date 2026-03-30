@@ -1312,14 +1312,6 @@
     "image": "images/home/clock.png"
   },
   {
-    "id": "home-computer",
-    "word": "computer",
-    "level": "starters",
-    "category": "home",
-    "chunks": ["com", "pu", "ter"],
-    "image": "images/home/computer.png"
-  },
-  {
     "id": "home-cupboard",
     "word": "cupboard",
     "level": "starters",
@@ -1566,6 +1558,30 @@
     "category": "home",
     "chunks": ["w", "in", "dow"],
     "image": "images/home/window.png"
+  },
+  {
+    "id": "it-computer",
+    "word": "computer",
+    "level": "starters",
+    "category": "it",
+    "chunks": ["com", "pu", "ter"],
+    "image": "images/it/computer.png"
+  },
+  {
+    "id": "it-keyboard",
+    "word": "keyboard",
+    "level": "starters",
+    "category": "it",
+    "chunks": ["key", "board"],
+    "image": "images/it/keyboard.png"
+  },
+  {
+    "id": "it-mouse",
+    "word": "mouse",
+    "level": "starters",
+    "category": "it",
+    "chunks": ["m", "ou", "se"],
+    "image": "images/it/mouse.png"
   },
   {
     "id": "it-tablet",

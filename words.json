@@ -2302,5 +2302,365 @@
     "category": "school",
     "chunks": ["w", "ri", "te"],
     "image": "images/school/write.png"
+  },
+  {
+    "id": "sport-leisure-badminton",
+    "word": "badminton",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["bad", "min", "ton"],
+    "image": "images/sport-leisure/badminton.png"
+  },
+  {
+    "id": "sport-leisure-ball",
+    "word": "ball",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["b", "all"],
+    "image": "images/sport-leisure/ball.png"
+  },
+  {
+    "id": "sport-leisure-baseball",
+    "word": "baseball",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["base", "ball"],
+    "image": "images/sport-leisure/baseball.png"
+  },
+  {
+    "id": "sport-leisure-basketball",
+    "word": "basketball",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["bas", "ket", "ball"],
+    "image": "images/sport-leisure/basketball.png"
+  },
+  {
+    "id": "sport-leisure-bat",
+    "word": "bat",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["b", "a", "t"],
+    "image": "images/sport-leisure/bat.png"
+  },
+  {
+    "id": "sport-leisure-beach",
+    "word": "beach",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["b", "ea", "ch"],
+    "image": "images/sport-leisure/beach.png"
+  },
+  {
+    "id": "sport-leisure-bike",
+    "word": "bike",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["b", "i", "ke"],
+    "image": "images/sport-leisure/bike.png"
+  },
+  {
+    "id": "sport-leisure-boat",
+    "word": "boat",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["b", "oa", "t"],
+    "image": "images/sport-leisure/boat.png"
+  },
+  {
+    "id": "sport-leisure-bounce",
+    "word": "bounce",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["b", "ou", "nce"],
+    "image": "images/sport-leisure/bounce.png"
+  },
+  {
+    "id": "sport-leisure-catch",
+    "word": "catch",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["ca", "tch"],
+    "image": "images/sport-leisure/catch.png"
+  },
+  {
+    "id": "sport-leisure-drawing",
+    "word": "drawing",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["draw", "ing"],
+    "image": "images/sport-leisure/drawing.png"
+  },
+  {
+    "id": "sport-leisure-drive",
+    "word": "drive",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["dr", "ive"],
+    "image": "images/sport-leisure/drive.png"
+  },
+  {
+    "id": "sport-leisure-enjoy",
+    "word": "enjoy",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["en", "joy"],
+    "image": "images/sport-leisure/enjoy.png"
+  },
+  {
+    "id": "sport-leisure-favorite",
+    "word": "favorite",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["fa", "vo", "rite"],
+    "image": "images/sport-leisure/favorite.png"
+  },
+  {
+    "id": "sport-leisure-favourite",
+    "word": "favourite",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["fa", "vou", "rite"],
+    "image": "images/sport-leisure/favourite.png"
+  },
+  {
+    "id": "sport-leisure-fishing",
+    "word": "fishing",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["fish", "ing"],
+    "image": "images/sport-leisure/fishing.png"
+  },
+  {
+    "id": "sport-leisure-fly",
+    "word": "fly",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["f", "ly"],
+    "image": "images/sport-leisure/fly.png"
+  },
+  {
+    "id": "sport-leisure-football",
+    "word": "football",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["foot", "ball"],
+    "image": "images/sport-leisure/football.png"
+  },
+  {
+    "id": "sport-leisure-game",
+    "word": "game",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["g", "ame"],
+    "image": "images/sport-leisure/game.png"
+  },
+  {
+    "id": "sport-leisure-guitar",
+    "word": "guitar",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["gi", "tar"],
+    "image": "images/sport-leisure/guitar.png"
+  },
+  {
+    "id": "sport-leisure-hit",
+    "word": "hit",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["h", "it"],
+    "image": "images/sport-leisure/hit.png"
+  },
+  {
+    "id": "sport-leisure-hobby",
+    "word": "hobby",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["ho", "b", "by"],
+    "image": "images/sport-leisure/hobby.png"
+  },
+  {
+    "id": "sport-leisure-hockey",
+    "word": "hockey",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["h", "oc", "key"],
+    "image": "images/sport-leisure/hockey.png"
+  },
+  {
+    "id": "sport-leisure-jump",
+    "word": "jump",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["j", "u", "mp"],
+    "image": "images/sport-leisure/jump.png"
+  },
+  {
+    "id": "sport-leisure-kick",
+    "word": "kick",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["k", "i", "ck"],
+    "image": "images/sport-leisure/kick.png"
+  },
+  {
+    "id": "sport-leisure-kite",
+    "word": "kite",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["k", "ite"],
+    "image": "images/sport-leisure/kite.png"
+  },
+  {
+    "id": "sport-leisure-painting",
+    "word": "painting",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["paint", "ing"],
+    "image": "images/sport-leisure/painting.png"
+  },
+  {
+    "id": "sport-leisure-photo",
+    "word": "photo",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["ph", "o", "to"],
+    "image": "images/sport-leisure/photo.png"
+  },
+  {
+    "id": "sport-leisure-piano",
+    "word": "piano",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["pi", "a", "no"],
+    "image": "images/sport-leisure/piano.png"
+  },
+  {
+    "id": "sport-leisure-play",
+    "word": "play",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["p", "lay"],
+    "image": "images/sport-leisure/play.png"
+  },
+  {
+    "id": "sport-leisure-ride",
+    "word": "ride",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["r", "ide"],
+    "image": "images/sport-leisure/ride.png"
+  },
+  {
+    "id": "sport-leisure-run",
+    "word": "run",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["r", "un"],
+    "image": "images/sport-leisure/run.png"
+  },
+  {
+    "id": "sport-leisure-sing",
+    "word": "sing",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["s", "ing"],
+    "image": "images/sport-leisure/sing.png"
+  },
+  {
+    "id": "sport-leisure-skateboard",
+    "word": "skateboard",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["sk", "ate", "board"],
+    "image": "images/sport-leisure/skateboard.png"
+  },
+  {
+    "id": "sport-leisure-skateboarding",
+    "word": "skateboarding",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["sk", "ate", "board", "ing"],
+    "image": "images/sport-leisure/skateboarding.png"
+  },
+  {
+    "id": "sport-leisure-soccer",
+    "word": "soccer",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["so", "ccer"],
+    "image": "images/sport-leisure/soccer.png"
+  },
+  {
+    "id": "sport-leisure-song",
+    "word": "song",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["s", "ong"],
+    "image": "images/sport-leisure/song.png"
+  },
+  {
+    "id": "sport-leisure-sport",
+    "word": "sport",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["s", "port"],
+    "image": "images/sport-leisure/sport.png"
+  },
+  {
+    "id": "sport-leisure-swim",
+    "word": "swim",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["s", "wim"],
+    "image": "images/sport-leisure/swim.png"
+  },
+  {
+    "id": "sport-leisure-table tennis",
+    "word": "table tennis",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["table", "tennis"],
+    "image": "images/sport-leisure/table-tennis.png"
+  },
+  {
+    "id": "sport-leisure-take-a-photo",
+    "word": "take a photo",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["take", "a", "photo"],
+    "image": "images/sport-leisure/take-a-photo.png"
+  },
+  {
+    "id": "sport-leisure-tennis",
+    "word": "tennis",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["ten", "nis"],
+    "image": "images/sport-leisure/tennis.png"
+  },
+  {
+    "id": "sport-leisure-tennis-racket",
+    "word": "tennis racket",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["tennis", "racket"],
+    "image": "images/sport-leisure/tennis-racket.png"
+  },
+  {
+    "id": "sport-leisure-throw",
+    "word": "throw",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["th", "row"],
+    "image": "images/sport-leisure/throw.png"
+  },
+  {
+    "id": "sport-leisure-walk",
+    "word": "walk",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["w", "alk"],
+    "image": "images/sport-leisure/walk.png"
   }
 ]

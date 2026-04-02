@@ -2662,5 +2662,69 @@
     "category": "sport-leisure",
     "chunks": ["w", "alk"],
     "image": "images/sport-leisure/walk.png"
+  },
+  {
+    "id": "time-afternoon",
+    "word": "afternoon",
+    "level": "starters",
+    "category": "time",
+    "chunks": ["after", "noon"],
+    "image": "images/time/afternoon.png"
+  },
+  {
+    "id": "time-birthday",
+    "word": "birthday",
+    "level": "starters",
+    "category": "time",
+    "chunks": ["birth", "day"],
+    "image": "images/time/birthday.png"
+  },
+  {
+    "id": "time-day",
+    "word": "day",
+    "level": "starters",
+    "category": "time",
+    "chunks": ["d", "ay"],
+    "image": "images/time/day.png"
+  },
+  {
+    "id": "time-evening",
+    "word": "evening",
+    "level": "starters",
+    "category": "time",
+    "chunks": ["even", "ing"],
+    "image": "images/time/evening.png"
+  },
+  {
+    "id": "time-morning",
+    "word": "morning",
+    "level": "starters",
+    "category": "time",
+    "chunks": ["morn", "ing"],
+    "image": "images/time/morning.png"
+  },
+  {
+    "id": "time-night",
+    "word": "night",
+    "level": "starters",
+    "category": "time",
+    "chunks": ["n", "igh", "t"],
+    "image": "images/time/night.png"
+  },
+  {
+    "id": "time-today",
+    "word": "today",
+    "level": "starters",
+    "category": "time",
+    "chunks": ["to", "day"],
+    "image": "images/time/today.png"
+  },
+  {
+    "id": "time-year",
+    "word": "year",
+    "level": "starters",
+    "category": "time",
+    "chunks": ["y", "ear"],
+    "image": "images/time/year.png"
   }
 ]

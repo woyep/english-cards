@@ -2790,5 +2790,85 @@
     "category": "toy",
     "chunks": ["t", "oy"],
     "image": "images/toy/toy.png"
+  },
+  {
+    "id": "transport-bus",
+    "word": "bus",
+    "level": "starters",
+    "category": "transport",
+    "chunks": ["b", "u", "s"],
+    "image": "images/transport/bus.png"
+  },
+  {
+    "id": "transport-car",
+    "word": "car",
+    "level": "starters",
+    "category": "transport",
+    "chunks": ["c", "a", "r"],
+    "image": "images/transport/car.png"
+  },
+  {
+    "id": "transport-go",
+    "word": "go",
+    "level": "starters",
+    "category": "transport",
+    "chunks": ["g", "o"],
+    "image": "images/transport/go.png"
+  },
+  {
+    "id": "transport-helicopter",
+    "word": "helicopter",
+    "level": "starters",
+    "category": "transport",
+    "chunks": ["he", "li", "cop", "ter"],
+    "image": "images/transport/helicopter.png"
+  },
+  {
+    "id": "transport-lorry",
+    "word": "lorry",
+    "level": "starters",
+    "category": "transport",
+    "chunks": ["l", "or", "ry"],
+    "image": "images/transport/lorry.png"
+  },
+  {
+    "id": "transport-motorbike",
+    "word": "motorbike",
+    "level": "starters",
+    "category": "transport",
+    "chunks": ["mo", "tor", "bike"],
+    "image": "images/transport/motorbike.png"
+  },
+  {
+    "id": "transport-plane",
+    "word": "plane",
+    "level": "starters",
+    "category": "transport",
+    "chunks": ["pl", "ane"],
+    "image": "images/transport/plane.png"
+  },
+  {
+    "id": "transport-ship",
+    "word": "ship",
+    "level": "starters",
+    "category": "transport",
+    "chunks": ["sh", "i", "p"],
+    "image": "images/transport/ship.png"
+  },
+  {
+    "id": "transport-train",
+    "word": "train",
+    "level": "starters",
+    "category": "transport",
+    "chunks": ["tr", "ain"],
+    "image": "images/transport/train.png"
+  },
+  {
+    "id": "transport-truck",
+    "word": "truck",
+    "level": "starters",
+    "category": "transport",
+    "chunks": ["tr", "u", "ck"],
+    "image": "images/transport/truck.png"
   }
 ]

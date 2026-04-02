@@ -2726,5 +2726,69 @@
     "category": "time",
     "chunks": ["y", "ear"],
     "image": "images/time/year.png"
+  },
+  {
+    "id": "toy-alien",
+    "word": "alien",
+    "level": "starters",
+    "category": "toy",
+    "chunks": ["a", "li", "en"],
+    "image": "images/toy/alien.png"
+  },
+  {
+    "id": "toy-balloon",
+    "word": "balloon",
+    "level": "starters",
+    "category": "toy",
+    "chunks": ["bal", "loon"],
+    "image": "images/toy/balloon.png"
+  },
+  {
+    "id": "toy-board-game",
+    "word": "board game",
+    "level": "starters",
+    "category": "toy",
+    "chunks": ["board", "game"],
+    "image": "images/toy/board-game.png"
+  },
+  {
+    "id": "toy-doll",
+    "word": "doll",
+    "level": "starters",
+    "category": "toy",
+    "chunks": ["d", "oll"],
+    "image": "images/toy/doll.png"
+  },
+  {
+    "id": "toy-monster",
+    "word": "monster",
+    "level": "starters",
+    "category": "toy",
+    "chunks": ["mon", "ster"],
+    "image": "images/toy/monster.png"
+  },
+  {
+    "id": "toy-robot",
+    "word": "robot",
+    "level": "starters",
+    "category": "toy",
+    "chunks": ["ro", "bot"],
+    "image": "images/toy/robot.png"
+  },
+  {
+    "id": "toy-teddy-bear",
+    "word": "teddy bear",
+    "level": "starters",
+    "category": "toy",
+    "chunks": ["teddy", "bear"],
+    "image": "images/toy/teddy-bear.png"
+  },
+  {
+    "id": "toy-toy",
+    "word": "toy",
+    "level": "starters",
+    "category": "toy",
+    "chunks": ["t", "oy"],
+    "image": "images/toy/toy.png"
   }
 ]

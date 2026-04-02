@@ -2870,5 +2870,37 @@
     "category": "transport",
     "chunks": ["tr", "u", "ck"],
     "image": "images/transport/truck.png"
+  },
+  {
+    "id": "the-world-around-us-sand",
+    "word": "sand",
+    "level": "starters",
+    "category": "the-world-around-us",
+    "chunks": ["s", "and"],
+    "image": "images/the-world-around-us/sand.png"
+  },
+  {
+    "id": "the-world-around-us-sea",
+    "word": "sea",
+    "level": "starters",
+    "category": "the-world-around-us",
+    "chunks": ["s", "ea"],
+    "image": "images/the-world-around-us/sea.png"
+  },
+  {
+    "id": "the-world-around-us-shell",
+    "word": "shell",
+    "level": "starters",
+    "category": "the-world-around-us",
+    "chunks": ["sh", "ell"],
+    "image": "images/the-world-around-us/shell.png"
+  },
+  {
+    "id": "the-world-around-us-sun",
+    "word": "sun",
+    "level": "starters",
+    "category": "the-world-around-us",
+    "chunks": ["s", "u", "n"],
+    "image": "images/the-world-around-us/sun.png"
   }
 ]

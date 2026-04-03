@@ -504,6 +504,118 @@
     "image": "images/body-face/smile.png"
   },
   {
+    "id": "body-face-back",
+    "word": "back",
+    "level": "movers",
+    "category": "body-face",
+    "chunks": ["b", "ack"],
+    "image": "images/body-face/back.png"
+  },
+  {
+    "id": "body-face-beard",
+    "word": "beard",
+    "level": "movers",
+    "category": "body-face",
+    "chunks": ["b", "ear", "d"],
+    "image": "images/body-face/beard.png"
+  },
+  {
+    "id": "body-face-blond",
+    "word": "blond",
+    "level": "movers",
+    "category": "body-face",
+    "chunks": ["bl", "ond"],
+    "image": "images/body-face/blond.png"
+  },
+  {
+    "id": "body-face-curly",
+    "word": "curly",
+    "level": "movers",
+    "category": "body-face",
+    "chunks": ["cur", "ly"],
+    "image": "images/body-face/curly.png"
+  },
+  {
+    "id": "body-face-fair",
+    "word": "fair",
+    "level": "movers",
+    "category": "body-face",
+    "chunks": ["f", "air"],
+    "image": "images/body-face/fair.png"
+  },
+  {
+    "id": "body-face-fat",
+    "word": "fat",
+    "level": "movers",
+    "category": "body-face",
+    "chunks": ["f", "at"],
+    "image": "images/body-face/fat.png"
+  },
+  {
+    "id": "body-face-moustache",
+    "word": "moustache",
+    "level": "movers",
+    "category": "body-face",
+    "chunks": ["mous", "tache"],
+    "image": "images/body-face/moustache.png"
+  },
+  {
+    "id": "body-face-neck",
+    "word": "neck",
+    "level": "movers",
+    "category": "body-face",
+    "chunks": ["n", "eck"],
+    "image": "images/body-face/neck.png"
+  },
+  {
+    "id": "body-face-shoulder",
+    "word": "shoulder",
+    "level": "movers",
+    "category": "body-face",
+    "chunks": ["shoul", "der"],
+    "image": "images/body-face/shoulder.png"
+  },
+  {
+    "id": "body-face-stomach",
+    "word": "stomach",
+    "level": "movers",
+    "category": "body-face",
+    "chunks": ["sto", "mach"],
+    "image": "images/body-face/stomach.png"
+  },
+  {
+    "id": "body-face-straight",
+    "word": "straight",
+    "level": "movers",
+    "category": "body-face",
+    "chunks": ["str", "aight"],
+    "image": "images/body-face/straight.png"
+  },
+  {
+    "id": "body-face-thin",
+    "word": "thin",
+    "level": "movers",
+    "category": "body-face",
+    "chunks": ["th", "in"],
+    "image": "images/body-face/thin.png"
+  },
+  {
+    "id": "body-face-tooth",
+    "word": "tooth",
+    "level": "movers",
+    "category": "body-face",
+    "chunks": ["t", "oo", "th"],
+    "image": "images/body-face/tooth.png"
+  },
+  {
+    "id": "body-face-teeth",
+    "word": "teeth",
+    "level": "movers",
+    "category": "body-face",
+    "chunks": ["t", "ee", "th"],
+    "image": "images/body-face/teeth.png"
+  },
+  {
     "id": "clothes-bag",
     "word": "bag",
     "level": "starters",

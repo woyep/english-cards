@@ -272,6 +272,126 @@
     "image": "images/animal/zoo.png"
   },
   {
+    "id": "animal-bat",
+    "word": "bat",
+    "level": "movers",
+    "category": "animal",
+    "chunks": ["b", "a", "t"],
+    "image": "images/animal/bat.png"
+  },
+  {
+    "id": "animal-cage",
+    "word": "cage",
+    "level": "movers",
+    "category": "animal",
+    "chunks": ["c", "age"],
+    "image": "images/animal/cage.png"
+  },
+  {
+    "id": "animal-dolphin",
+    "word": "dolphin",
+    "level": "movers",
+    "category": "animal",
+    "chunks": ["dol", "phin"],
+    "image": "images/animal/dolphin.png"
+  },
+  {
+    "id": "animal-jungle",
+    "word": "jungle",
+    "level": "movers",
+    "category": "animal",
+    "chunks": ["jun", "gle"],
+    "image": "images/animal/jungle.png"
+  },
+  {
+    "id": "animal-kangaroo",
+    "word": "kangaroo",
+    "level": "movers",
+    "category": "animal",
+    "chunks": ["kan", "ga", "roo"],
+    "image": "images/animal/kangaroo.png"
+  },
+  {
+    "id": "animal-kitten",
+    "word": "kitten",
+    "level": "movers",
+    "category": "animal",
+    "chunks": ["kit", "ten"],
+    "image": "images/animal/kitten.png"
+  },
+  {
+    "id": "animal-lion",
+    "word": "lion",
+    "level": "movers",
+    "category": "animal",
+    "chunks": ["l", "io", "n"],
+    "image": "images/animal/lion.png"
+  },
+  {
+    "id": "animal-panda",
+    "word": "panda",
+    "level": "movers",
+    "category": "animal",
+    "chunks": ["pan", "da"],
+    "image": "images/animal/panda.png"
+  },
+  {
+    "id": "animal-parrot",
+    "word": "parrot",
+    "level": "movers",
+    "category": "animal",
+    "chunks": ["par", "rot"],
+    "image": "images/animal/parrot.png"
+  },
+  {
+    "id": "animal-penguin",
+    "word": "penguin",
+    "level": "movers",
+    "category": "animal",
+    "chunks": ["pen", "guin"],
+    "image": "images/animal/penguin.png"
+  },
+  {
+    "id": "animal-puppy",
+    "word": "puppy",
+    "level": "movers",
+    "category": "animal",
+    "chunks": ["pup", "py"],
+    "image": "images/animal/puppy.png"
+  },
+  {
+    "id": "animal-rabbit",
+    "word": "rabbit",
+    "level": "movers",
+    "category": "animal",
+    "chunks": ["rab", "bit"],
+    "image": "images/animal/rabbit.png"
+  },
+  {
+    "id": "animal-shark",
+    "word": "shark",
+    "level": "movers",
+    "category": "animal",
+    "chunks": ["sh", "ark"],
+    "image": "images/animal/shark.png"
+  },
+  {
+    "id": "animal-snail",
+    "word": "snail",
+    "level": "movers",
+    "category": "animal",
+    "chunks": ["sn", "ail"],
+    "image": "images/animal/snail.png"
+  },
+  {
+    "id": "animal-whale",
+    "word": "whale",
+    "level": "movers",
+    "category": "animal",
+    "chunks": ["wh", "ale"],
+    "image": "images/animal/whale.png"
+  },
+  {
     "id": "body-face-arm",
     "word": "arm",
     "level": "starters",

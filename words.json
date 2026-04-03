@@ -768,6 +768,46 @@
     "image": "images/clothes/wear.png"
   },
   {
+    "id": "clothes-coat",
+    "word": "coat",
+    "level": "movers",
+    "category": "clothes",
+    "chunks": ["c", "oa", "t"],
+    "image": "images/clothes/coat.png"
+  },
+  {
+    "id": "clothes-helmet",
+    "word": "helmet",
+    "level": "movers",
+    "category": "clothes",
+    "chunks": ["hel", "met"],
+    "image": "images/clothes/helmet.png"
+  },
+  {
+    "id": "clothes-scarf",
+    "word": "scarf",
+    "level": "movers",
+    "category": "clothes",
+    "chunks": ["sc", "arf"],
+    "image": "images/clothes/scarf.png"
+  },
+  {
+    "id": "clothes-sweater",
+    "word": "sweater",
+    "level": "movers",
+    "category": "clothes",
+    "chunks": ["swea", "ter"],
+    "image": "images/clothes/sweater.png"
+  },
+  {
+    "id": "clothes-swimsuit",
+    "word": "swimsuit",
+    "level": "movers",
+    "category": "clothes",
+    "chunks": ["swim", "suit"],
+    "image": "images/clothes/swimsuit.png"
+  },
+  {
     "id": "colours-black",
     "word": "black",
     "level": "starters",

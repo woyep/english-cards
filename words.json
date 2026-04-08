@@ -1136,6 +1136,78 @@
     "image": "images/family-friends/young.png"
   },
   {
+    "id": "family-friends-aunt",
+    "word": "aunt",
+    "level": "movers",
+    "category": "family-friends",
+    "chunks": ["au", "nt"],
+    "image": "images/family-friends/aunt.png"
+  },
+  {
+    "id": "family-friends-daughter",
+    "word": "daughter",
+    "level": "movers",
+    "category": "family-friends",
+    "chunks": ["daugh", "ter"],
+    "image": "images/family-friends/daughter.png"
+  },
+  {
+    "id": "family-friends-granddaughter",
+    "word": "granddaughter",
+    "level": "movers",
+    "category": "family-friends",
+    "chunks": ["grand", "daugh", "ter"],
+    "image": "images/family-friends/granddaughter.png"
+  },
+  {
+    "id": "family-friends-grandparent",
+    "word": "grandparent",
+    "level": "movers",
+    "category": "family-friends",
+    "chunks": ["grand", "parent"],
+    "image": "images/family-friends/grandparent.png"
+  },
+  {
+    "id": "family-friends-grandson",
+    "word": "grandson",
+    "level": "movers",
+    "category": "family-friends",
+    "chunks": ["grand", "son"],
+    "image": "images/family-friends/grandson.png"
+  },
+  {
+    "id": "family-friends-grown-up",
+    "word": "grown-up",
+    "level": "movers",
+    "category": "family-friends",
+    "chunks": ["grown", "-", "up"],
+    "image": "images/family-friends/grown-up.png"
+  },
+  {
+    "id": "family-friends-parent",
+    "word": "parent",
+    "level": "movers",
+    "category": "family-friends",
+    "chunks": ["pa", "rent"],
+    "image": "images/family-friends/parent.png"
+  },
+  {
+    "id": "family-friends-son",
+    "word": "son",
+    "level": "movers",
+    "category": "family-friends",
+    "chunks": ["s", "o", "n"],
+    "image": "images/family-friends/son.png"
+  },
+  {
+    "id": "family-friends-uncle",
+    "word": "uncle",
+    "level": "movers",
+    "category": "family-friends",
+    "chunks": ["un", "cle"],
+    "image": "images/family-friends/uncle.png"
+  },
+  {
     "id": "food-drink-apple",
     "word": "apple",
     "level": "starters",

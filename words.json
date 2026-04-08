@@ -1567,6 +1567,152 @@
     "chunks": ["wa", "ter", "me", "lon"],
     "image": "images/food-drink/watermelon.png"
   },
+
+  {
+    "id": "food-drink-bottle",
+    "word": "bottle",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["bo", "tt", "le"],
+    "image": "images/food-drink/bottle.png"
+  },
+  {
+    "id": "food-drink-bowl",
+    "word": "bowl",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["bo", "wl"],
+    "image": "images/food-drink/bowl.png"
+  },
+  {
+    "id": "food-drink-cheese",
+    "word": "cheese",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["ch", "ee", "se"],
+    "image": "images/food-drink/cheese.png"
+  },
+  {
+    "id": "food-drink-coffee",
+    "word": "coffee",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["co", "ff", "ee"],
+    "image": "images/food-drink/coffee.png"
+  },
+  {
+    "id": "food-drink-cup",
+    "word": "cup",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["c", "u", "p"],
+    "image": "images/food-drink/cup.png"
+  },
+  {
+    "id": "food-drink-glass",
+    "word": "glass",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["gl", "a", "ss"],
+    "image": "images/food-drink/glass.png"
+  },
+  {
+    "id": "food-drink-hungry",
+    "word": "hungry",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["hun", "gry"],
+    "image": "images/food-drink/hungry.png"
+  },
+  {
+    "id": "food-drink-milkshake",
+    "word": "milkshake",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["milk", "shake"],
+    "image": "images/food-drink/milkshake.png"
+  },
+  {
+    "id": "food-drink-noodles",
+    "word": "noodles",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["noo", "dles"],
+    "image": "images/food-drink/noodles.png"
+  },
+  {
+    "id": "food-drink-pancake",
+    "word": "pancake",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["pan", "cake"],
+    "image": "images/food-drink/pancake.png"
+  },
+  {
+    "id": "food-drink-pasta",
+    "word": "pasta",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["pa", "sta"],
+    "image": "images/food-drink/pasta.png"
+  },
+  {
+    "id": "food-drink-picnic",
+    "word": "picnic",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["pic", "nic"],
+    "image": "images/food-drink/picnic.png"
+  },
+  {
+    "id": "food-drink-plate",
+    "word": "plate",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["pl", "ate"],
+    "image": "images/food-drink/plate.png"
+  },
+  {
+    "id": "food-drink-salad",
+    "word": "salad",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["sa", "lad"],
+    "image": "images/food-drink/salad.png"
+  },
+  {
+    "id": "food-drink-sandwich",
+    "word": "sandwich",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["sand", "wich"],
+    "image": "images/food-drink/sandwich.png"
+  },
+  {
+    "id": "food-drink-sauce",
+    "word": "sauce",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["sau", "ce"],
+    "image": "images/food-drink/sauce.png"
+  },
+  {
+    "id": "food-drink-soup",
+    "word": "soup",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["s", "ou", "p"],
+    "image": "images/food-drink/soup.png"
+  },
+  {
+    "id": "food-drink-bowl",
+    "word": "bowl",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["bo", "wl"],
+    "image": "images/food-drink/bowl.png"
+  },
+
   {
     "id": "home-apartment",
     "word": "apartment",

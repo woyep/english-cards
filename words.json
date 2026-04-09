@@ -1705,12 +1705,181 @@
     "image": "images/food-drink/soup.png"
   },
   {
-    "id": "food-drink-bowl",
-    "word": "bowl",
+    "id": "food-drink-tea",
+    "word": "tea",
     "level": "movers",
     "category": "food-drink",
-    "chunks": ["bo", "wl"],
-    "image": "images/food-drink/bowl.png"
+    "chunks": ["t", "ea"],
+    "image": "images/food-drink/tea.png"
+  },
+  {
+    "id": "food-drink-thirsty",
+    "word": "thirsty",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["thir", "sty"],
+    "image": "images/food-drink/thirsty.png"
+  },
+  {
+    "id": "food-drink-vegetable",
+    "word": "vegetable",
+    "level": "movers",
+    "category": "food-drink",
+    "chunks": ["ve", "ge", "table"],
+    "image": "images/food-drink/vegetable.png"
+  },
+
+  {
+    "id": "health-cold",
+    "word": "cold",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["c", "old"],
+    "image": "images/health/cold.png"
+  },
+  {
+    "id": "health-cough",
+    "word": "cough",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["c", "ou", "gh"],
+    "image": "images/health/cough.png"
+  },
+  {
+    "id": "health-cry",
+    "word": "cry",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["c", "ry"],
+    "image": "images/health/cry.png"
+  },
+  {
+    "id": "health-dentist",
+    "word": "dentist",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["den", "tist"],
+    "image": "images/health/dentist.png"
+  },
+  {
+    "id": "health-doctor",
+    "word": "doctor",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["doc", "tor"],
+    "image": "images/health/doctor.png"
+  },
+  {
+    "id": "health-earache",
+    "word": "earache",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["ear", "ache"],
+    "image": "images/health/earache.png"
+  },
+  {
+    "id": "health-fall",
+    "word": "fall",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["f", "all"],
+    "image": "images/health/fall.png"
+  },
+  {
+    "id": "health-fine",
+    "word": "fine",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["f", "ine"],
+    "image": "images/health/fine.png"
+  },
+  {
+    "id": "health-headache",
+    "word": "headache",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["head", "ache"],
+    "image": "images/health/headache.png"
+  },
+  {
+    "id": "health-hospital",
+    "word": "hospital",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["hos", "pi", "tal"],
+    "image": "images/health/hospital.png"
+  },
+  {
+    "id": "health-hurt",
+    "word": "hurt",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["h", "urt"],
+    "image": "images/health/hurt.png"
+  },
+  {
+    "id": "health-ill",
+    "word": "ill",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["i", "ll"],
+    "image": "images/health/ill.png"
+  },
+  {
+    "id": "health-matter",
+    "word": "matter",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["ma", "tt", "er"],
+    "image": "images/health/matter.png"
+  },
+  {
+    "id": "health-nurse",
+    "word": "nurse",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["n", "ur", "se"],
+    "image": "images/health/nurse.png"
+  },
+  {
+    "id": "health-sick",
+    "word": "sick",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["s", "i", "ck"],
+    "image": "images/health/sick.png"
+  },
+  {
+    "id": "health-stomach-ache",
+    "word": "stomach-ache`",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["stomach", "-", "ache"],
+    "image": "images/health/stomach-ache.png"
+  },
+  {
+    "id": "health-temperature",
+    "word": "temperature",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["tem", "pe", "ra", "ture"],
+    "image": "images/health/temperature.png"
+  },
+  {
+    "id": "health-tired",
+    "word": "tired",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["t", "ire", "d"],
+    "image": "images/health/tired.png"
+  },
+  {
+    "id": "health-toothache",
+    "word": "toothache",
+    "level": "movers",
+    "category": "health",
+    "chunks": ["tooth", "ache"],
+    "image": "images/health/toothache.png"
   },
 
   {

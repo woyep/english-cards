@@ -2219,6 +2219,166 @@
     "image": "images/home/window.png"
   },
   {
+    "id": "home-address",
+    "word": "address",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["ad", "dress"],
+    "image": "images/home/address.png"
+  },
+  {
+    "id": "home-balcony",
+    "word": "balcony",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["bal", "co", "ny"],
+    "image": "images/home/balcony.png"
+  },
+  {
+    "id": "home-basement",
+    "word": "basement",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["base", "ment"],
+    "image": "images/home/basement.png"
+  },
+  {
+    "id": "home-blanket",
+    "word": "blanket",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["bl", "an", "ket"],
+    "image": "images/home/blanket.png"
+  },
+  {
+    "id": "home-downstairs",
+    "word": "downstairs",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["down", "stairs"],
+    "image": "images/home/downstairs.png"
+  },
+  {
+    "id": "home-dream",
+    "word": "dream",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["dr", "ea", "m"],
+    "image": "images/home/dream.png"
+  },
+  {
+    "id": "home-elevator",
+    "word": "elevator",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["el", "e", "va", "tor"],
+    "image": "images/home/elevator.png"
+  },
+  {
+    "id": "home-floor",
+    "word": "floor",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["fl", "oor"],
+    "image": "images/home/floor.png"
+  },
+  {
+    "id": "home-internet",
+    "word": "internet",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["in", "ter", "net"],
+    "image": "images/home/internet.png"
+  },
+  {
+    "id": "home-lift",
+    "word": "lift",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["li", "ft"],
+    "image": "images/home/lift.png"
+  },
+  {
+    "id": "home-message",
+    "word": "message",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["mes", "sage"],
+    "image": "images/home/message.png"
+  },
+  {
+    "id": "home-roof",
+    "word": "roof",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["r", "oo", "f"],
+    "image": "images/home/roof.png"
+  },
+  {
+    "id": "home-seat",
+    "word": "seat",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["s", "ea", "t"],
+    "image": "images/home/seat.png"
+  },
+  {
+    "id": "home-shower",
+    "word": "shower",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["sh", "ow", "er"],
+    "image": "images/home/shower.png"
+  },
+  {
+    "id": "home-stairs",
+    "word": "stairs",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["st", "air", "s"],
+    "image": "images/home/stairs.png"
+  },
+  {
+    "id": "home-toothbrush",
+    "word": "toothbrush",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["tooth", "brush"],
+    "image": "images/home/toothbrush.png"
+  },
+  {
+    "id": "home-toothpaste",
+    "word": "toothpaste",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["tooth", "paste"],
+    "image": "images/home/toothpaste.png"
+  },
+  {
+    "id": "home-towel",
+    "word": "towel",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["tow", "el"],
+    "image": "images/home/towel.png"
+  },
+  {
+    "id": "home-upstairs",
+    "word": "upstairs",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["up", "stairs"],
+    "image": "images/home/upstairs.png"
+  },
+  {
+    "id": "home-wash",
+    "word": "wash",
+    "level": "movers",
+    "category": "home",
+    "chunks": ["wa", "sh"],
+    "image": "images/home/wash.png"
+  },
+  {
     "id": "it-computer",
     "word": "computer",
     "level": "starters",
@@ -2249,6 +2409,30 @@
     "category": "it",
     "chunks": ["tab", "let"],
     "image": "images/it/tablet.png"
+  },
+  {
+    "id": "it-app",
+    "word": "app",
+    "level": "movers",
+    "category": "it",
+    "chunks": ["a", "p", "p"],
+    "image": "images/it/app.png"
+  },
+  {
+    "id": "it-laptop",
+    "word": "laptop",
+    "level": "movers",
+    "category": "it",
+    "chunks": ["lap", "top"],
+    "image": "images/it/laptop.png"
+  },
+  {
+    "id": "it-e-book",
+    "word": "e-book",
+    "level": "movers",
+    "category": "it",
+    "chunks": ["e", "-", "book"],
+    "image": "images/it/e-book.png"
   },
   {
     "id": "number-one",
@@ -2409,6 +2593,246 @@
     "category": "number",
     "chunks": ["tw", "en", "ty"],
     "image": "images/number/twenty.png"
+  },
+  {
+    "id": "number-twenty-one",
+    "word": "twenty-one",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["twenty", "-", "one"],
+    "image": "images/number/twenty-one.png"
+  },
+  {
+    "id": "number-thirty-two",
+    "word": "thirty-two",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["thirty", "-", "two"],
+    "image": "images/number/thirty-two.png"
+  },
+  {
+    "id": "number-forty-three",
+    "word": "forty-three",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["forty", "-", "three"],
+    "image": "images/number/forty-three.png"
+  },
+  {
+    "id": "number-fifty-four",
+    "word": "fifty-four",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["fifty", "-", "four"],
+    "image": "images/number/fifty-four.png"
+  },
+  {
+    "id": "number-sixty-five",
+    "word": "sixty-five",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["sixty", "-", "five"],
+    "image": "images/number/sixty-five.png"
+  },
+  {
+    "id": "number-seventy-six",
+    "word": "seventy-six",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["seventy", "-", "six"],
+    "image": "images/number/seventy-six.png"
+  },
+  {
+    "id": "number-eighty-seven",
+    "word": "eighty-seven",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["eighty", "-", "seven"],
+    "image": "images/number/eighty-seven.png"
+  },
+  {
+    "id": "number-ninety-eight",
+    "word": "ninety-eight",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["ninety", "-", "eight"],
+    "image": "images/number/ninety-eight.png"
+  },
+  {
+    "id": "number-hundred",
+    "word": "hundred",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["hun", "dred"],
+    "image": "images/number/hundred.png"
+  },
+  {
+    "id": "number-first",
+    "word": "first",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["f", "ir", "st"],
+    "image": "images/number/first.png"
+  },
+  {
+    "id": "number-second",
+    "word": "second",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["sec", "ond"],
+    "image": "images/number/second.png"
+  },
+  {
+    "id": "number-third",
+    "word": "third",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["th", "ir", "d"],
+    "image": "images/number/third.png"
+  },
+  {
+    "id": "number-fourth",
+    "word": "fourth",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["four", "th"],
+    "image": "images/number/fourth.png"
+  },
+  {
+    "id": "number-fifth",
+    "word": "fifth",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["fif", "th"],
+    "image": "images/number/fifth.png"
+  },
+  {
+    "id": "number-sixth",
+    "word": "sixth",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["six", "th"],
+    "image": "images/number/sixth.png"
+  },
+  {
+    "id": "number-seventh",
+    "word": "seventh",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["seven", "th"],
+    "image": "images/number/seventh.png"
+  },
+  {
+    "id": "number-eighth",
+    "word": "eighth",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["eigh", "th"],
+    "image": "images/number/eighth.png"
+  },
+  {
+    "id": "number-ninth",
+    "word": "ninth",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["nin", "th"],
+    "image": "images/number/ninth.png"
+  },
+  {
+    "id": "number-tenth",
+    "word": "tenth",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["ten", "th"],
+    "image": "images/number/tenth.png"
+  },
+  {
+    "id": "number-eleventh",
+    "word": "eleventh",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["eleven", "th"],
+    "image": "images/number/eleventh.png"
+  },
+  {
+    "id": "number-twelfth",
+    "word": "twelfth",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["twelf", "th"],
+    "image": "images/number/twelfth.png"
+  },
+  {
+    "id": "number-thirteenth",
+    "word": "thirteenth",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["thirteen", "th"],
+    "image": "images/number/thirteenth.png"
+  },
+  {
+    "id": "number-fourteenth",
+    "word": "fourteenth",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["fourteen", "th"],
+    "image": "images/number/fourteenth.png"
+  },
+  {
+    "id": "number-fifteenth",
+    "word": "fifteenth",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["fifteen", "th"],
+    "image": "images/number/fifteenth.png"
+  },
+  {
+    "id": "number-sixteenth",
+    "word": "sixteenth",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["sixteen", "th"],
+    "image": "images/number/sixteenth.png"
+  },
+  {
+    "id": "number-seventeenth",
+    "word": "seventeenth",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["seventeen", "th"],
+    "image": "images/number/seventeenth.png"
+  },
+  {
+    "id": "number-eighteenth",
+    "word": "eighteenth",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["eighteen", "th"],
+    "image": "images/number/eighteenth.png"
+  },
+  {
+    "id": "number-nineteenth",
+    "word": "nineteenth",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["nineteen", "th"],
+    "image": "images/number/nineteenth.png"
+  },
+  {
+    "id": "number-twentieth",
+    "word": "twentieth",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["twent", "ie", "th"],
+    "image": "images/number/twentieth.png"
+  },
+  {
+    "id": "number-pair",
+    "word": "pair",
+    "level": "movers",
+    "category": "number",
+    "chunks": ["p", "air"],
+    "image": "images/number/pair.png"
   },
   {
     "id": "place-direction-behind",

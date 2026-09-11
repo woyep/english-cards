@@ -3199,7 +3199,7 @@
     "word": "straight",
     "level": "movers",
     "category": "place-direction",
-    "chunks": ["str", "ai", "ght"],
+    "chunks": ["str", "aight"],
     "image": "images/place-direction/straight.png"
   },
   {
@@ -3649,6 +3649,46 @@
     "category": "school",
     "chunks": ["w", "ri", "te"],
     "image": "images/school/write.png"
+  },
+  {
+    "id": "school-break",
+    "word": "break",
+    "level": "movers",
+    "category": "school",
+    "chunks": ["br", "eak"],
+    "image": "images/school/break.png"
+  },
+  {
+    "id": "school-homework",
+    "word": "homework",
+    "level": "movers",
+    "category": "school",
+    "chunks": ["home", "work"],
+    "image": "images/school/homework.png"
+  },
+  {
+    "id": "school-teach",
+    "word": "teach",
+    "level": "movers",
+    "category": "school",
+    "chunks": ["t", "ea", "ch"],
+    "image": "images/school/teach.png"
+  },
+  {
+    "id": "school-text",
+    "word": "text",
+    "level": "movers",
+    "category": "school",
+    "chunks": ["t", "ex", "t"],
+    "image": "images/school/text.png"
+  },
+  {
+    "id": "school-website",
+    "word": "website",
+    "level": "movers",
+    "category": "school",
+    "chunks": ["web", "site"],
+    "image": "images/school/website.png"
   },
   {
     "id": "sport-leisure-badminton",

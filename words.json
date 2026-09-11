@@ -2915,7 +2915,7 @@
     "image": "images/place-direction/bookshop.png"
   },
   {
-    "id": "place-direction-bookshop",
+    "id": "place-direction-bookstore",
     "word": "bookstore",
     "level": "starters",
     "category": "place-direction",
@@ -2969,6 +2969,270 @@
     "category": "place-direction",
     "chunks": ["st", "reet"],
     "image": "images/place-direction/street.png"
+  },
+  {
+    "id": "place-direction-above",
+    "word": "above",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["a", "bove"],
+    "image": "images/place-direction/above.png"
+  },
+  {
+    "id": "place-direction-below",
+    "word": "below",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["be", "low"],
+    "image": "images/place-direction/below.png"
+  },
+  {
+    "id": "place-direction-building",
+    "word": "building",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["build", "ing"],
+    "image": "images/place-direction/building.png"
+  },
+  {
+    "id": "place-direction-bus station",
+    "word": "bus station",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["bus", "station"],
+    "image": "images/place-direction/bus station.png"
+  },
+  {
+    "id": "place-direction-bus stop",
+    "word": "bus stop",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["bus", "stop"],
+    "image": "images/place-direction/bus stop.png"
+  },
+  {
+    "id": "place-direction-cafe",
+    "word": "cafe",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["ca", "fe"],
+    "image": "images/place-direction/cafe.png"
+  },
+  {
+    "id": "place-direction-car park",
+    "word": "car park",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["car", "park"],
+    "image": "images/place-direction/car park.png"
+  },
+  {
+    "id": "place-direction-centre",
+    "word": "centre",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["cen", "tre"],
+    "image": "images/place-direction/centre.png"
+  },
+  {
+    "id": "place-direction-center",
+    "word": "center",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["cen", "ter"],
+    "image": "images/place-direction/center.png"
+  },
+  {
+    "id": "place-direction-circle",
+    "word": "circle",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["cir", "cle"],
+    "image": "images/place-direction/circle.png"
+  },
+  {
+    "id": "place-direction-circus",
+    "word": "circus",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["cir", "cus"],
+    "image": "images/place-direction/circus.png"
+  },
+  {
+    "id": "place-direction-city centre",
+    "word": "city centre",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["city", "centre"],
+    "image": "images/place-direction/city centre.png"
+  },
+  {
+    "id": "place-direction-city center",
+    "word": "city center",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["city", "center"],
+    "image": "images/place-direction/city center.png"
+  },
+  {
+    "id": "place-direction-farm",
+    "word": "farm",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["f", "arm"],
+    "image": "images/place-direction/farm.png"
+  },
+  {
+    "id": "place-direction-funfair",
+    "word": "funfair",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["fun", "fair"],
+    "image": "images/place-direction/funfair.png"
+  },
+  {
+    "id": "place-direction-library",
+    "word": "library",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["li", "brar", "y"],
+    "image": "images/place-direction/library.png"
+  },
+  {
+    "id": "place-direction-map",
+    "word": "map",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["m", "a", "p"],
+    "image": "images/place-direction/map.png"
+  },
+  {
+    "id": "place-direction-market",
+    "word": "market",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["mar", "ket"],
+    "image": "images/place-direction/market.png"
+  },
+  {
+    "id": "place-direction-near",
+    "word": "near",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["n", "ear"],
+    "image": "images/place-direction/near.png"
+  },
+  {
+    "id": "place-direction-opposite",
+    "word": "opposite",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["op", "po", "site"],
+    "image": "images/place-direction/opposite.png"
+  },
+  {
+    "id": "place-direction-place",
+    "word": "place",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["pl", "ace"],
+    "image": "images/place-direction/place.png"
+  },
+  {
+    "id": "place-direction-road",
+    "word": "road",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["r", "oa", "d"],
+    "image": "images/place-direction/road.png"
+  },
+  {
+    "id": "place-direction-shopping centre",
+    "word": "shopping centre",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["shopping", "centre"],
+    "image": "images/place-direction/shopping centre.png"
+  },
+  {
+    "id": "place-direction-shopping center",
+    "word": "shopping center",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["shopping", "center"],
+    "image": "images/place-direction/shopping center.png"
+  },
+  {
+    "id": "place-direction-sports centre",
+    "word": "sports centre",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["sports", "centre"],
+    "image": "images/place-direction/sports centre.png"
+  },
+  {
+    "id": "place-direction-sports center",
+    "word": "sports center",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["sports", "center"],
+    "image": "images/place-direction/sports center.png"
+  },
+  {
+    "id": "place-direction-square",
+    "word": "square",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["s", "qu", "are"],
+    "image": "images/place-direction/square.png"
+  },
+  {
+    "id": "place-direction-station",
+    "word": "station",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["sta", "tion"],
+    "image": "images/place-direction/station.png"
+  },
+  {
+    "id": "place-direction-straight",
+    "word": "straight",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["str", "ai", "ght"],
+    "image": "images/place-direction/straight.png"
+  },
+  {
+    "id": "place-direction-supermarket",
+    "word": "supermarket",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["super", "market"],
+    "image": "images/place-direction/supermarket.png"
+  },
+  {
+    "id": "place-direction-swimming pool",
+    "word": "swimming pool",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["swimming", "pool"],
+    "image": "images/place-direction/swimming pool.png"
+  },
+  {
+    "id": "place-direction-town centre",
+    "word": "town centre",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["town", "centre"],
+    "image": "images/place-direction/town centre.png"
+  },
+  {
+    "id": "place-direction-town center",
+    "word": "town center",
+    "level": "movers",
+    "category": "place-direction",
+    "chunks": ["town", "center"],
+    "image": "images/place-direction/town center.png"
   },
   {
     "id": "school-alphabet",

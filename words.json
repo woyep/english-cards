@@ -4051,6 +4051,286 @@
     "image": "images/sport-leisure/walk.png"
   },
   {
+    "id": "sport-leisure-band",
+    "word": "band",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["b", "and"],
+    "image": "images/sport-leisure/band.png"
+  },
+  {
+    "id": "sport-leisure-CD",
+    "word": "CD",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["C", "D"],
+    "image": "images/sport-leisure/CD.png"
+  },
+  {
+    "id": "sport-leisure-cinema",
+    "word": "cinema",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["cin", "e", "ma"],
+    "image": "images/sport-leisure/cinema.png"
+  },
+  {
+    "id": "sport-leisure-comic",
+    "word": "comic",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["com", "ic"],
+    "image": "images/sport-leisure/comic.png"
+  },
+  {
+    "id": "sport-leisure-comic-book",
+    "word": "comic book",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["comic", "book"],
+    "image": "images/sport-leisure/comic-book.png"
+  },
+  {
+    "id": "sport-leisure-dance",
+    "word": "dance",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["d", "ance"],
+    "image": "images/sport-leisure/dance.png"
+  },
+  {
+    "id": "sport-leisure-drive-n",
+    "word": "drive",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["dr", "ive"],
+    "image": "images/sport-leisure/drive-n.png"
+  },
+  {
+    "id": "sport-leisure-DVD",
+    "word": "DVD",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["D", "V", "D"],
+    "image": "images/sport-leisure/DVD.png"
+  },
+  {
+    "id": "sport-leisure-email",
+    "word": "email",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["e", "mail"],
+    "image": "images/sport-leisure/email.png"
+  },
+  {
+    "id": "sport-leisure-film",
+    "word": "film",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["f", "i", "l", "m"],
+    "image": "images/sport-leisure/film.png"
+  },
+  {
+    "id": "sport-leisure-fish-v",
+    "word": "fish",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["f", "i", "sh"],
+    "image": "images/sport-leisure/fish-v.png"
+  },
+  {
+    "id": "sport-leisure-go-shopping",
+    "word": "go shopping",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["go", "shop", "ping"],
+    "image": "images/sport-leisure/go-shopping.png"
+  },
+  {
+    "id": "sport-leisure-goal",
+    "word": "goal",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["g", "oa", "l"],
+    "image": "images/sport-leisure/goal.png"
+  },
+  {
+    "id": "sport-leisure-holiday",
+    "word": "holiday",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["hol", "i", "day"],
+    "image": "images/sport-leisure/holiday.png"
+  },
+  {
+    "id": "sport-leisure-hop",
+    "word": "hop",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["h", "o", "p"],
+    "image": "images/sport-leisure/hop.png"
+  },
+  {
+    "id": "sport-leisure-ice-skates",
+    "word": "ice skates",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["ice", "skates"],
+    "image": "images/sport-leisure/ice-skates.png"
+  },
+  {
+    "id": "sport-leisure-ice-skating",
+    "word": "ice skating",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["ice", "skating"],
+    "image": "images/sport-leisure/ice-skating.png"
+  },
+  {
+    "id": "sport-leisure-kick-n",
+    "word": "kick",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["k", "i", "ck"],
+    "image": "images/sport-leisure/kick-n.png"
+  },
+  {
+    "id": "sport-leisure-movie",
+    "word": "movie",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["mov", "ie"],
+    "image": "images/sport-leisure/movie.png"
+  },
+  {
+    "id": "sport-leisure-net",
+    "word": "net",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["n", "e", "t"],
+    "image": "images/sport-leisure/net.png"
+  },
+  {
+    "id": "sport-leisure-party",
+    "word": "party",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["par", "ty"],
+    "image": "images/sport-leisure/party.png"
+  },
+  {
+    "id": "sport-leisure-player",
+    "word": "player",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["play", "er"],
+    "image": "images/sport-leisure/player.png"
+  },
+  {
+    "id": "sport-leisure-pool",
+    "word": "pool",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["p", "oo", "l"],
+    "image": "images/sport-leisure/pool.png"
+  },
+  {
+    "id": "sport-leisure-practice",
+    "word": "practice",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["prac", "tice"],
+    "image": "images/sport-leisure/practice.png"
+  },
+  {
+    "id": "sport-leisure-present",
+    "word": "present",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["pres", "ent"],
+    "image": "images/sport-leisure/present.png"
+  },
+  {
+    "id": "sport-leisure-ride-n",
+    "word": "ride",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["r", "ide"],
+    "image": "images/sport-leisure/ride-n.png"
+  },
+  {
+    "id": "sport-leisure-roller-skates",
+    "word": "roller skates",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["roller", "skates"],
+    "image": "images/sport-leisure/roller-skates.png"
+  },
+  {
+    "id": "sport-leisure-roller-skating",
+    "word": "roller skating",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["roller", "skating"],
+    "image": "images/sport-leisure/roller-skating.png"
+  },
+  {
+    "id": "sport-leisure-sail",
+    "word": "sail",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["s", "ai", "l"],
+    "image": "images/sport-leisure/sail.png"
+  },
+  {
+    "id": "sport-leisure-score-v",
+    "word": "score",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["s", "core"],
+    "image": "images/sport-leisure/score-v.png"
+  },
+  {
+    "id": "sport-leisure-skate",
+    "word": "skate",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["sk", "ate"],
+    "image": "images/sport-leisure/skate.png"
+  },
+  {
+    "id": "sport-leisure-skip",
+    "word": "skip",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["s", "k", "i", "p"],
+    "image": "images/sport-leisure/skip.png"
+  },
+  {
+    "id": "sport-leisure-swim-n",
+    "word": "swim",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["s", "w", "i", "m"],
+    "image": "images/sport-leisure/swim-n.png"
+  },
+  {
+    "id": "sport-leisure-video",
+    "word": "video",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["vid", "e", "o"],
+    "image": "images/sport-leisure/video.png"
+  },
+  {
+    "id": "sport-leisure-walk-n",
+    "word": "walk",
+    "level": "movers",
+    "category": "sport-leisure",
+    "chunks": ["w", "alk"],
+    "image": "images/sport-leisure/walk-n.png"
+  },
+  {
     "id": "time-afternoon",
     "word": "afternoon",
     "level": "starters",

@@ -4683,6 +4683,38 @@
     "image": "images/transport/truck.png"
   },
   {
+    "id": "transport-driver",
+    "word": "driver",
+    "level": "movers",
+    "category": "transport",
+    "chunks": ["driv", "er"],
+    "image": "images/transport/driver.png"
+  },
+  {
+    "id": "transport-ticket",
+    "word": "ticket",
+    "level": "movers",
+    "category": "transport",
+    "chunks": ["tick", "et"],
+    "image": "images/transport/ticket.png"
+  },
+  {
+    "id": "transport-tractor",
+    "word": "tractor",
+    "level": "movers",
+    "category": "transport",
+    "chunks": ["trac", "tor"],
+    "image": "images/transport/tractor.png"
+  },
+  {
+    "id": "transport-trip",
+    "word": "trip",
+    "level": "movers",
+    "category": "transport",
+    "chunks": ["t", "r", "i", "p"],
+    "image": "images/transport/trip.png"
+  },
+  {
     "id": "the-world-around-us-sand",
     "word": "sand",
     "level": "starters",

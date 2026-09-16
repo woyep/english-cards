@@ -4795,6 +4795,70 @@
     "image": "images/weather/windy.png"
   },
   {
+    "id": "work-clown",
+    "word": "clown",
+    "level": "movers",
+    "category": "work",
+    "chunks": ["cl", "ow", "n"],
+    "image": "images/work/clown.png"
+  },
+  {
+    "id": "work-cook",
+    "word": "cook",
+    "level": "movers",
+    "category": "work",
+    "chunks": ["c", "oo", "k"],
+    "image": "images/work/cook.png"
+  },
+  {
+    "id": "work-farmer",
+    "word": "farmer",
+    "level": "movers",
+    "category": "work",
+    "chunks": ["farm", "er"],
+    "image": "images/work/farmer.png"
+  },
+  {
+    "id": "work-film-star",
+    "word": "film star",
+    "level": "movers",
+    "category": "work",
+    "chunks": ["film", "star"],
+    "image": "images/work/film-star.png"
+  },
+  {
+    "id": "work-movie-star",
+    "word": "movie star",
+    "level": "movers",
+    "category": "work",
+    "chunks": ["movie", "star"],
+    "image": "images/work/movie-star.png"
+  },
+  {
+    "id": "work-pirate",
+    "word": "pirate",
+    "level": "movers",
+    "category": "work",
+    "chunks": ["pi", "ra", "te"],
+    "image": "images/work/pirate.png"
+  },
+  {
+    "id": "work-pop-star",
+    "word": "pop star",
+    "level": "movers",
+    "category": "work",
+    "chunks": ["pop", "star"],
+    "image": "images/work/pop-star.png"
+  },
+  {
+    "id": "work-work",
+    "word": "work",
+    "level": "movers",
+    "category": "work",
+    "chunks": ["w", "or", "k"],
+    "image": "images/work/work.png"
+  },
+  {
     "id": "the-world-around-us-sand",
     "word": "sand",
     "level": "starters",

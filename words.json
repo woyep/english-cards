@@ -4715,6 +4715,86 @@
     "image": "images/transport/trip.png"
   },
   {
+    "id": "weather-cloud",
+    "word": "cloud",
+    "level": "movers",
+    "category": "weather",
+    "chunks": ["cl", "ou", "d"],
+    "image": "images/weather/cloud.png"
+  },
+  {
+    "id": "weather-cloudy",
+    "word": "cloudy",
+    "level": "movers",
+    "category": "weather",
+    "chunks": ["cloud", "y"],
+    "image": "images/weather/cloudy.png"
+  },
+  {
+    "id": "weather-ice",
+    "word": "ice",
+    "level": "movers",
+    "category": "weather",
+    "chunks": ["i", "c", "e"],
+    "image": "images/weather/ice.png"
+  },
+  {
+    "id": "weather-rain",
+    "word": "rain",
+    "level": "movers",
+    "category": "weather",
+    "chunks": ["r", "ai", "n"],
+    "image": "images/weather/rain.png"
+  },
+  {
+    "id": "weather-rainbow",
+    "word": "rainbow",
+    "level": "movers",
+    "category": "weather",
+    "chunks": ["rain", "bow"],
+    "image": "images/weather/rainbow.png"
+  },
+  {
+    "id": "weather-sky",
+    "word": "sky",
+    "level": "movers",
+    "category": "weather",
+    "chunks": ["s", "k", "y"],
+    "image": "images/weather/sky.png"
+  },
+  {
+    "id": "weather-snow",
+    "word": "snow",
+    "level": "movers",
+    "category": "weather",
+    "chunks": ["s", "n", "ow"],
+    "image": "images/weather/snow.png"
+  },
+  {
+    "id": "weather-sunny",
+    "word": "sunny",
+    "level": "movers",
+    "category": "weather",
+    "chunks": ["sun", "ny"],
+    "image": "images/weather/sunny.png"
+  },
+  {
+    "id": "weather-wind",
+    "word": "wind",
+    "level": "movers",
+    "category": "weather",
+    "chunks": ["w", "i", "n", "d"],
+    "image": "images/weather/wind.png"
+  },
+  {
+    "id": "weather-windy",
+    "word": "windy",
+    "level": "movers",
+    "category": "weather",
+    "chunks": ["wind", "y"],
+    "image": "images/weather/windy.png"
+  },
+  {
     "id": "the-world-around-us-sand",
     "word": "sand",
     "level": "starters",

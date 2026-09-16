@@ -4395,6 +4395,142 @@
     "image": "images/time/year.png"
   },
   {
+    "id": "time-after",
+    "word": "after",
+    "level": "movers",
+    "category": "time",
+    "chunks": ["af", "ter"],
+    "image": "images/time/after.png"
+  },
+  {
+    "id": "time-always",
+    "word": "always",
+    "level": "movers",
+    "category": "time",
+    "chunks": ["al", "ways"],
+    "image": "images/time/always.png"
+  },
+  {
+    "id": "time-before",
+    "word": "before",
+    "level": "movers",
+    "category": "time",
+    "chunks": ["be", "fore"],
+    "image": "images/time/before.png"
+  },
+  {
+    "id": "time-every",
+    "word": "every",
+    "level": "movers",
+    "category": "time",
+    "chunks": ["ev", "ery"],
+    "image": "images/time/every.png"
+  },
+  {
+    "id": "time-never",
+    "word": "never",
+    "level": "movers",
+    "category": "time",
+    "chunks": ["nev", "er"],
+    "image": "images/time/never.png"
+  },
+  {
+    "id": "time-o'clock",
+    "word": "o'clock",
+    "level": "movers",
+    "category": "time",
+    "chunks": ["o'", "clock"],
+    "image": "images/time/o'clock.png"
+  },
+  {
+    "id": "time-sometimes",
+    "word": "sometimes",
+    "level": "movers",
+    "category": "time",
+    "chunks": ["some", "times"],
+    "image": "images/time/sometimes.png"
+  },
+  {
+    "id": "time-week",
+    "word": "week",
+    "level": "movers",
+    "category": "time",
+    "chunks": ["w", "ee", "k"],
+    "image": "images/time/week.png"
+  },
+  {
+    "id": "time-weekend",
+    "word": "weekend",
+    "level": "movers",
+    "category": "time",
+    "chunks": ["week", "end"],
+    "image": "images/time/weekend.png"
+  },
+  {
+    "id": "time-yesterday",
+    "word": "yesterday",
+    "level": "movers",
+    "category": "time",
+    "chunks": ["yes", "ter", "day"],
+    "image": "images/time/yesterday.png"
+  },
+  {
+    "id": "time-Monday",
+    "word": "Monday",
+    "level": "movers",
+    "category": "time",
+    "chunks": ["Mon", "day"],
+    "image": "images/time/Monday.png"
+  },
+  {
+    "id": "time-Tuesday",
+    "word": "Tuesday",
+    "level": "movers",
+    "category": "time",
+    "chunks": ["Tues", "day"],
+    "image": "images/time/Tuesday.png"
+  },
+  {
+    "id": "time-Wednesday",
+    "word": "Wednesday",
+    "level": "movers",
+    "category": "time",
+    "chunks": ["Wednes", "day"],
+    "image": "images/time/Wednesday.png"
+  },
+  {
+    "id": "time-Thursday",
+    "word": "Thursday",
+    "level": "movers",
+    "category": "time",
+    "chunks": ["Thurs", "day"],
+    "image": "images/time/Thursday.png"
+  },
+  {
+    "id": "time-Friday",
+    "word": "Friday",
+    "level": "movers",
+    "category": "time",
+    "chunks": ["Fri", "day"],
+    "image": "images/time/Friday.png"
+  },
+  {
+    "id": "time-Saturday",
+    "word": "Saturday",
+    "level": "movers",
+    "category": "time",
+    "chunks": ["Sat", "ur", "day"],
+    "image": "images/time/Saturday.png"
+  },
+  {
+    "id": "time-Sunday",
+    "word": "Sunday",
+    "level": "movers",
+    "category": "time",
+    "chunks": ["Sun", "day"],
+    "image": "images/time/Sunday.png"
+  },
+  {
     "id": "toy-alien",
     "word": "alien",
     "level": "starters",

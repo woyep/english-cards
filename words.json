@@ -4595,6 +4595,14 @@
     "image": "images/toy/toy.png"
   },
   {
+    "id": "toy-model",
+    "word": "model",
+    "level": "movers",
+    "category": "toy",
+    "chunks": ["mod", "el"],
+    "image": "images/toy/model.png"
+  },
+  {
     "id": "transport-bus",
     "word": "bus",
     "level": "starters",

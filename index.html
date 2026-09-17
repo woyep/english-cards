@@ -9,29 +9,36 @@
     <h1>English Words Cards</h1>
 
     <div style="margin-bottom: 30px">
-      <button onclick="loadWordSet('animal')">Animal</button>
-      <button onclick="loadWordSet('body-face')">The Body & The Face</button>
-      <button onclick="loadWordSet('clothes')">Clothes</button>
-      <button onclick="loadWordSet('colours')">Colours</button>
-      <button onclick="loadWordSet('family-friends')">Family & Friends</button>
-      <button onclick="loadWordSet('food-drink')">Food & Drink</button>
-      <button onclick="loadWordSet('health')">Health</button>
-      <button onclick="loadWordSet('home')">Home</button>
-      <button onclick="loadWordSet('it')">IT</button>
-      <button onclick="loadWordSet('number')">Number</button>
-      <button onclick="loadWordSet('place-direction')">
-        Place & Direction
-      </button>
-      <button onclick="loadWordSet('school')">School</button>
-      <button onclick="loadWordSet('sport-leisure')">Sport & Leisure</button>
-      <button onclick="loadWordSet('time')">Time</button>
-      <button onclick="loadWordSet('toy')">Toy</button>
-      <button onclick="loadWordSet('transport')">Transport</button>
-      <button onclick="loadWordSet('weather')">Weather</button>
-      <button onclick="loadWordSet('work')">Work</button>
-      <button onclick="loadWordSet('the-world-around-us')">
-        The World Around Us
-      </button>
+      <label for="level-select">Level:</label>
+      <select id="level-select">
+        <option value="all">All levels</option>
+        <option value="starters">Starters</option>
+        <option value="movers">Movers</option>
+      </select>
+
+      <label for="category-select">Category:</label>
+      <select id="category-select">
+        <option value="all">All categories</option>
+        <option value="animal">Animal</option>
+        <option value="body-face">The Body &amp; The Face</option>
+        <option value="clothes">Clothes</option>
+        <option value="colours">Colours</option>
+        <option value="family-friends">Family &amp; Friends</option>
+        <option value="food-drink">Food &amp; Drink</option>
+        <option value="health">Health</option>
+        <option value="home">Home</option>
+        <option value="it">IT</option>
+        <option value="number">Number</option>
+        <option value="place-direction">Place &amp; Direction</option>
+        <option value="school">School</option>
+        <option value="sport-leisure">Sport &amp; Leisure</option>
+        <option value="time">Time</option>
+        <option value="toy">Toy</option>
+        <option value="transport">Transport</option>
+        <option value="weather">Weather</option>
+        <option value="work">Work</option>
+        <option value="the-world-around-us">The World Around Us</option>
+      </select>
     </div>
 
     <div style="margin-bottom: 20px">

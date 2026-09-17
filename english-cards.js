@@ -1,4 +1,4 @@
-let allWordSets = {};
+let allWordSets = [];
 let words = [];
 let currentIndex = 0;
 let currentMode = "read";
@@ -7,20 +7,41 @@ fetch("words.json")
   .then((res) => res.json())
   .then((data) => {
     allWordSets = data;
-    loadWordSet("animal");
+    loadWordSet();
   });
 
-function loadWordSet(category) {
-  words = allWordSets.filter((wordObj) => wordObj.category === category);
+function loadWordSet() {
+  const level = document.getElementById("level-select").value;
+  const category = document.getElementById("category-select").value;
+
+  words = allWordSets.filter((wordObj) => {
+    const matchesLevel = level === "all" || wordObj.level === level;
+
+    const matchesCategory = category === "all" || wordObj.category === category;
+
+    return matchesLevel && matchesCategory;
+  });
+
+  currentIndex = 0;
+  clearFields();
+
   if (words.length > 0) {
-    currentIndex = 0;
-    clearFields();
+    document.getElementById("image").hidden = false;
     loadImage();
+  } else {
+    document.getElementById("image").hidden = true;
+    document.getElementById("image").removeAttribute("src");
   }
 }
+document.getElementById("level-select").addEventListener("change", loadWordSet);
+
+document
+  .getElementById("category-select")
+  .addEventListener("change", loadWordSet);
 
 // 单独加载图片
 function loadImage() {
+  if (!words.length) return;
   const wordObj = words[currentIndex];
   document.getElementById("image").src = wordObj.image;
   document.getElementById("word-display").innerText = ""; // 不显示单词
@@ -28,12 +49,14 @@ function loadImage() {
 
 // 点击 SHOW，加载单词
 function showText() {
+  if (!words.length) return;
   const wordObj = words[currentIndex];
   document.getElementById("word-display").innerText = wordObj.word;
 }
 
 // 下一词，加载图片，不加载单词
 function nextWord() {
+  if (!words.length) return;
   currentIndex = (currentIndex + 1) % words.length;
   clearFields();
   loadImage(); // 只加载图片
@@ -54,6 +77,7 @@ function setMode(mode) {
 }
 
 function showWord() {
+  if (!words.length) return;
   const wordObj = words[currentIndex];
   document.getElementById("image").src = wordObj.image;
   document.getElementById("input-word").value = "";
@@ -62,6 +86,7 @@ function showWord() {
 }
 
 function checkAnswer() {
+  if (!words.length) return;
   const input = document
     .getElementById("input-word")
     .value.trim()
@@ -90,6 +115,7 @@ function clearFields() {
 }
 
 document.addEventListener("keydown", function (event) {
+  if (document.activeElement?.tagName === "SELECT") return;
   // 按下 ArrowDown 键触发 Next
   if (event.key === "ArrowDown") {
     nextWord(); // 切换到下一个单词

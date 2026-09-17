@@ -3,6 +3,10 @@ let words = [];
 let currentIndex = 0;
 let currentMode = "read";
 
+// BUILD 模式：候选词块与已选择的词块
+let buildChunks = [];
+let selectedChunks = [];
+
 fetch("words.json")
   .then((res) => res.json())
   .then((data) => {
@@ -47,11 +51,19 @@ function loadImage() {
   document.getElementById("word-display").innerText = ""; // 不显示单词
 }
 
-// 点击 SHOW，加载单词
+// 点击 SHOW，加载单词，根据当前模式显示答案
 function showText() {
   if (!words.length) return;
+
   const wordObj = words[currentIndex];
-  document.getElementById("word-display").innerText = wordObj.word;
+
+  if (currentMode === "build") {
+    const feedback = document.getElementById("build-feedback");
+    feedback.textContent = "答案：" + wordObj.word;
+    feedback.className = "";
+  } else {
+    document.getElementById("word-display").innerText = wordObj.word;
+  }
 }
 
 // 下一词，加载图片，不加载单词
@@ -62,18 +74,21 @@ function nextWord() {
   loadImage(); // 只加载图片
 }
 
-// 切换模式（拼写模式）
+// 切换 READ、SPELL、BUILD 模式
 function setMode(mode) {
   currentMode = mode;
+
   document.getElementById("read-mode").style.display =
     mode === "read" ? "block" : "none";
+
   document.getElementById("spell-mode").style.display =
     mode === "spell" ? "block" : "none";
-  if (mode === "read") {
-    loadImage();
-  } else {
-    showWord(); // 拼写模式继续用原来的逻辑
-  }
+
+  document.getElementById("build-mode").style.display =
+    mode === "build" ? "block" : "none";
+
+  clearFields();
+  loadImage();
 }
 
 function showWord() {
@@ -106,12 +121,14 @@ function checkAnswer() {
   answer.innerText = "正确拼写：" + correct;
 }
 
-// 清空
+// 清空答案和输入，重新准备词块
 function clearFields() {
   document.getElementById("word-display").innerText = "";
   document.getElementById("input-word").value = "";
   document.getElementById("feedback").innerText = "";
   document.getElementById("correct-answer").innerText = "";
+
+  resetBuild();
 }
 
 document.addEventListener("keydown", function (event) {
@@ -132,3 +149,90 @@ document.addEventListener("keydown", function (event) {
     }
   }
 });
+
+// 准备当前单词的词块，并打乱顺序
+function resetBuild() {
+  selectedChunks = [];
+
+  const wordObj = words[currentIndex];
+  buildChunks = wordObj ? wordObj.chunks.map((text, id) => ({ text, id })) : [];
+
+  // 随机交换词块的位置
+  for (let i = buildChunks.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [buildChunks[i], buildChunks[j]] = [buildChunks[j], buildChunks[i]];
+  }
+
+  renderBuild();
+}
+
+// 显示词块，处理选择与撤回
+function renderBuild() {
+  const answer = document.getElementById("build-answer");
+  const options = document.getElementById("build-options");
+  const feedback = document.getElementById("build-feedback");
+
+  answer.replaceChildren();
+  options.replaceChildren();
+  feedback.textContent = "";
+  feedback.className = "";
+
+  // 上方：已选择的词块，点击即可撤回
+  selectedChunks.forEach((chunk, index) => {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "chunk-button";
+    button.textContent = chunk.text;
+
+    button.addEventListener("click", () => {
+      selectedChunks.splice(index, 1);
+      renderBuild();
+    });
+
+    answer.appendChild(button);
+  });
+
+  // 下方：候选词块，已使用的暂时禁用
+  buildChunks.forEach((chunk) => {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "chunk-button";
+    button.textContent = chunk.text;
+    button.disabled = selectedChunks.some(
+      (selected) => selected.id === chunk.id,
+    );
+
+    button.addEventListener("click", () => {
+      selectedChunks.push(chunk);
+      renderBuild();
+    });
+
+    options.appendChild(button);
+  });
+}
+
+// 检查是否用完词块，并拼出了正确内容
+function checkBuild() {
+  if (!words.length) return;
+
+  const wordObj = words[currentIndex];
+  const feedback = document.getElementById("build-feedback");
+
+  if (selectedChunks.length !== buildChunks.length) {
+    feedback.textContent = "请先用完所有词块。";
+    feedback.className = "";
+    return;
+  }
+
+  const assembled = selectedChunks.map((chunk) => chunk.text).join("");
+
+  const expected = wordObj.chunks.join("");
+
+  if (assembled === expected) {
+    feedback.textContent = "✔ 正确！" + wordObj.word;
+    feedback.className = "correct";
+  } else {
+    feedback.textContent = "✘ 再试一次，点击上方词块可以撤回。";
+    feedback.className = "wrong";
+  }
+}

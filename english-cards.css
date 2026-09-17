@@ -34,3 +34,46 @@ select {
   margin: 8px;
   max-width: 90%;
 }
+
+/* BUILD 模式：词块布局与按钮样式 */
+.chunk-area {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  min-height: 70px;
+  max-width: 700px;
+  margin: 12px auto;
+  padding: 12px;
+}
+
+#build-answer {
+  border: 2px dashed #aaa;
+  border-radius: 12px;
+}
+
+.chunk-button {
+  margin: 0;
+  font-size: 28px;
+  border: 1px solid #b8c8dc;
+  border-radius: 10px;
+  background: #edf4ff;
+  color: #222;
+  cursor: pointer;
+}
+
+#build-answer .chunk-button {
+  background: #fff0ce;
+  border-color: #d8b66a;
+}
+
+.chunk-button:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.chunk-button:focus-visible {
+  outline: 3px solid #3468b2;
+  outline-offset: 3px;
+}

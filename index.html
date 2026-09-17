@@ -43,6 +43,7 @@
 
     <div style="margin-bottom: 20px">
       <button onclick="setMode('read')">READ</button>
+      <button onclick="setMode('build')">BUILD</button>
       <button onclick="setMode('spell')">SPELL</button>
     </div>
 
@@ -59,6 +60,19 @@
       <button onclick="checkAnswer()">CHECK</button>
       <p id="feedback"></p>
       <p id="correct-answer"></p>
+    </div>
+
+    <!-- BUILD 模式：点击词块，按顺序组成单词 -->
+    <div id="build-mode" style="margin-top: 20px; display: none">
+      <p>Build the word.</p>
+
+      <div id="build-answer" class="chunk-area"></div>
+      <div id="build-options" class="chunk-area"></div>
+
+      <button onclick="checkBuild()">CHECK</button>
+      <button onclick="resetBuild()">RESET</button>
+
+      <p id="build-feedback" role="status"></p>
     </div>
 
     <div>

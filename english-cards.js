@@ -74,6 +74,15 @@ function nextWord() {
   loadImage(); // 只加载图片
 }
 
+// 上一个词；第一词再往前时，回到最后一词
+function previousWord() {
+  if (!words.length) return;
+
+  currentIndex = (currentIndex - 1 + words.length) % words.length;
+  clearFields();
+  loadImage();
+}
+
 // 切换 READ、SPELL、BUILD 模式
 function setMode(mode) {
   currentMode = mode;
@@ -132,20 +141,50 @@ function clearFields() {
 }
 
 document.addEventListener("keydown", function (event) {
-  if (document.activeElement?.tagName === "SELECT") return;
-  // 按下 ArrowDown 键触发 Next
-  if (event.key === "ArrowDown") {
-    nextWord(); // 切换到下一个单词
+  if (event.isComposing) return;
+
+  const active = document.activeElement;
+
+  // 下拉菜单保留原生键盘操作
+  if (active?.tagName === "SELECT") return;
+
+  // 输入时，左右键用于移动光标；Enter 检查拼写
+  if (active?.tagName === "INPUT") {
+    if (
+      (event.key === "Enter" || event.key === "ArrowDown") &&
+      active.id === "input-word"
+    ) {
+      event.preventDefault();
+      checkAnswer();
+    }
+    return;
   }
-  // 按下 ArrowUp 键触发 Show
-  else if (event.key === "ArrowUp") {
-    showText(); // 显示当前单词
+
+  if (active?.tagName === "TEXTAREA" || active?.isContentEditable) {
+    return;
   }
-  // 按下 Enter 键触发 Check
-  else if (event.key === "Enter") {
-    // 如果焦点在输入框中，触发拼写检查
-    if (document.activeElement === document.getElementById("input-word")) {
-      checkAnswer(); // 检查拼写
+
+  // 不占用浏览器或系统的组合快捷键
+  if (event.ctrlKey || event.metaKey || event.altKey || event.shiftKey) {
+    return;
+  }
+
+  if (event.key === "ArrowLeft") {
+    event.preventDefault();
+    previousWord();
+  } else if (event.key === "ArrowRight") {
+    event.preventDefault();
+    nextWord();
+  } else if (event.key === "ArrowUp") {
+    event.preventDefault();
+    showText();
+  } else if (event.key === "ArrowDown") {
+    event.preventDefault();
+
+    if (currentMode === "build") {
+      checkBuild();
+    } else if (currentMode === "spell") {
+      checkAnswer();
     }
   }
 });

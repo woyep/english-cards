@@ -79,9 +79,17 @@
     <div>
       <button onclick="previousWord()">⬅️PREVIOUS</button>
       <button onclick="showText()">⬆️SHOW⬆️</button>
+      <button
+        type="button"
+        onclick="speakWord()"
+        aria-label="朗读当前单词"
+        title="朗读当前单词"
+      >
+        🔊
+      </button>
       <button onclick="nextWord()">NEXT➡️</button>
     </div>
-
+    <p id="speech-feedback" role="status"></p>
     <script src="english-cards.js"></script>
   </body>
 </html>

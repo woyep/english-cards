@@ -132,6 +132,7 @@ function checkAnswer() {
 
 // 清空答案和输入，重新准备词块
 function clearFields() {
+  stopSpeech();
   document.getElementById("word-display").innerText = "";
   document.getElementById("input-word").value = "";
   document.getElementById("feedback").innerText = "";
@@ -274,4 +275,78 @@ function checkBuild() {
     feedback.textContent = "✘ 再试一次，点击上方词块可以撤回。";
     feedback.className = "wrong";
   }
+}
+// 朗读：使用设备提供的美式英语声音
+const speechSupported =
+  "speechSynthesis" in window && "SpeechSynthesisUtterance" in window;
+
+let americanVoice = null;
+let activeSpeech = null;
+
+function updateVoices() {
+  if (!speechSupported) return;
+
+  americanVoice =
+    window.speechSynthesis
+      .getVoices()
+      .find(
+        (voice) => voice.lang.replace("_", "-").toLowerCase() === "en-us",
+      ) || null;
+}
+
+if (speechSupported) {
+  updateVoices();
+  window.speechSynthesis.addEventListener("voiceschanged", updateVoices);
+}
+
+// 停止旧声音，并清空提示
+function stopSpeech() {
+  activeSpeech = null;
+
+  if (speechSupported) {
+    window.speechSynthesis.cancel();
+  }
+
+  document.getElementById("speech-feedback").textContent = "";
+}
+
+// 点击按钮才朗读，不自动播放
+function speakWord() {
+  const feedback = document.getElementById("speech-feedback");
+  const wordObj = words[currentIndex];
+
+  if (!wordObj) return;
+
+  if (!speechSupported) {
+    feedback.textContent = "当前浏览器不支持朗读。";
+    return;
+  }
+
+  stopSpeech();
+  updateVoices();
+
+  if (!americanVoice) {
+    feedback.textContent =
+      "暂未找到美式英语声音，请稍后重试或检查设备的英语语音设置。";
+    return;
+  }
+
+  const speech = new SpeechSynthesisUtterance(wordObj.word);
+  speech.voice = americanVoice;
+  speech.lang = "en-US";
+  speech.rate = 0.9;
+  activeSpeech = speech;
+
+  speech.onend = () => {
+    if (activeSpeech === speech) activeSpeech = null;
+  };
+
+  speech.onerror = () => {
+    // 主动换词或停止旧声音时，不显示错误
+    if (activeSpeech !== speech) return;
+    activeSpeech = null;
+    feedback.textContent = "朗读失败，请重试，并检查网络和设备声音设置。";
+  };
+
+  window.speechSynthesis.speak(speech);
 }

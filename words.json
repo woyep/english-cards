@@ -299,7 +299,7 @@
     "id": "animal-jungle",
     "word": "jungle",
     "level": "movers",
-    "category": "animal",
+    "category": ["animal", "the-world-around-us"],
     "chunks": ["jun", "gle"],
     "image": "images/animal/jungle.png"
   },

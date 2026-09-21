@@ -21,7 +21,12 @@ function loadWordSet() {
   words = allWordSets.filter((wordObj) => {
     const matchesLevel = level === "all" || wordObj.level === level;
 
-    const matchesCategory = category === "all" || wordObj.category === category;
+    // 同时支持单分类字符串和多分类数组
+    const categories = Array.isArray(wordObj.category)
+      ? wordObj.category
+      : [wordObj.category];
+
+    const matchesCategory = category === "all" || categories.includes(category);
 
     return matchesLevel && matchesCategory;
   });

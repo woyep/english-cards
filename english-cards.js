@@ -53,7 +53,9 @@ function loadImage() {
   if (!words.length) return;
   const wordObj = words[currentIndex];
   document.getElementById("image").src = wordObj.image;
-  document.getElementById("word-display").innerText = ""; // 不显示单词
+  // READ 模式自动显示单词
+  document.getElementById("word-display").innerText =
+    currentMode === "read" ? wordObj.word : "";
 }
 
 // 点击 SHOW，加载单词，根据当前模式显示答案

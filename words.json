@@ -96,12 +96,12 @@
     "image": "images/animal/elephant.png"
   },
   {
-    "id": "animal-fish",
+    "id": "animal-fish-singular",
     "word": "fish",
     "level": "starters",
     "category": "animal",
     "chunks": ["fish"],
-    "image": "images/animal/fish.png"
+    "image": "images/animal/fish-s.png"
   },
   {
     "id": "animal-fish-plural",
@@ -208,12 +208,12 @@
     "image": "images/animal/polar-bear.png"
   },
   {
-    "id": "animal-sheep",
+    "id": "animal-sheep-singular",
     "word": "sheep",
     "level": "starters",
     "category": "animal",
     "chunks": ["sh", "ee", "p"],
-    "image": "images/animal/sheep.png"
+    "image": "images/animal/sheep-s.png"
   },
   {
     "id": "animal-sheep-plural",
@@ -267,8 +267,8 @@
     "id": "animal-zoo",
     "word": "zoo",
     "level": "starters",
-    "category": "animal",
-    "chunks": ["zoo"],
+    "category": ["animal", "place-direction"],
+    "chunks": ["z", "oo"],
     "image": "images/animal/zoo.png"
   },
   {
@@ -294,6 +294,14 @@
     "category": "animal",
     "chunks": ["dol", "phin"],
     "image": "images/animal/dolphin.png"
+  },
+  {
+    "id": "animal-fly",
+    "word": "fly",
+    "level": "movers",
+    "category": "animal",
+    "chunks": ["fl", "y"],
+    "image": "images/animal/fly.png"
   },
   {
     "id": "animal-jungle",
@@ -391,6 +399,7 @@
     "chunks": ["wh", "ale"],
     "image": "images/animal/whale.png"
   },
+
   {
     "id": "body-face-arm",
     "word": "arm",
@@ -524,8 +533,16 @@
     "word": "blond",
     "level": "movers",
     "category": "body-face",
-    "chunks": ["bl", "ond"],
+    "chunks": ["bl", "o", "nd"],
     "image": "images/body-face/blond.png"
+  },
+  {
+    "id": "body-face-blonde",
+    "word": "blonde",
+    "level": "movers",
+    "category": "body-face",
+    "chunks": ["bl", "o", "nde"],
+    "image": "images/body-face/blonde.png"
   },
   {
     "id": "body-face-curly",
@@ -615,6 +632,7 @@
     "chunks": ["t", "ee", "th"],
     "image": "images/body-face/teeth.png"
   },
+
   {
     "id": "clothes-bag",
     "word": "bag",
@@ -628,7 +646,7 @@
     "word": "baseball cap",
     "level": "starters",
     "category": "clothes",
-    "chunks": ["base", "ball", "cap"],
+    "chunks": ["baseball", "cap"],
     "image": "images/clothes/baseball-cap.png"
   },
   {
@@ -704,12 +722,12 @@
     "image": "images/clothes/shirt.png"
   },
   {
-    "id": "clothes-shoes",
-    "word": "shoes",
+    "id": "clothes-shoe",
+    "word": "shoe",
     "level": "starters",
     "category": "clothes",
-    "chunks": ["sh", "oe", "s"],
-    "image": "images/clothes/shoes.png"
+    "chunks": ["sh", "oe"],
+    "image": "images/clothes/shoe.png"
   },
   {
     "id": "clothes-shorts",
@@ -755,7 +773,7 @@
     "id": "clothes-watch",
     "word": "watch",
     "level": "starters",
-    "category": "clothes",
+    "category": ["clothes", "time"],
     "chunks": ["wa", "tch"],
     "image": "images/clothes/watch.png"
   },
@@ -807,6 +825,7 @@
     "chunks": ["swim", "suit"],
     "image": "images/clothes/swimsuit.png"
   },
+
   {
     "id": "colours-black",
     "word": "black",
@@ -832,20 +851,28 @@
     "image": "images/colours/brown.png"
   },
   {
+    "id": "colours-color",
+    "word": "color",
+    "level": "starters",
+    "category": ["colours", "school"],
+    "chunks": ["col", "or"],
+    "image": "images/colours/color.png"
+  },
+  {
     "id": "colours-colour",
     "word": "colour",
     "level": "starters",
-    "category": "colours",
+    "category": ["colours", "school"],
     "chunks": ["col", "our"],
     "image": "images/colours/colour.png"
   },
   {
-    "id": "colours-grey",
-    "word": "grey",
+    "id": "colours-gray",
+    "word": "gray",
     "level": "starters",
     "category": "colours",
-    "chunks": ["gr", "ey"],
-    "image": "images/colours/grey.png"
+    "chunks": ["gr", "ay"],
+    "image": "images/colours/gray.png"
   },
   {
     "id": "colours-green",
@@ -854,6 +881,14 @@
     "category": "colours",
     "chunks": ["gr", "een"],
     "image": "images/colours/green.png"
+  },
+  {
+    "id": "colours-grey",
+    "word": "grey",
+    "level": "starters",
+    "category": "colours",
+    "chunks": ["gr", "ey"],
+    "image": "images/colours/grey.png"
   },
   {
     "id": "colours-orange",
@@ -903,6 +938,7 @@
     "chunks": ["yel", "low"],
     "image": "images/colours/yellow.png"
   },
+
   {
     "id": "family-friends-baby",
     "word": "baby",
@@ -1132,7 +1168,7 @@
     "word": "young",
     "level": "starters",
     "category": "family-friends",
-    "chunks": ["y", "o", "u", "n", "g"],
+    "chunks": ["y", "ou", "ng"],
     "image": "images/family-friends/young.png"
   },
   {
@@ -1207,6 +1243,7 @@
     "chunks": ["un", "cle"],
     "image": "images/family-friends/uncle.png"
   },
+
   {
     "id": "food-drink-apple",
     "word": "apple",
@@ -1376,19 +1413,19 @@
     "image": "images/food-drink/fruit.png"
   },
   {
-    "id": "food-drink-grapes",
-    "word": "grapes",
+    "id": "food-drink-grape",
+    "word": "grape",
     "level": "starters",
     "category": "food-drink",
-    "chunks": ["g", "ra", "pe", "s"],
-    "image": "images/food-drink/grapes.png"
+    "chunks": ["g", "ra", "pe"],
+    "image": "images/food-drink/grape.png"
   },
   {
     "id": "food-drink-ice-cream",
     "word": "ice cream",
     "level": "starters",
     "category": "food-drink",
-    "chunks": ["i", "ce", "c", "re", "am"],
+    "chunks": ["ice", "cream"],
     "image": "images/food-drink/ice-cream.png"
   },
   {
@@ -1488,6 +1525,14 @@
     "image": "images/food-drink/orange.png"
   },
   {
+    "id": "food-drink-pea",
+    "word": "pea",
+    "level": "starters",
+    "category": "food-drink",
+    "chunks": ["p", "ea"],
+    "image": "images/food-drink/pea.png"
+  },
+  {
     "id": "food-drink-pear",
     "word": "pear",
     "level": "starters",
@@ -1508,7 +1553,7 @@
     "word": "pineapple",
     "level": "starters",
     "category": "food-drink",
-    "chunks": ["p", "ine", "apple"],
+    "chunks": ["pine", "apple"],
     "image": "images/food-drink/pineapple.png"
   },
   {
@@ -1555,7 +1600,7 @@
     "id": "food-drink-water",
     "word": "water",
     "level": "starters",
-    "category": "food-drink",
+    "category": ["food-drink", "the-world-around-us"],
     "chunks": ["wa", "ter"],
     "image": "images/food-drink/water.png"
   },
@@ -1564,7 +1609,7 @@
     "word": "watermelon",
     "level": "starters",
     "category": "food-drink",
-    "chunks": ["wa", "ter", "me", "lon"],
+    "chunks": ["water", "melon"],
     "image": "images/food-drink/watermelon.png"
   },
 
@@ -1757,7 +1802,7 @@
     "id": "health-dentist",
     "word": "dentist",
     "level": "movers",
-    "category": "health",
+    "category": ["health", "work"],
     "chunks": ["den", "tist"],
     "image": "images/health/dentist.png"
   },
@@ -1765,7 +1810,7 @@
     "id": "health-doctor",
     "word": "doctor",
     "level": "movers",
-    "category": "health",
+    "category": ["health", "work"],
     "chunks": ["doc", "tor"],
     "image": "images/health/doctor.png"
   },
@@ -1805,7 +1850,7 @@
     "id": "health-hospital",
     "word": "hospital",
     "level": "movers",
-    "category": "health",
+    "category": ["health", "place-direction", "work"],
     "chunks": ["hos", "pi", "tal"],
     "image": "images/health/hospital.png"
   },
@@ -1837,7 +1882,7 @@
     "id": "health-nurse",
     "word": "nurse",
     "level": "movers",
-    "category": "health",
+    "category": ["health", "work"],
     "chunks": ["n", "ur", "se"],
     "image": "images/health/nurse.png"
   },
@@ -1851,7 +1896,7 @@
   },
   {
     "id": "health-stomach-ache",
-    "word": "stomach-ache`",
+    "word": "stomach-ache",
     "level": "movers",
     "category": "health",
     "chunks": ["stomach", "-", "ache"],
@@ -1934,7 +1979,7 @@
     "id": "home-bookcase",
     "word": "bookcase",
     "level": "starters",
-    "category": "home",
+    "category": ["home", "school"],
     "chunks": ["book", "case"],
     "image": "images/home/bookcase.png"
   },
@@ -1950,7 +1995,7 @@
     "id": "home-camera",
     "word": "camera",
     "level": "starters",
-    "category": "home",
+    "category": ["home", "sport-leisure"],
     "chunks": ["ca", "me", "ra"],
     "image": "images/home/camera.png"
   },
@@ -1966,15 +2011,23 @@
     "id": "home-clock",
     "word": "clock",
     "level": "starters",
-    "category": "home",
+    "category": ["home", "time"],
     "chunks": ["cl", "ock"],
     "image": "images/home/clock.png"
+  },
+  {
+    "id": "home-computer",
+    "word": "computer",
+    "level": "starters",
+    "category": ["home", "school"],
+    "chunks": ["com", "pu", "ter"],
+    "image": "images/home/computer.png"
   },
   {
     "id": "home-cupboard",
     "word": "cupboard",
     "level": "starters",
-    "category": "home",
+    "category": ["home", "school"],
     "chunks": ["cup", "board"],
     "image": "images/home/cupboard.png"
   },
@@ -1982,7 +2035,7 @@
     "id": "home-desk",
     "word": "desk",
     "level": "starters",
-    "category": "home",
+    "category": ["home", "school"],
     "chunks": ["d", "e", "sk"],
     "image": "images/home/desk.png"
   },
@@ -1998,7 +2051,7 @@
     "id": "home-doll",
     "word": "doll",
     "level": "starters",
-    "category": "home",
+    "category": ["home", "sport-leisure", "toy"],
     "chunks": ["d", "o", "ll"],
     "image": "images/home/doll.png"
   },
@@ -2006,7 +2059,7 @@
     "id": "home-door",
     "word": "door",
     "level": "starters",
-    "category": "home",
+    "category": ["home", "school"],
     "chunks": ["d", "oo", "r"],
     "image": "images/home/door.png"
   },
@@ -2102,7 +2155,7 @@
     "id": "home-painting",
     "word": "painting",
     "level": "starters",
-    "category": "home",
+    "category": ["home", "school", "sport-leisure"],
     "chunks": ["paint", "ing"],
     "image": "images/home/painting.png"
   },
@@ -2118,7 +2171,7 @@
     "id": "home-picture",
     "word": "picture",
     "level": "starters",
-    "category": "home",
+    "category": ["home", "school", "sport-leisure"],
     "chunks": ["pic", "ture"],
     "image": "images/home/picture.png"
   },
@@ -2126,7 +2179,7 @@
     "id": "home-radio",
     "word": "radio",
     "level": "starters",
-    "category": "home",
+    "category": ["home", "sport-leisure"],
     "chunks": ["ra", "dio"],
     "image": "images/home/radio.png"
   },
@@ -2171,18 +2224,18 @@
     "image": "images/home/table.png"
   },
   {
-    "id": "home-tv",
-    "word": "TV",
+    "id": "home-television",
+    "word": "television",
     "level": "starters",
-    "category": "home",
-    "chunks": ["t", "v"],
-    "image": "images/home/tv.png"
+    "category": ["home", "sport-leisure"],
+    "chunks": ["tel", "e", "vi", "sion"],
+    "image": "images/home/television.png"
   },
   {
     "id": "home-toy",
     "word": "toy",
     "level": "starters",
-    "category": "home",
+    "category": ["home", "sport-leisure", "toy"],
     "chunks": ["t", "o", "y"],
     "image": "images/home/toy.png"
   },
@@ -2190,15 +2243,23 @@
     "id": "home-tree",
     "word": "tree",
     "level": "starters",
-    "category": "home",
+    "category": ["home", "the-world-around-us"],
     "chunks": ["t", "r", "ee"],
     "image": "images/home/tree.png"
+  },
+  {
+    "id": "home-tv",
+    "word": "TV",
+    "level": "starters",
+    "category": ["home", "sport-leisure"],
+    "chunks": ["t", "v"],
+    "image": "images/home/tv.png"
   },
   {
     "id": "home-wall",
     "word": "wall",
     "level": "starters",
-    "category": "home",
+    "category": ["home", "school"],
     "chunks": ["w", "all"],
     "image": "images/home/wall.png"
   },
@@ -2206,7 +2267,7 @@
     "id": "home-watch",
     "word": "watch",
     "level": "starters",
-    "category": "home",
+    "category": ["home", "sport-leisure"],
     "chunks": ["wa", "tch"],
     "image": "images/home/watch.png"
   },
@@ -2214,7 +2275,7 @@
     "id": "home-window",
     "word": "window",
     "level": "starters",
-    "category": "home",
+    "category": ["home", "school"],
     "chunks": ["w", "in", "dow"],
     "image": "images/home/window.png"
   },
@@ -2286,7 +2347,7 @@
     "id": "home-internet",
     "word": "internet",
     "level": "movers",
-    "category": "home",
+    "category": ["home", "school"],
     "chunks": ["in", "ter", "net"],
     "image": "images/home/internet.png"
   },
@@ -2358,7 +2419,7 @@
     "id": "home-towel",
     "word": "towel",
     "level": "movers",
-    "category": "home",
+    "category": ["home", "sport-leisure"],
     "chunks": ["tow", "el"],
     "image": "images/home/towel.png"
   },
@@ -2378,30 +2439,7 @@
     "chunks": ["wa", "sh"],
     "image": "images/home/wash.png"
   },
-  {
-    "id": "it-computer",
-    "word": "computer",
-    "level": "starters",
-    "category": "it",
-    "chunks": ["com", "pu", "ter"],
-    "image": "images/it/computer.png"
-  },
-  {
-    "id": "it-keyboard",
-    "word": "keyboard",
-    "level": "starters",
-    "category": "it",
-    "chunks": ["key", "board"],
-    "image": "images/it/keyboard.png"
-  },
-  {
-    "id": "it-mouse",
-    "word": "mouse",
-    "level": "starters",
-    "category": "it",
-    "chunks": ["m", "ou", "se"],
-    "image": "images/it/mouse.png"
-  },
+
   {
     "id": "it-tablet",
     "word": "tablet",
@@ -2434,6 +2472,7 @@
     "chunks": ["e", "-", "book"],
     "image": "images/it/e-book.png"
   },
+
   {
     "id": "number-one",
     "word": "one",
@@ -2834,6 +2873,7 @@
     "chunks": ["p", "air"],
     "image": "images/number/pair.png"
   },
+
   {
     "id": "place-direction-behind",
     "word": "behind",
@@ -2849,6 +2889,30 @@
     "category": "place-direction",
     "chunks": ["be", "tw", "ee", "n"],
     "image": "images/place-direction/between.png"
+  },
+  {
+    "id": "place-direction-bookshop",
+    "word": "bookshop",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["book", "shop"],
+    "image": "images/place-direction/bookshop.png"
+  },
+  {
+    "id": "place-direction-end-n",
+    "word": "end",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["e", "n", "d"],
+    "image": "images/place-direction/end-n.png"
+  },
+  {
+    "id": "place-direction-here",
+    "word": "here",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["h", "ere"],
+    "image": "images/place-direction/here.png"
   },
   {
     "id": "place-direction-in",
@@ -2883,54 +2947,6 @@
     "image": "images/place-direction/on.png"
   },
   {
-    "id": "place-direction-under",
-    "word": "under",
-    "level": "starters",
-    "category": "place-direction",
-    "chunks": ["un", "der"],
-    "image": "images/place-direction/under.png"
-  },
-  {
-    "id": "place-direction-here",
-    "word": "here",
-    "level": "starters",
-    "category": "place-direction",
-    "chunks": ["h", "ere"],
-    "image": "images/place-direction/here.png"
-  },
-  {
-    "id": "place-direction-there",
-    "word": "there",
-    "level": "starters",
-    "category": "place-direction",
-    "chunks": ["th", "ere"],
-    "image": "images/place-direction/there.png"
-  },
-  {
-    "id": "place-direction-bookshop",
-    "word": "bookshop",
-    "level": "starters",
-    "category": "place-direction",
-    "chunks": ["book", "shop"],
-    "image": "images/place-direction/bookshop.png"
-  },
-  {
-    "id": "place-direction-bookstore",
-    "word": "bookstore",
-    "level": "starters",
-    "category": "place-direction",
-    "chunks": ["book", "store"],
-    "image": "images/place-direction/bookstore.png"
-  },
-  {
-    "id": "place-direction-end",
-    "word": "end",
-    "level": "starters",
-    "category": "place-direction",
-    "chunks": ["e", "n", "d"],
-    "image": "images/place-direction/end.png"
-  },
-  {
     "id": "place-direction-park",
     "word": "park",
     "level": "starters",
@@ -2942,7 +2958,7 @@
     "id": "place-direction-playground",
     "word": "playground",
     "level": "starters",
-    "category": "place-direction",
+    "category": ["place-direction", "school"],
     "chunks": ["play", "ground"],
     "image": "images/place-direction/playground.png"
   },
@@ -2966,10 +2982,27 @@
     "id": "place-direction-street",
     "word": "street",
     "level": "starters",
-    "category": "place-direction",
+    "category": ["place-direction", "the-world-around-us"],
     "chunks": ["st", "reet"],
     "image": "images/place-direction/street.png"
   },
+  {
+    "id": "place-direction-there",
+    "word": "there",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["th", "ere"],
+    "image": "images/place-direction/there.png"
+  },
+  {
+    "id": "place-direction-under",
+    "word": "under",
+    "level": "starters",
+    "category": "place-direction",
+    "chunks": ["un", "der"],
+    "image": "images/place-direction/under.png"
+  },
+
   {
     "id": "place-direction-above",
     "word": "above",
@@ -2990,25 +3023,25 @@
     "id": "place-direction-building",
     "word": "building",
     "level": "movers",
-    "category": "place-direction",
+    "category": ["place-direction", "the-world-around-us"],
     "chunks": ["build", "ing"],
     "image": "images/place-direction/building.png"
   },
   {
-    "id": "place-direction-bus station",
+    "id": "place-direction-bus-station",
     "word": "bus station",
     "level": "movers",
-    "category": "place-direction",
+    "category": ["place-direction", "transport"],
     "chunks": ["bus", "station"],
-    "image": "images/place-direction/bus station.png"
+    "image": "images/place-direction/bus-station.png"
   },
   {
-    "id": "place-direction-bus stop",
+    "id": "place-direction-bus-stop",
     "word": "bus stop",
     "level": "movers",
-    "category": "place-direction",
+    "category": ["place-direction", "transport"],
     "chunks": ["bus", "stop"],
-    "image": "images/place-direction/bus stop.png"
+    "image": "images/place-direction/bus-stop.png"
   },
   {
     "id": "place-direction-cafe",
@@ -3019,12 +3052,12 @@
     "image": "images/place-direction/cafe.png"
   },
   {
-    "id": "place-direction-car park",
+    "id": "place-direction-car-park",
     "word": "car park",
     "level": "movers",
     "category": "place-direction",
     "chunks": ["car", "park"],
-    "image": "images/place-direction/car park.png"
+    "image": "images/place-direction/car-park.png"
   },
   {
     "id": "place-direction-centre",
@@ -3054,25 +3087,25 @@
     "id": "place-direction-circus",
     "word": "circus",
     "level": "movers",
-    "category": "place-direction",
+    "category": ["place-direction", "work"],
     "chunks": ["cir", "cus"],
     "image": "images/place-direction/circus.png"
   },
   {
-    "id": "place-direction-city centre",
+    "id": "place-direction-city-centre",
     "word": "city centre",
     "level": "movers",
     "category": "place-direction",
     "chunks": ["city", "centre"],
-    "image": "images/place-direction/city centre.png"
+    "image": "images/place-direction/city-centre.png"
   },
   {
-    "id": "place-direction-city center",
+    "id": "place-direction-city-center",
     "word": "city center",
     "level": "movers",
     "category": "place-direction",
     "chunks": ["city", "center"],
-    "image": "images/place-direction/city center.png"
+    "image": "images/place-direction/city-center.png"
   },
   {
     "id": "place-direction-farm",
@@ -3090,6 +3123,7 @@
     "chunks": ["fun", "fair"],
     "image": "images/place-direction/funfair.png"
   },
+
   {
     "id": "place-direction-library",
     "word": "library",
@@ -3142,41 +3176,41 @@
     "id": "place-direction-road",
     "word": "road",
     "level": "movers",
-    "category": "place-direction",
+    "category": ["place-direction", "the-world-around-us"],
     "chunks": ["r", "oa", "d"],
     "image": "images/place-direction/road.png"
   },
   {
-    "id": "place-direction-shopping centre",
+    "id": "place-direction-shopping-centre",
     "word": "shopping centre",
     "level": "movers",
     "category": "place-direction",
     "chunks": ["shopping", "centre"],
-    "image": "images/place-direction/shopping centre.png"
+    "image": "images/place-direction/shopping-centre.png"
   },
   {
-    "id": "place-direction-shopping center",
+    "id": "place-direction-shopping-center",
     "word": "shopping center",
     "level": "movers",
     "category": "place-direction",
     "chunks": ["shopping", "center"],
-    "image": "images/place-direction/shopping center.png"
+    "image": "images/place-direction/shopping-center.png"
   },
   {
-    "id": "place-direction-sports centre",
+    "id": "place-direction-sports-centre",
     "word": "sports centre",
     "level": "movers",
-    "category": "place-direction",
+    "category": ["place-direction", "sport-leisure"],
     "chunks": ["sports", "centre"],
-    "image": "images/place-direction/sports centre.png"
+    "image": "images/place-direction/sports-centre.png"
   },
   {
-    "id": "place-direction-sports center",
+    "id": "place-direction-sports-center",
     "word": "sports center",
     "level": "movers",
-    "category": "place-direction",
+    "category": ["place-direction", "sport-leisure"],
     "chunks": ["sports", "center"],
-    "image": "images/place-direction/sports center.png"
+    "image": "images/place-direction/sports-center.png"
   },
   {
     "id": "place-direction-square",
@@ -3190,7 +3224,7 @@
     "id": "place-direction-station",
     "word": "station",
     "level": "movers",
-    "category": "place-direction",
+    "category": ["place-direction", "transport"],
     "chunks": ["sta", "tion"],
     "image": "images/place-direction/station.png"
   },
@@ -3211,29 +3245,30 @@
     "image": "images/place-direction/supermarket.png"
   },
   {
-    "id": "place-direction-swimming pool",
+    "id": "place-direction-swimming-pool",
     "word": "swimming pool",
     "level": "movers",
-    "category": "place-direction",
+    "category": ["place-direction", "sport-leisure"],
     "chunks": ["swimming", "pool"],
-    "image": "images/place-direction/swimming pool.png"
+    "image": "images/place-direction/swimming-pool.png"
   },
   {
-    "id": "place-direction-town centre",
+    "id": "place-direction-town-centre",
     "word": "town centre",
     "level": "movers",
     "category": "place-direction",
     "chunks": ["town", "centre"],
-    "image": "images/place-direction/town centre.png"
+    "image": "images/place-direction/town-centre.png"
   },
   {
-    "id": "place-direction-town center",
+    "id": "place-direction-town-center",
     "word": "town center",
     "level": "movers",
     "category": "place-direction",
     "chunks": ["town", "center"],
-    "image": "images/place-direction/town center.png"
+    "image": "images/place-direction/town-center.png"
   },
+
   {
     "id": "school-alphabet",
     "word": "alphabet",
@@ -3270,17 +3305,9 @@
     "id": "school-book",
     "word": "book",
     "level": "starters",
-    "category": "school",
+    "category": ["school", "sport-leisure"],
     "chunks": ["b", "oo", "k"],
     "image": "images/school/book.png"
-  },
-  {
-    "id": "school-bookcase",
-    "word": "bookcase",
-    "level": "starters",
-    "category": "school",
-    "chunks": ["book", "case"],
-    "image": "images/school/bookcase.png"
   },
   {
     "id": "school-class",
@@ -3306,6 +3333,7 @@
     "chunks": ["c", "lo", "se"],
     "image": "images/school/close.png"
   },
+
   {
     "id": "school-correct",
     "word": "correct",
@@ -3331,18 +3359,10 @@
     "image": "images/school/cross.png"
   },
   {
-    "id": "school-cupboard",
-    "word": "cupboard",
-    "level": "starters",
-    "category": "school",
-    "chunks": ["cup", "board"],
-    "image": "images/school/cupboard.png"
-  },
-  {
     "id": "school-draw",
     "word": "draw",
     "level": "starters",
-    "category": "school",
+    "category": ["school", "sport-leisure"],
     "chunks": ["dr", "aw"],
     "image": "images/school/draw.png"
   },
@@ -3385,6 +3405,14 @@
     "category": "school",
     "chunks": ["fl", "oor"],
     "image": "images/school/floor.png"
+  },
+  {
+    "id": "school-keyboard",
+    "word": "keyboard",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["key", "board"],
+    "image": "images/school/keyboard.png"
   },
   {
     "id": "school-know",
@@ -3430,7 +3458,7 @@
     "id": "school-listen",
     "word": "listen",
     "level": "starters",
-    "category": "school",
+    "category": ["school", "sport-leisure"],
     "chunks": ["li", "sten"],
     "image": "images/school/listen.png"
   },
@@ -3443,10 +3471,18 @@
     "image": "images/school/look.png"
   },
   {
+    "id": "school-mouse",
+    "word": "mouse",
+    "level": "starters",
+    "category": "school",
+    "chunks": ["m", "ou", "se"],
+    "image": "images/school/mouse.png"
+  },
+  {
     "id": "school-music",
     "word": "music",
     "level": "starters",
-    "category": "school",
+    "category": ["school", "sport-leisure"],
     "chunks": ["mu", "sic"],
     "image": "images/school/music.png"
   },
@@ -3478,7 +3514,7 @@
     "id": "school-paper",
     "word": "paper",
     "level": "starters",
-    "category": "school",
+    "category": ["material", "school"],
     "chunks": ["pa", "per"],
     "image": "images/school/paper.png"
   },
@@ -3526,7 +3562,7 @@
     "id": "school-read",
     "word": "read",
     "level": "starters",
-    "category": "school",
+    "category": ["school", "sport-leisure"],
     "chunks": ["r", "ea", "d"],
     "image": "images/school/read.png"
   },
@@ -3598,7 +3634,7 @@
     "id": "school-story",
     "word": "story",
     "level": "starters",
-    "category": "school",
+    "category": ["school", "sport-leisure"],
     "chunks": ["st", "ory"],
     "image": "images/school/story.png"
   },
@@ -3606,7 +3642,7 @@
     "id": "school-teacher",
     "word": "teacher",
     "level": "starters",
-    "category": "school",
+    "category": ["school", "work"],
     "chunks": ["tea", "ch", "er"],
     "image": "images/school/teacher.png"
   },
@@ -3678,7 +3714,7 @@
     "id": "school-text",
     "word": "text",
     "level": "movers",
-    "category": "school",
+    "category": ["school", "sport-leisure"],
     "chunks": ["t", "ex", "t"],
     "image": "images/school/text.png"
   },
@@ -3702,7 +3738,7 @@
     "id": "sport-leisure-ball",
     "word": "ball",
     "level": "starters",
-    "category": "sport-leisure",
+    "category": ["sport-leisure", "toy"],
     "chunks": ["b", "all"],
     "image": "images/sport-leisure/ball.png"
   },
@@ -3710,7 +3746,7 @@
     "id": "sport-leisure-baseball",
     "word": "baseball",
     "level": "starters",
-    "category": "sport-leisure",
+    "category": ["sport-leisure", "toy"],
     "chunks": ["base", "ball"],
     "image": "images/sport-leisure/baseball.png"
   },
@@ -3718,7 +3754,7 @@
     "id": "sport-leisure-basketball",
     "word": "basketball",
     "level": "starters",
-    "category": "sport-leisure",
+    "category": ["sport-leisure", "toy"],
     "chunks": ["bas", "ket", "ball"],
     "image": "images/sport-leisure/basketball.png"
   },
@@ -3734,7 +3770,7 @@
     "id": "sport-leisure-beach",
     "word": "beach",
     "level": "starters",
-    "category": "sport-leisure",
+    "category": ["sport-leisure", "the-world-around-us"],
     "chunks": ["b", "ea", "ch"],
     "image": "images/sport-leisure/beach.png"
   },
@@ -3742,7 +3778,7 @@
     "id": "sport-leisure-bike",
     "word": "bike",
     "level": "starters",
-    "category": "sport-leisure",
+    "category": ["sport-leisure", "toy", "transport"],
     "chunks": ["b", "i", "ke"],
     "image": "images/sport-leisure/bike.png"
   },
@@ -3750,7 +3786,7 @@
     "id": "sport-leisure-boat",
     "word": "boat",
     "level": "starters",
-    "category": "sport-leisure",
+    "category": ["sport-leisure", "toy", "transport"],
     "chunks": ["b", "oa", "t"],
     "image": "images/sport-leisure/boat.png"
   },
@@ -3779,12 +3815,12 @@
     "image": "images/sport-leisure/drawing.png"
   },
   {
-    "id": "sport-leisure-drive",
+    "id": "sport-leisure-drive-v",
     "word": "drive",
     "level": "starters",
-    "category": "sport-leisure",
+    "category": ["sport-leisure", "transport"],
     "chunks": ["dr", "ive"],
-    "image": "images/sport-leisure/drive.png"
+    "image": "images/sport-leisure/drive-v.png"
   },
   {
     "id": "sport-leisure-enjoy",
@@ -3822,7 +3858,7 @@
     "id": "sport-leisure-fly",
     "word": "fly",
     "level": "starters",
-    "category": "sport-leisure",
+    "category": ["sport-leisure", "transport"],
     "chunks": ["f", "ly"],
     "image": "images/sport-leisure/fly.png"
   },
@@ -3830,7 +3866,7 @@
     "id": "sport-leisure-football",
     "word": "football",
     "level": "starters",
-    "category": "sport-leisure",
+    "category": ["sport-leisure", "toy"],
     "chunks": ["foot", "ball"],
     "image": "images/sport-leisure/football.png"
   },
@@ -3838,7 +3874,7 @@
     "id": "sport-leisure-game",
     "word": "game",
     "level": "starters",
-    "category": "sport-leisure",
+    "category": ["sport-leisure", "toy"],
     "chunks": ["g", "ame"],
     "image": "images/sport-leisure/game.png"
   },
@@ -3894,17 +3930,9 @@
     "id": "sport-leisure-kite",
     "word": "kite",
     "level": "starters",
-    "category": "sport-leisure",
+    "category": ["sport-leisure", "toy"],
     "chunks": ["k", "ite"],
     "image": "images/sport-leisure/kite.png"
-  },
-  {
-    "id": "sport-leisure-painting",
-    "word": "painting",
-    "level": "starters",
-    "category": "sport-leisure",
-    "chunks": ["paint", "ing"],
-    "image": "images/sport-leisure/painting.png"
   },
   {
     "id": "sport-leisure-photo",
@@ -3931,18 +3959,18 @@
     "image": "images/sport-leisure/play.png"
   },
   {
-    "id": "sport-leisure-ride",
+    "id": "sport-leisure-ride-v",
     "word": "ride",
     "level": "starters",
-    "category": "sport-leisure",
+    "category": ["sport-leisure", "transport"],
     "chunks": ["r", "ide"],
-    "image": "images/sport-leisure/ride.png"
+    "image": "images/sport-leisure/ride-v.png"
   },
   {
     "id": "sport-leisure-run",
     "word": "run",
     "level": "starters",
-    "category": "sport-leisure",
+    "category": ["sport-leisure", "transport"],
     "chunks": ["r", "un"],
     "image": "images/sport-leisure/run.png"
   },
@@ -3974,7 +4002,7 @@
     "id": "sport-leisure-soccer",
     "word": "soccer",
     "level": "starters",
-    "category": "sport-leisure",
+    "category": ["sport-leisure", "toy"],
     "chunks": ["so", "ccer"],
     "image": "images/sport-leisure/soccer.png"
   },
@@ -3995,12 +4023,12 @@
     "image": "images/sport-leisure/sport.png"
   },
   {
-    "id": "sport-leisure-swim",
+    "id": "sport-leisure-swim-v",
     "word": "swim",
     "level": "starters",
-    "category": "sport-leisure",
+    "category": ["sport-leisure", "transport"],
     "chunks": ["s", "wim"],
-    "image": "images/sport-leisure/swim.png"
+    "image": "images/sport-leisure/swim-v.png"
   },
   {
     "id": "sport-leisure-table tennis",
@@ -4017,6 +4045,14 @@
     "category": "sport-leisure",
     "chunks": ["take", "a", "photo"],
     "image": "images/sport-leisure/take-a-photo.png"
+  },
+  {
+    "id": "sport-leisure-take-a-picture",
+    "word": "take a picture",
+    "level": "starters",
+    "category": "sport-leisure",
+    "chunks": ["take", "a", "picture"],
+    "image": "images/sport-leisure/take-a-picture.png"
   },
   {
     "id": "sport-leisure-tennis",
@@ -4102,7 +4138,7 @@
     "id": "sport-leisure-drive-n",
     "word": "drive",
     "level": "movers",
-    "category": "sport-leisure",
+    "category": ["sport-leisure", "transport"],
     "chunks": ["dr", "ive"],
     "image": "images/sport-leisure/drive-n.png"
   },
@@ -4254,7 +4290,7 @@
     "id": "sport-leisure-ride-n",
     "word": "ride",
     "level": "movers",
-    "category": "sport-leisure",
+    "category": ["sport-leisure", "transport"],
     "chunks": ["r", "ide"],
     "image": "images/sport-leisure/ride-n.png"
   },
@@ -4361,6 +4397,14 @@
     "category": "time",
     "chunks": ["even", "ing"],
     "image": "images/time/evening.png"
+  },
+  {
+    "id": "time-in",
+    "word": "in",
+    "level": "starters",
+    "category": "time",
+    "chunks": ["i", "n"],
+    "image": "images/time/in.png"
   },
   {
     "id": "time-morning",
@@ -4555,14 +4599,6 @@
     "image": "images/toy/board-game.png"
   },
   {
-    "id": "toy-doll",
-    "word": "doll",
-    "level": "starters",
-    "category": "toy",
-    "chunks": ["d", "oll"],
-    "image": "images/toy/doll.png"
-  },
-  {
     "id": "toy-monster",
     "word": "monster",
     "level": "starters",
@@ -4587,14 +4623,6 @@
     "image": "images/toy/teddy-bear.png"
   },
   {
-    "id": "toy-toy",
-    "word": "toy",
-    "level": "starters",
-    "category": "toy",
-    "chunks": ["t", "oy"],
-    "image": "images/toy/toy.png"
-  },
-  {
     "id": "toy-model",
     "word": "model",
     "level": "movers",
@@ -4614,7 +4642,7 @@
     "id": "transport-car",
     "word": "car",
     "level": "starters",
-    "category": "transport",
+    "category": ["toy", "transport"],
     "chunks": ["c", "a", "r"],
     "image": "images/transport/car.png"
   },
@@ -4630,7 +4658,7 @@
     "id": "transport-helicopter",
     "word": "helicopter",
     "level": "starters",
-    "category": "transport",
+    "category": ["toy", "transport"],
     "chunks": ["he", "li", "cop", "ter"],
     "image": "images/transport/helicopter.png"
   },
@@ -4638,7 +4666,7 @@
     "id": "transport-lorry",
     "word": "lorry",
     "level": "starters",
-    "category": "transport",
+    "category": ["toy", "transport"],
     "chunks": ["l", "or", "ry"],
     "image": "images/transport/lorry.png"
   },
@@ -4646,7 +4674,7 @@
     "id": "transport-motorbike",
     "word": "motorbike",
     "level": "starters",
-    "category": "transport",
+    "category": ["toy", "transport"],
     "chunks": ["mo", "tor", "bike"],
     "image": "images/transport/motorbike.png"
   },
@@ -4654,7 +4682,7 @@
     "id": "transport-plane",
     "word": "plane",
     "level": "starters",
-    "category": "transport",
+    "category": ["toy", "transport"],
     "chunks": ["pl", "ane"],
     "image": "images/transport/plane.png"
   },
@@ -4670,7 +4698,7 @@
     "id": "transport-train",
     "word": "train",
     "level": "starters",
-    "category": "transport",
+    "category": ["toy", "transport"],
     "chunks": ["tr", "ain"],
     "image": "images/transport/train.png"
   },
@@ -4678,7 +4706,7 @@
     "id": "transport-truck",
     "word": "truck",
     "level": "starters",
-    "category": "transport",
+    "category": ["toy", "transport"],
     "chunks": ["tr", "u", "ck"],
     "image": "images/transport/truck.png"
   },
@@ -4686,7 +4714,7 @@
     "id": "transport-driver",
     "word": "driver",
     "level": "movers",
-    "category": "transport",
+    "category": ["transport", "work"],
     "chunks": ["driv", "er"],
     "image": "images/transport/driver.png"
   },
@@ -4758,7 +4786,7 @@
     "id": "weather-sky",
     "word": "sky",
     "level": "movers",
-    "category": "weather",
+    "category": ["weather", "the-world-around-us"],
     "chunks": ["s", "k", "y"],
     "image": "images/weather/sky.png"
   },
@@ -4777,6 +4805,14 @@
     "category": "weather",
     "chunks": ["sun", "ny"],
     "image": "images/weather/sunny.png"
+  },
+  {
+    "id": "weather-weather",
+    "word": "weather",
+    "level": "movers",
+    "category": "weather",
+    "chunks": ["wea", "ther"],
+    "image": "images/weather/weather.png"
   },
   {
     "id": "weather-wind",
@@ -4886,7 +4922,7 @@
     "id": "the-world-around-us-sun",
     "word": "sun",
     "level": "starters",
-    "category": "the-world-around-us",
+    "category": ["weather", "the-world-around-us"],
     "chunks": ["s", "u", "n"],
     "image": "images/the-world-around-us/sun.png"
   },

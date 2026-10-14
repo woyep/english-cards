@@ -399,6 +399,126 @@
     "chunks": ["wh", "ale"],
     "image": "images/animal/whale.png"
   },
+  {
+    "id": "animal-beetle",
+    "word": "beetle",
+    "level": "flyers",
+    "category": "animal",
+    "chunks": ["bee", "tle"],
+    "image": "images/animal/beetle.png"
+  },
+  {
+    "id": "animal-butterfly",
+    "word": "butterfly",
+    "level": "flyers",
+    "category": "animal",
+    "chunks": ["but", "ter", "fly"],
+    "image": "images/animal/butterfly.png"
+  },
+  {
+    "id": "animal-camel",
+    "word": "camel",
+    "level": "flyers",
+    "category": "animal",
+    "chunks": ["cam", "el"],
+    "image": "images/animal/camel.png"
+  },
+  {
+    "id": "animal-creature",
+    "word": "creature",
+    "level": "flyers",
+    "category": "animal",
+    "chunks": ["crea", "ture"],
+    "image": "images/animal/creature.png"
+  },
+  {
+    "id": "animal-dinosaur",
+    "word": "dinosaur",
+    "level": "flyers",
+    "category": "animal",
+    "chunks": ["di", "no", "saur"],
+    "image": "images/animal/dinosaur.png"
+  },
+  {
+    "id": "animal-eagle",
+    "word": "eagle",
+    "level": "flyers",
+    "category": "animal",
+    "chunks": ["ea", "gle"],
+    "image": "images/animal/eagle.png"
+  },
+  {
+    "id": "animal-extinct",
+    "word": "extinct",
+    "level": "flyers",
+    "category": "animal",
+    "chunks": ["ex", "tinct"],
+    "image": "images/animal/extinct.png"
+  },
+  {
+    "id": "animal-fur",
+    "word": "fur",
+    "level": "flyers",
+    "category": "animal",
+    "chunks": ["f", "ur"],
+    "image": "images/animal/fur.png"
+  },
+  {
+    "id": "animal-insect",
+    "word": "insect",
+    "level": "flyers",
+    "category": "animal",
+    "chunks": ["in", "sect"],
+    "image": "images/animal/insect.png"
+  },
+  {
+    "id": "animal-nest",
+    "word": "nest",
+    "level": "flyers",
+    "category": "animal",
+    "chunks": ["n", "est"],
+    "image": "images/animal/nest.png"
+  },
+  {
+    "id": "animal-octopus",
+    "word": "octopus",
+    "level": "flyers",
+    "category": "animal",
+    "chunks": ["oc", "to", "pus"],
+    "image": "images/animal/octopus.png"
+  },
+  {
+    "id": "animal-swan",
+    "word": "swan",
+    "level": "flyers",
+    "category": "animal",
+    "chunks": ["sw", "an"],
+    "image": "images/animal/swan.png"
+  },
+  {
+    "id": "animal-tortoise",
+    "word": "tortoise",
+    "level": "flyers",
+    "category": "animal",
+    "chunks": ["tor", "toise"],
+    "image": "images/animal/tortoise.png"
+  },
+  {
+    "id": "animal-wild",
+    "word": "wild",
+    "level": "flyers",
+    "category": "animal",
+    "chunks": ["w", "ild"],
+    "image": "images/animal/wild.png"
+  },
+  {
+    "id": "animal-wing",
+    "word": "wing",
+    "level": "flyers",
+    "category": "animal",
+    "chunks": ["w", "ing"],
+    "image": "images/animal/wing.png"
+  },
 
   {
     "id": "body-face-arm",

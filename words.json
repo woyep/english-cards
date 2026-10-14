@@ -1061,7 +1061,7 @@
     "id": "clothes-spot",
     "word": "spot",
     "level": "flyers",
-    "category": "clothes",
+    "category": ["clothes", "colours"],
     "chunks": ["sp", "ot"],
     "image": "images/clothes/spot.png"
   },
@@ -1069,7 +1069,7 @@
     "id": "clothes-spotted",
     "word": "spotted",
     "level": "flyers",
-    "category": "clothes",
+    "category": ["clothes", "colours"],
     "chunks": ["spot", "ted"],
     "image": "images/clothes/spotted.png"
   },
@@ -1077,7 +1077,7 @@
     "id": "clothes-stripe",
     "word": "stripe",
     "level": "flyers",
-    "category": "clothes",
+    "category": ["clothes", "colours"],
     "chunks": ["str", "ipe"],
     "image": "images/clothes/stripe.png"
   },
@@ -1085,7 +1085,7 @@
     "id": "clothes-striped",
     "word": "striped",
     "level": "flyers",
-    "category": "clothes",
+    "category": ["clothes", "colours"],
     "chunks": ["str", "iped"],
     "image": "images/clothes/striped.png"
   },
@@ -1233,6 +1233,22 @@
     "category": "colours",
     "chunks": ["yel", "low"],
     "image": "images/colours/yellow.png"
+  },
+  {
+    "id": "colours-gold",
+    "word": "gold",
+    "level": "flyers",
+    "category": "colours",
+    "chunks": ["g", "old"],
+    "image": "images/colours/gold.png"
+  },
+  {
+    "id": "colours-silver",
+    "word": "silver",
+    "level": "flyers",
+    "category": "colours",
+    "chunks": ["sil", "ver"],
+    "image": "images/colours/silver.png"
   },
 
   {

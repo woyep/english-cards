@@ -752,6 +752,38 @@
     "chunks": ["t", "ee", "th"],
     "image": "images/body-face/teeth.png"
   },
+  {
+    "id": "body-face-elbow",
+    "word": "elbow",
+    "level": "flyers",
+    "category": "body-face",
+    "chunks": ["el", "bow"],
+    "image": "images/body-face/elbow.png"
+  },
+  {
+    "id": "body-face-finger",
+    "word": "finger",
+    "level": "flyers",
+    "category": "body-face",
+    "chunks": ["fin", "ger"],
+    "image": "images/body-face/finger.png"
+  },
+  {
+    "id": "body-face-knee",
+    "word": "knee",
+    "level": "flyers",
+    "category": "body-face",
+    "chunks": ["kn", "ee"],
+    "image": "images/body-face/knee.png"
+  },
+  {
+    "id": "body-face-toe",
+    "word": "toe",
+    "level": "flyers",
+    "category": "body-face",
+    "chunks": ["t", "oe"],
+    "image": "images/body-face/toe.png"
+  },
 
   {
     "id": "clothes-bag",

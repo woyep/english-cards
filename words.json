@@ -1555,6 +1555,38 @@
     "chunks": ["un", "cle"],
     "image": "images/family-friends/uncle.png"
   },
+  {
+    "id": "family-friends-husband",
+    "word": "husband",
+    "level": "flyers",
+    "category": "family-friends",
+    "chunks": ["hus", "band"],
+    "image": "images/family-friends/husband.png"
+  },
+  {
+    "id": "family-friends-married",
+    "word": "married",
+    "level": "flyers",
+    "category": "family-friends",
+    "chunks": ["mar", "ried"],
+    "image": "images/family-friends/married.png"
+  },
+  {
+    "id": "family-friends-surname",
+    "word": "surname",
+    "level": "flyers",
+    "category": "family-friends",
+    "chunks": ["sur", "name"],
+    "image": "images/family-friends/surname.png"
+  },
+  {
+    "id": "family-friends-wife",
+    "word": "wife",
+    "level": "flyers",
+    "category": "family-friends",
+    "chunks": ["w", "ife"],
+    "image": "images/family-friends/wife.png"
+  },
 
   {
     "id": "food-drink-apple",

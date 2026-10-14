@@ -977,6 +977,150 @@
     "chunks": ["swim", "suit"],
     "image": "images/clothes/swimsuit.png"
   },
+  {
+    "id": "clothes-belt",
+    "word": "belt",
+    "level": "flyers",
+    "category": "clothes",
+    "chunks": ["b", "elt"],
+    "image": "images/clothes/belt.png"
+  },
+  {
+    "id": "clothes-bracelet",
+    "word": "bracelet",
+    "level": "flyers",
+    "category": "clothes",
+    "chunks": ["brace", "let"],
+    "image": "images/clothes/bracelet.png"
+  },
+  {
+    "id": "clothes-costume",
+    "word": "costume",
+    "level": "flyers",
+    "category": "clothes",
+    "chunks": ["cos", "tume"],
+    "image": "images/clothes/costume.png"
+  },
+  {
+    "id": "clothes-crown",
+    "word": "crown",
+    "level": "flyers",
+    "category": "clothes",
+    "chunks": ["cr", "own"],
+    "image": "images/clothes/crown.png"
+  },
+  {
+    "id": "clothes-glove",
+    "word": "glove",
+    "level": "flyers",
+    "category": "clothes",
+    "chunks": ["gl", "ove"],
+    "image": "images/clothes/glove.png"
+  },
+  {
+    "id": "clothes-necklace",
+    "word": "necklace",
+    "level": "flyers",
+    "category": "clothes",
+    "chunks": ["neck", "lace"],
+    "image": "images/clothes/necklace.png"
+  },
+  {
+    "id": "clothes-pajamas",
+    "word": "pajamas",
+    "level": "flyers",
+    "category": "clothes",
+    "chunks": ["pa", "ja", "mas"],
+    "image": "images/clothes/pajamas.png"
+  },
+  {
+    "id": "clothes-pocket",
+    "word": "pocket",
+    "level": "flyers",
+    "category": "clothes",
+    "chunks": ["pock", "et"],
+    "image": "images/clothes/pocket.png"
+  },
+  {
+    "id": "clothes-pyjamas",
+    "word": "pyjamas",
+    "level": "flyers",
+    "category": "clothes",
+    "chunks": ["py", "ja", "mas"],
+    "image": "images/clothes/pyjamas.png"
+  },
+  {
+    "id": "clothes-ring",
+    "word": "ring",
+    "level": "flyers",
+    "category": "clothes",
+    "chunks": ["r", "ing"],
+    "image": "images/clothes/ring.png"
+  },
+  {
+    "id": "clothes-spot",
+    "word": "spot",
+    "level": "flyers",
+    "category": "clothes",
+    "chunks": ["sp", "ot"],
+    "image": "images/clothes/spot.png"
+  },
+  {
+    "id": "clothes-spotted",
+    "word": "spotted",
+    "level": "flyers",
+    "category": "clothes",
+    "chunks": ["spot", "ted"],
+    "image": "images/clothes/spotted.png"
+  },
+  {
+    "id": "clothes-stripe",
+    "word": "stripe",
+    "level": "flyers",
+    "category": "clothes",
+    "chunks": ["str", "ipe"],
+    "image": "images/clothes/stripe.png"
+  },
+  {
+    "id": "clothes-striped",
+    "word": "striped",
+    "level": "flyers",
+    "category": "clothes",
+    "chunks": ["str", "iped"],
+    "image": "images/clothes/striped.png"
+  },
+  {
+    "id": "clothes-sunglasses",
+    "word": "sunglasses",
+    "level": "flyers",
+    "category": "clothes",
+    "chunks": ["sun", "glass", "es"],
+    "image": "images/clothes/sunglasses.png"
+  },
+  {
+    "id": "clothes-trainers",
+    "word": "trainers",
+    "level": "flyers",
+    "category": "clothes",
+    "chunks": ["train", "ers"],
+    "image": "images/clothes/trainers.png"
+  },
+  {
+    "id": "clothes-umbrella",
+    "word": "umbrella",
+    "level": "flyers",
+    "category": "clothes",
+    "chunks": ["um", "brel", "la"],
+    "image": "images/clothes/umbrella.png"
+  },
+  {
+    "id": "clothes-uniform",
+    "word": "uniform",
+    "level": "flyers",
+    "category": "clothes",
+    "chunks": ["u", "ni", "form"],
+    "image": "images/clothes/uniform.png"
+  },
 
   {
     "id": "colours-black",

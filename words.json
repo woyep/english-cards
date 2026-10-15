@@ -2117,6 +2117,190 @@
     "chunks": ["ve", "ge", "table"],
     "image": "images/food-drink/vegetable.png"
   },
+  {
+    "id": "food-drink-biscuit",
+    "word": "biscuit",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["bis", "cuit"],
+    "image": "images/food-drink/biscuit.png"
+  },
+  {
+    "id": "food-drink-butter",
+    "word": "butter",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["but", "ter"],
+    "image": "images/food-drink/butter.png"
+  },
+  {
+    "id": "food-drink-cereal",
+    "word": "cereal",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["ce", "re", "al"],
+    "image": "images/food-drink/cereal.png"
+  },
+  {
+    "id": "food-drink-chopsticks",
+    "word": "chopsticks",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["chop", "sticks"],
+    "image": "images/food-drink/chopsticks.png"
+  },
+  {
+    "id": "food-drink-cookie",
+    "word": "cookie",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["cook", "ie"],
+    "image": "images/food-drink/cookie.png"
+  },
+  {
+    "id": "food-drink-flour",
+    "word": "flour",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["fl", "our"],
+    "image": "images/food-drink/flour.png"
+  },
+  {
+    "id": "food-drink-fork",
+    "word": "fork",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["f", "or", "k"],
+    "image": "images/food-drink/fork.png"
+  },
+  {
+    "id": "food-drink-honey",
+    "word": "honey",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["hon", "ey"],
+    "image": "images/food-drink/honey.png"
+  },
+  {
+    "id": "food-drink-jam",
+    "word": "jam",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["j", "am"],
+    "image": "images/food-drink/jam.png"
+  },
+  {
+    "id": "food-drink-knife",
+    "word": "knife",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["kn", "ife"],
+    "image": "images/food-drink/knife.png"
+  },
+  {
+    "id": "food-drink-meal",
+    "word": "meal",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["m", "eal"],
+    "image": "images/food-drink/meal.png"
+  },
+  {
+    "id": "food-drink-olives",
+    "word": "olives",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["ol", "ive", "s"],
+    "image": "images/food-drink/olives.png"
+  },
+  {
+    "id": "food-drink-pepper",
+    "word": "pepper",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["pep", "per"],
+    "image": "images/food-drink/pepper.png"
+  },
+  {
+    "id": "food-drink-piece",
+    "word": "piece",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["p", "ie", "ce"],
+    "image": "images/food-drink/piece.png"
+  },
+  {
+    "id": "food-drink-pizza",
+    "word": "pizza",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["pi", "zza"],
+    "image": "images/food-drink/pizza.png"
+  },
+  {
+    "id": "food-drink-salt",
+    "word": "salt",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["s", "alt"],
+    "image": "images/food-drink/salt.png"
+  },
+  {
+    "id": "food-drink-smell",
+    "word": "smell",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["sm", "ell"],
+    "image": "images/food-drink/smell.png"
+  },
+  {
+    "id": "food-drink-snack",
+    "word": "snack",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["sn", "ack"],
+    "image": "images/food-drink/snack.png"
+  },
+  {
+    "id": "food-drink-spoon",
+    "word": "spoon",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["sp", "oon"],
+    "image": "images/food-drink/spoon.png"
+  },
+  {
+    "id": "food-drink-strawberry",
+    "word": "strawberry",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["straw", "ber", "ry"],
+    "image": "images/food-drink/strawberry.png"
+  },
+  {
+    "id": "food-drink-sugar",
+    "word": "sugar",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["su", "gar"],
+    "image": "images/food-drink/sugar.png"
+  },
+  {
+    "id": "food-drink-taste",
+    "word": "taste",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["t", "a", "st", "e"],
+    "image": "images/food-drink/taste.png"
+  },
+  {
+    "id": "food-drink-yoghurt",
+    "word": "yoghurt",
+    "level": "flyers",
+    "category": "food-drink",
+    "chunks": ["yo", "ghurt"],
+    "image": "images/food-drink/yoghurt.png"
+  },
 
   {
     "id": "health-cold",

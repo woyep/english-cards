@@ -2454,6 +2454,54 @@
     "chunks": ["tooth", "ache"],
     "image": "images/health/toothache.png"
   },
+  {
+    "id": "health-bandage",
+    "word": "bandage",
+    "level": "flyers",
+    "category": "health",
+    "chunks": ["ban", "da", "ge"],
+    "image": "images/health/bandage.png"
+  },
+  {
+    "id": "health-chemist",
+    "word": "chemist",
+    "level": "flyers",
+    "category": "health",
+    "chunks": ["che", "mi", "st"],
+    "image": "images/health/chemist.png"
+  },
+  {
+    "id": "health-cut",
+    "word": "cut",
+    "level": "flyers",
+    "category": "health",
+    "chunks": ["c", "u", "t"],
+    "image": "images/health/cut.png"
+  },
+  {
+    "id": "health-fall-over",
+    "word": "fall over",
+    "level": "flyers",
+    "category": "health",
+    "chunks": ["fall", "over"],
+    "image": "images/health/fall-over.png"
+  },
+  {
+    "id": "health-medicine",
+    "word": "medicine",
+    "level": "flyers",
+    "category": "health",
+    "chunks": ["med", "i", "cine"],
+    "image": "images/health/medicine.png"
+  },
+  {
+    "id": "health-x-ray",
+    "word": "x-ray",
+    "level": "flyers",
+    "category": "health",
+    "chunks": ["x", "-", "ray"],
+    "image": "images/health/x-ray.png"
+  },
 
   {
     "id": "home-apartment",

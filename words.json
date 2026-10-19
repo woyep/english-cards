@@ -3015,6 +3015,166 @@
     "chunks": ["wa", "sh"],
     "image": "images/home/wash.png"
   },
+  {
+    "id": "home-brush",
+    "word": "brush",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["br", "ush"],
+    "image": "images/home/brush.png"
+  },
+  {
+    "id": "home-comb",
+    "word": "comb",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["c", "o", "mb"],
+    "image": "images/home/comb.png"
+  },
+  {
+    "id": "home-cooker",
+    "word": "cooker",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["cook", "er"],
+    "image": "images/home/cooker.png"
+  },
+  {
+    "id": "home-cushion",
+    "word": "cushion",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["cu", "sh", "ion"],
+    "image": "images/home/cushion.png"
+  },
+  {
+    "id": "home-diary",
+    "word": "diary",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["di", "a", "ry"],
+    "image": "images/home/diary.png"
+  },
+  {
+    "id": "home-entrance",
+    "word": "entrance",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["en", "tr", "ance"],
+    "image": "images/home/entrance.png"
+  },
+  {
+    "id": "home-envelope",
+    "word": "envelope",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["en", "ve", "lope"],
+    "image": "images/home/envelope.png"
+  },
+  {
+    "id": "home-fridge",
+    "word": "fridge",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["fr", "i", "dge"],
+    "image": "images/home/fridge.png"
+  },
+  {
+    "id": "home-gate",
+    "word": "gate",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["g", "a", "te"],
+    "image": "images/home/gate.png"
+  },
+  {
+    "id": "home-key",
+    "word": "key",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["k", "ey"],
+    "image": "images/home/key.png"
+  },
+  {
+    "id": "home-letter",
+    "word": "letter",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["let", "ter"],
+    "image": "images/home/letter.png"
+  },
+  {
+    "id": "home-oven",
+    "word": "oven",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["o", "ven"],
+    "image": "images/home/oven.png"
+  },
+  {
+    "id": "home-screen",
+    "word": "screen",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["s", "cr", "ee", "n"],
+    "image": "images/home/screen.png"
+  },
+  {
+    "id": "home-shampoo",
+    "word": "shampoo",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["sh", "am", "poo"],
+    "image": "images/home/shampoo.png"
+  },
+  {
+    "id": "home-shelf",
+    "word": "shelf",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["sh", "e", "lf"],
+    "image": "images/home/shelf.png"
+  },
+  {
+    "id": "home-soap",
+    "word": "soap",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["s", "oa", "p"],
+    "image": "images/home/soap.png"
+  },
+  {
+    "id": "home-stamp",
+    "word": "stamp",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["st", "a", "mp"],
+    "image": "images/home/stamp.png"
+  },
+  {
+    "id": "home-step",
+    "word": "step",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["st", "e", "p"],
+    "image": "images/home/step.png"
+  },
+  {
+    "id": "home-swing",
+    "word": "swing",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["sw", "i", "ng"],
+    "image": "images/home/swing.png"
+  },
+  {
+    "id": "home-telephone",
+    "word": "telephone",
+    "level": "flyers",
+    "category": "home",
+    "chunks": ["tele", "phone"],
+    "image": "images/home/telephone.png"
+  },
 
   {
     "id": "it-tablet",

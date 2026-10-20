@@ -3208,6 +3208,46 @@
     "chunks": ["e", "-", "book"],
     "image": "images/it/e-book.png"
   },
+  {
+    "id": "it-file",
+    "word": "file",
+    "level": "flyers",
+    "category": "it",
+    "chunks": ["f", "i", "le"],
+    "image": "images/it/file.png"
+  },
+  {
+    "id": "it-programme",
+    "word": "programme",
+    "level": "flyers",
+    "category": "it",
+    "chunks": ["pro", "gra", "mme"],
+    "image": "images/it/programme.png"
+  },
+  {
+    "id": "it-program",
+    "word": "program",
+    "level": "flyers",
+    "category": "it",
+    "chunks": ["pro", "gra", "m"],
+    "image": "images/it/program.png"
+  },
+  {
+    "id": "it-search",
+    "word": "search",
+    "level": "flyers",
+    "category": "it",
+    "chunks": ["s", "ear", "ch"],
+    "image": "images/it/search.png"
+  },
+  {
+    "id": "it-wifi",
+    "word": "wifi",
+    "level": "flyers",
+    "category": "it",
+    "chunks": ["wi", "fi"],
+    "image": "images/it/wifi.png"
+  },
 
   {
     "id": "number-one",

@@ -3250,6 +3250,79 @@
   },
 
   {
+    "id": "material-paper",
+    "word": "paper",
+    "level": "starters",
+    "category": ["material", "school"],
+    "chunks": ["pa", "per"],
+    "image": "images/material/paper.png"
+  },
+  {
+    "id": "material-card",
+    "word": "card",
+    "level": "flyers",
+    "category": "material",
+    "chunks": ["ca", "rd"],
+    "image": "images/material/card.png"
+  },
+  {
+    "id": "material-glass",
+    "word": "glass",
+    "level": "flyers",
+    "category": "material",
+    "chunks": ["gl", "ass"],
+    "image": "images/material/glass.png"
+  },
+  {
+    "id": "material-gold",
+    "word": "gold",
+    "level": "flyers",
+    "category": "material",
+    "chunks": ["g", "old"],
+    "image": "images/material/gold.png"
+  },
+  {
+    "id": "material-metal",
+    "word": "metal",
+    "level": "flyers",
+    "category": "material",
+    "chunks": ["met", "al"],
+    "image": "images/material/metal.png"
+  },
+  {
+    "id": "material-plastic",
+    "word": "plastic",
+    "level": "flyers",
+    "category": "material",
+    "chunks": ["plas", "tic"],
+    "image": "images/material/plastic.png"
+  },
+  {
+    "id": "material-silver",
+    "word": "silver",
+    "level": "flyers",
+    "category": "material",
+    "chunks": ["sil", "ver"],
+    "image": "images/material/silver.png"
+  },
+  {
+    "id": "material-wood",
+    "word": "wood",
+    "level": "flyers",
+    "category": "material",
+    "chunks": ["w", "oo", "d"],
+    "image": "images/material/wood.png"
+  },
+  {
+    "id": "material-wool",
+    "word": "wool",
+    "level": "flyers",
+    "category": "material",
+    "chunks": ["w", "oo", "l"],
+    "image": "images/material/wool.png"
+  },
+
+  {
     "id": "number-one",
     "word": "one",
     "level": "starters",
@@ -4285,14 +4358,6 @@
     "category": "school",
     "chunks": ["p", "age"],
     "image": "images/school/page.png"
-  },
-  {
-    "id": "school-paper",
-    "word": "paper",
-    "level": "starters",
-    "category": ["material", "school"],
-    "chunks": ["pa", "per"],
-    "image": "images/school/paper.png"
   },
   {
     "id": "school-part",

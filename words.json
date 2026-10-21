@@ -3722,6 +3722,142 @@
     "chunks": ["p", "air"],
     "image": "images/number/pair.png"
   },
+  {
+    "id": "number-one-hundred-and-one",
+    "word": "one hundred and one",
+    "level": "flyers",
+    "category": "number",
+    "chunks": ["one", "hundred", "and", "one"],
+    "image": "images/number/one-hundred-and-one.png"
+  },
+  {
+    "id": "number-five-hundred",
+    "word": "five hundred",
+    "level": "flyers",
+    "category": "number",
+    "chunks": ["five", "hundred"],
+    "image": "images/number/five-hundred.png"
+  },
+  {
+    "id": "number-nine-hundred-and-ninety-nine",
+    "word": "nine hundred and ninety-nine",
+    "level": "flyers",
+    "category": "number",
+    "chunks": ["nine", "hundred", "and", "ninety-nine"],
+    "image": "images/number/nine-hundred-and-ninety-nine.png"
+  },
+  {
+    "id": "number-twenty-first",
+    "word": "twenty-first",
+    "level": "flyers",
+    "category": "number",
+    "chunks": ["twenty", "-", "first"],
+    "image": "images/number/twenty-first.png"
+  },
+  {
+    "id": "number-twenty-second",
+    "word": "twenty-second",
+    "level": "flyers",
+    "category": "number",
+    "chunks": ["twenty", "-", "second"],
+    "image": "images/number/twenty-second.png"
+  },
+  {
+    "id": "number-twenty-third",
+    "word": "twenty-third",
+    "level": "flyers",
+    "category": "number",
+    "chunks": ["twenty", "-", "third"],
+    "image": "images/number/twenty-third.png"
+  },
+  {
+    "id": "number-twenty-fourth",
+    "word": "twenty-fourth",
+    "level": "flyers",
+    "category": "number",
+    "chunks": ["twenty", "-", "fourth"],
+    "image": "images/number/twenty-fourth.png"
+  },
+  {
+    "id": "number-twenty-fifth",
+    "word": "twenty-fifth",
+    "level": "flyers",
+    "category": "number",
+    "chunks": ["twenty", "-", "fifth"],
+    "image": "images/number/twenty-fifth.png"
+  },
+  {
+    "id": "number-twenty-sixth",
+    "word": "twenty-sixth",
+    "level": "flyers",
+    "category": "number",
+    "chunks": ["twenty", "-", "sixth"],
+    "image": "images/number/twenty-sixth.png"
+  },
+  {
+    "id": "number-twenty-seventh",
+    "word": "twenty-seventh",
+    "level": "flyers",
+    "category": "number",
+    "chunks": ["twenty", "-", "seventh"],
+    "image": "images/number/twenty-seventh.png"
+  },
+  {
+    "id": "number-twenty-eighth",
+    "word": "twenty-eighth",
+    "level": "flyers",
+    "category": "number",
+    "chunks": ["twenty", "-", "eighth"],
+    "image": "images/number/twenty-eighth.png"
+  },
+  {
+    "id": "number-twenty-ninth",
+    "word": "twenty-ninth",
+    "level": "flyers",
+    "category": "number",
+    "chunks": ["twenty", "-", "ninth"],
+    "image": "images/number/twenty-ninth.png"
+  },
+  {
+    "id": "number-thirtieth",
+    "word": "thirtieth",
+    "level": "flyers",
+    "category": "number",
+    "chunks": ["thir", "ti", "eth"],
+    "image": "images/number/thirtieth.png"
+  },
+  {
+    "id": "number-thirty-first",
+    "word": "thirty-first",
+    "level": "flyers",
+    "category": "number",
+    "chunks": ["thirty", "-", "first"],
+    "image": "images/number/thirty-first.png"
+  },
+  {
+    "id": "number-million",
+    "word": "million",
+    "level": "flyers",
+    "category": "number",
+    "chunks": ["mil", "lion"],
+    "image": "images/number/million.png"
+  },
+  {
+    "id": "number-several",
+    "word": "several",
+    "level": "flyers",
+    "category": "number",
+    "chunks": ["sev", "er", "al"],
+    "image": "images/number/several.png"
+  },
+  {
+    "id": "number-thousand",
+    "word": "thousand",
+    "level": "flyers",
+    "category": "number",
+    "chunks": ["thou", "sand"],
+    "image": "images/number/thousand.png"
+  },
 
   {
     "id": "place-direction-behind",

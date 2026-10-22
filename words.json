@@ -2466,7 +2466,7 @@
     "id": "health-chemist",
     "word": "chemist",
     "level": "flyers",
-    "category": "health",
+    "category": ["health", "place-direction"],
     "chunks": ["che", "mi", "st"],
     "image": "images/health/chemist.png"
   },
@@ -4252,6 +4252,286 @@
     "category": "place-direction",
     "chunks": ["town", "center"],
     "image": "images/place-direction/town-center.png"
+  },
+  {
+    "id": "place-direction-airport",
+    "word": "airport",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["air", "port"],
+    "image": "images/place-direction/airport.png"
+  },
+  {
+    "id": "place-direction-bank",
+    "word": "bank",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["b", "a", "nk"],
+    "image": "images/place-direction/bank.png"
+  },
+  {
+    "id": "place-direction-bridge",
+    "word": "bridge",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["br", "i", "dge"],
+    "image": "images/place-direction/bridge.png"
+  },
+  {
+    "id": "place-direction-castle",
+    "word": "castle",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["cas", "tle"],
+    "image": "images/place-direction/castle.png"
+  },
+  {
+    "id": "place-direction-club",
+    "word": "club",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["cl", "ub"],
+    "image": "images/place-direction/club.png"
+  },
+  {
+    "id": "place-direction-college",
+    "word": "college",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["col", "lege"],
+    "image": "images/place-direction/college.png"
+  },
+  {
+    "id": "place-direction-corner",
+    "word": "corner",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["cor", "ner"],
+    "image": "images/place-direction/corner.png"
+  },
+  {
+    "id": "place-direction-east",
+    "word": "east",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["ea", "st"],
+    "image": "images/place-direction/east.png"
+  },
+  {
+    "id": "place-direction-factory",
+    "word": "factory",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["fac", "tor", "y"],
+    "image": "images/place-direction/factory.png"
+  },
+  {
+    "id": "place-direction-fire-station",
+    "word": "fire station",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["fire", "station"],
+    "image": "images/place-direction/fire-station.png"
+  },
+  {
+    "id": "place-direction-front",
+    "word": "front",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["fr", "o", "nt"],
+    "image": "images/place-direction/front.png"
+  },
+  {
+    "id": "place-direction-get-to",
+    "word": "get to",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["get", "to"],
+    "image": "images/place-direction/get-to.png"
+  },
+  {
+    "id": "place-direction-hotel",
+    "word": "hotel",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["ho", "tel"],
+    "image": "images/place-direction/hotel.png"
+  },
+  {
+    "id": "place-direction-kilometre",
+    "word": "kilometre",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["kilo", "metre"],
+    "image": "images/place-direction/kilometre.png"
+  },
+  {
+    "id": "place-direction-kilometer",
+    "word": "kilometer",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["kilo", "meter"],
+    "image": "images/place-direction/kilometer.png"
+  },
+  {
+    "id": "place-direction-left",
+    "word": "left",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["l", "e", "ft"],
+    "image": "images/place-direction/left.png"
+  },
+  {
+    "id": "place-direction-london",
+    "word": "London",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["Lon", "don"],
+    "image": "images/place-direction/london.png"
+  },
+  {
+    "id": "place-direction-middle",
+    "word": "middle",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["mid", "dle"],
+    "image": "images/place-direction/middle.png"
+  },
+  {
+    "id": "place-direction-museum",
+    "word": "museum",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["mu", "se", "um"],
+    "image": "images/place-direction/museum.png"
+  },
+  {
+    "id": "place-direction-north",
+    "word": "north",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["n", "or", "th"],
+    "image": "images/place-direction/north.png"
+  },
+  {
+    "id": "place-direction-over",
+    "word": "over",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["o", "ver"],
+    "image": "images/place-direction/over.png"
+  },
+  {
+    "id": "place-direction-path",
+    "word": "path",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["p", "a", "th"],
+    "image": "images/place-direction/path.png"
+  },
+  {
+    "id": "place-direction-police-station",
+    "word": "police station",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["police", "station"],
+    "image": "images/place-direction/police-station.png"
+  },
+  {
+    "id": "place-direction-post office",
+    "word": "post office",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["post", "office"],
+    "image": "images/place-direction/post-office.png"
+  },
+  {
+    "id": "place-direction-restaurant",
+    "word": "restaurant",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["res", "tau", "rant"],
+    "image": "images/place-direction/restaurant.png"
+  },
+  {
+    "id": "place-direction-right",
+    "word": "right",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["r", "i", "ght"],
+    "image": "images/place-direction/right.png"
+  },
+  {
+    "id": "place-direction-skyscraper",
+    "word": "skyscraper",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["sky", "scrap", "er"],
+    "image": "images/place-direction/skyscraper.png"
+  },
+  {
+    "id": "place-direction-south",
+    "word": "south",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["s", "ou", "th"],
+    "image": "images/place-direction/south.png"
+  },
+  {
+    "id": "place-direction-stadium",
+    "word": "stadium",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["sta", "di", "um"],
+    "image": "images/place-direction/stadium.png"
+  },
+  {
+    "id": "place-direction-straight-on",
+    "word": "straight on",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["straight", "on"],
+    "image": "images/place-direction/straight-on.png"
+  },
+  {
+    "id": "place-direction-theatre",
+    "word": "theatre",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["th", "ea", "tre"],
+    "image": "images/place-direction/theatre.png"
+  },
+  {
+    "id": "place-direction-theater",
+    "word": "theater",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["th", "ea", "ter"],
+    "image": "images/place-direction/theater.png"
+  },
+  {
+    "id": "place-direction-university",
+    "word": "university",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["uni", "ver", "sity"],
+    "image": "images/place-direction/university.png"
+  },
+  {
+    "id": "place-direction-way",
+    "word": "way",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["w", "a", "y"],
+    "image": "images/place-direction/way.png"
+  },
+  {
+    "id": "place-direction-west",
+    "word": "west",
+    "level": "flyers",
+    "category": "place-direction",
+    "chunks": ["w", "e", "st"],
+    "image": "images/place-direction/west.png"
   },
 
   {

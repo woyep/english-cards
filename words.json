@@ -3115,7 +3115,7 @@
     "id": "home-screen",
     "word": "screen",
     "level": "flyers",
-    "category": "home",
+    "category": ["home", "school"],
     "chunks": ["s", "cr", "ee", "n"],
     "image": "images/home/screen.png"
   },
@@ -3131,7 +3131,7 @@
     "id": "home-shelf",
     "word": "shelf",
     "level": "flyers",
-    "category": "home",
+    "category": ["home", "school"],
     "chunks": ["sh", "e", "lf"],
     "image": "images/home/shelf.png"
   },
@@ -4289,7 +4289,7 @@
     "id": "place-direction-club",
     "word": "club",
     "level": "flyers",
-    "category": "place-direction",
+    "category": ["place-direction", "school"],
     "chunks": ["cl", "ub"],
     "image": "images/place-direction/club.png"
   },
@@ -4297,7 +4297,7 @@
     "id": "place-direction-college",
     "word": "college",
     "level": "flyers",
-    "category": "place-direction",
+    "category": ["place-direction", "school"],
     "chunks": ["col", "lege"],
     "image": "images/place-direction/college.png"
   },
@@ -4513,8 +4513,8 @@
     "id": "place-direction-university",
     "word": "university",
     "level": "flyers",
-    "category": "place-direction",
-    "chunks": ["uni", "ver", "sity"],
+    "category": ["place-direction", "school"],
+    "chunks": ["u", "ni", "ver", "si", "ty"],
     "image": "images/place-direction/university.png"
   },
   {
@@ -4522,7 +4522,7 @@
     "word": "way",
     "level": "flyers",
     "category": "place-direction",
-    "chunks": ["w", "a", "y"],
+    "chunks": ["w", "ay"],
     "image": "images/place-direction/way.png"
   },
   {
@@ -4983,6 +4983,191 @@
     "chunks": ["web", "site"],
     "image": "images/school/website.png"
   },
+  {
+    "id": "school-art",
+    "word": "art",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["ar", "t"],
+    "image": "images/school/art.png"
+  },
+  {
+    "id": "school-backpack",
+    "word": "backpack",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["back", "pack"],
+    "image": "images/school/backpack.png"
+  },
+  {
+    "id": "school-bin",
+    "word": "bin",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["b", "in"],
+    "image": "images/school/bin.png"
+  },
+  {
+    "id": "school-competition",
+    "word": "competition",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["com", "pe", "ti", "ption"],
+    "image": "images/school/competition.png"
+  },
+  {
+    "id": "school-dictionary",
+    "word": "dictionary",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["dic", "tion", "ary"],
+    "image": "images/school/dictionary.png"
+  },
+  {
+    "id": "school-flag",
+    "word": "flag",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["fl", "ag"],
+    "image": "images/school/flag.png"
+  },
+  {
+    "id": "school-geography",
+    "word": "geography",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["ge", "og", "ra", "phy"],
+    "image": "images/school/geography.png"
+  },
+  {
+    "id": "school-glue",
+    "word": "glue",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["gl", "ue"],
+    "image": "images/school/glue.png"
+  },
+  {
+    "id": "school-group",
+    "word": "group",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["gr", "ou", "p"],
+    "image": "images/school/group.png"
+  },
+  {
+    "id": "school-gym",
+    "word": "gym",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["g", "y", "m"],
+    "image": "images/school/gym.png"
+  },
+  {
+    "id": "school-history",
+    "word": "history",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["his", "tor", "y"],
+    "image": "images/school/history.png"
+  },
+  {
+    "id": "school-language",
+    "word": "language",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["lan", "guage"],
+    "image": "images/school/language.png"
+  },
+  {
+    "id": "school-maths",
+    "word": "maths",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["m", "a", "th", "s"],
+    "image": "images/school/maths.png"
+  },
+  {
+    "id": "school-math",
+    "word": "math",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["m", "a", "th"],
+    "image": "images/school/math.png"
+  },
+  {
+    "id": "school-online",
+    "word": "online",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["on", "line"],
+    "image": "images/school/online.png"
+  },
+  {
+    "id": "school-project",
+    "word": "project",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["pro", "ject"],
+    "image": "images/school/project.png"
+  },
+  {
+    "id": "school-rucksack",
+    "word": "rucksack",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["ruck", "sack"],
+    "image": "images/school/rucksack.png"
+  },
+  {
+    "id": "school-science",
+    "word": "science",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["sci", "ence"],
+    "image": "images/school/science.png"
+  },
+  {
+    "id": "school-scissors",
+    "word": "scissors",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["sci", "ssor", "s"],
+    "image": "images/school/scissors.png"
+  },
+  {
+    "id": "school-student",
+    "word": "student",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["stu", "dent"],
+    "image": "images/school/student.png"
+  },
+  {
+    "id": "school-study",
+    "word": "study",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["stu", "dy"],
+    "image": "images/school/study.png"
+  },
+  {
+    "id": "school-subject",
+    "word": "subject",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["sub", "ject"],
+    "image": "images/school/subject.png"
+  },
+  {
+    "id": "school-timetable",
+    "word": "timetable",
+    "level": "flyers",
+    "category": "school",
+    "chunks": ["time", "table"],
+    "image": "images/school/timetable.png"
+  },
+
   {
     "id": "sport-leisure-badminton",
     "word": "badminton",

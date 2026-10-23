@@ -1109,7 +1109,7 @@
     "id": "clothes-umbrella",
     "word": "umbrella",
     "level": "flyers",
-    "category": "clothes",
+    "category": ["clothes", "sport-leisure"],
     "chunks": ["um", "brel", "la"],
     "image": "images/clothes/umbrella.png"
   },
@@ -3051,7 +3051,7 @@
     "id": "home-diary",
     "word": "diary",
     "level": "flyers",
-    "category": "home",
+    "category": ["home", "sport-leisure"],
     "chunks": ["di", "a", "ry"],
     "image": "images/home/diary.png"
   },
@@ -3163,7 +3163,7 @@
     "id": "home-swing",
     "word": "swing",
     "level": "flyers",
-    "category": "home",
+    "category": ["home", "sport-leisure"],
     "chunks": ["sw", "i", "ng"],
     "image": "images/home/swing.png"
   },
@@ -3220,7 +3220,7 @@
     "id": "it-programme",
     "word": "programme",
     "level": "flyers",
-    "category": "it",
+    "category": ["it", "sport-leisure"],
     "chunks": ["pro", "gra", "mme"],
     "image": "images/it/programme.png"
   },
@@ -3228,7 +3228,7 @@
     "id": "it-program",
     "word": "program",
     "level": "flyers",
-    "category": "it",
+    "category": ["it", "sport-leisure"],
     "chunks": ["pro", "gra", "m"],
     "image": "images/it/program.png"
   },
@@ -4353,7 +4353,7 @@
     "id": "place-direction-hotel",
     "word": "hotel",
     "level": "flyers",
-    "category": "place-direction",
+    "category": ["place-direction", "sport-leisure"],
     "chunks": ["ho", "tel"],
     "image": "images/place-direction/hotel.png"
   },
@@ -4995,7 +4995,7 @@
     "id": "school-backpack",
     "word": "backpack",
     "level": "flyers",
-    "category": "school",
+    "category": ["school", "sport-leisure"],
     "chunks": ["back", "pack"],
     "image": "images/school/backpack.png"
   },
@@ -5099,7 +5099,7 @@
     "id": "school-online",
     "word": "online",
     "level": "flyers",
-    "category": "school",
+    "category": ["school", "sport-leisure"],
     "chunks": ["on", "line"],
     "image": "images/school/online.png"
   },
@@ -5115,7 +5115,7 @@
     "id": "school-rucksack",
     "word": "rucksack",
     "level": "flyers",
-    "category": "school",
+    "category": ["school", "sport-leisure"],
     "chunks": ["ruck", "sack"],
     "image": "images/school/rucksack.png"
   },
@@ -5808,6 +5808,343 @@
     "chunks": ["w", "alk"],
     "image": "images/sport-leisure/walk-n.png"
   },
+  {
+    "id": "sport-leisure-cartoon",
+    "word": "cartoon",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["car", "t", "oo", "n"],
+    "image": "images/sport-leisure/cartoon.png"
+  },
+  {
+    "id": "sport-leisure-channel",
+    "word": "channel",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["ch", "an", "nel"],
+    "image": "images/sport-leisure/channel.png"
+  },
+  {
+    "id": "sport-leisure-chess",
+    "word": "chess",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["ch", "e", "ss"],
+    "image": "images/sport-leisure/chess.png"
+  },
+  {
+    "id": "sport-leisure-collect",
+    "word": "collect",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["col", "lect"],
+    "image": "images/sport-leisure/collect.png"
+  },
+  {
+    "id": "sport-leisure-concert",
+    "word": "concert",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["con", "cert"],
+    "image": "images/sport-leisure/concert.png"
+  },
+  {
+    "id": "sport-leisure-drum",
+    "word": "drum",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["dr", "u", "m"],
+    "image": "images/sport-leisure/drum.png"
+  },
+  {
+    "id": "sport-leisure-festival",
+    "word": "festival",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["fes", "ti", "val"],
+    "image": "images/sport-leisure/festival.png"
+  },
+  {
+    "id": "sport-leisure-flashlight",
+    "word": "flashlight",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["flash", "light"],
+    "image": "images/sport-leisure/flashlight.png"
+  },
+  {
+    "id": "sport-leisure-golf",
+    "word": "golf",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["g", "o", "lf"],
+    "image": "images/sport-leisure/golf.png"
+  },
+  {
+    "id": "sport-leisure-instrument",
+    "word": "instrument",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["in", "stru", "ment"],
+    "image": "images/sport-leisure/instrument.png"
+  },
+  {
+    "id": "sport-leisure-invitation",
+    "word": "invitation",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["in", "vi", "ta", "tion"],
+    "image": "images/sport-leisure/invitation.png"
+  },
+  {
+    "id": "sport-leisure-invitation",
+    "word": "invitation",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["in", "vi", "ta", "tion"],
+    "image": "images/sport-leisure/invitation.png"
+  },
+  {
+    "id": "sport-leisure-join",
+    "word": "join",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["j", "oi", "n"],
+    "image": "images/sport-leisure/join.png"
+  },
+  {
+    "id": "sport-leisure-magazine",
+    "word": "magazine",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["mag", "a", "zine"],
+    "image": "images/sport-leisure/magazine.png"
+  },
+  {
+    "id": "sport-leisure-match",
+    "word": "match",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["m", "a", "tch"],
+    "image": "images/sport-leisure/match.png"
+  },
+  {
+    "id": "sport-leisure-meet",
+    "word": "meet",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["m", "ee", "t"],
+    "image": "images/sport-leisure/meet.png"
+  },
+  {
+    "id": "sport-leisure-member",
+    "word": "member",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["mem", "ber"],
+    "image": "images/sport-leisure/member.png"
+  },
+  {
+    "id": "sport-leisure-pop-music",
+    "word": "pop music",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["pop", "music"],
+    "image": "images/sport-leisure/pop-music.png"
+  },
+  {
+    "id": "sport-leisure-prize",
+    "word": "prize",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["pr", "ize"],
+    "image": "images/sport-leisure/prize.png"
+  },
+  {
+    "id": "sport-leisure-puzzle",
+    "word": "puzzle",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["puz", "zle"],
+    "image": "images/sport-leisure/puzzle.png"
+  },
+  {
+    "id": "sport-leisure-quiz",
+    "word": "quiz",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["qu", "i", "z"],
+    "image": "images/sport-leisure/quiz.png"
+  },
+  {
+    "id": "sport-leisure-race",
+    "word": "race",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["r", "ace"],
+    "image": "images/sport-leisure/race.png"
+  },
+  {
+    "id": "sport-leisure-rock-music",
+    "word": "rock music",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["rock", "music"],
+    "image": "images/sport-leisure/rock-music.png"
+  },
+  {
+    "id": "sport-leisure-score-n",
+    "word": "score",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["sc", "ore"],
+    "image": "images/sport-leisure/score-v.png"
+  },
+  {
+    "id": "sport-leisure-ski-n",
+    "word": "ski",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["s", "k", "i"],
+    "image": "images/sport-leisure/ski-n.png"
+  },
+  {
+    "id": "sport-leisure-ski-v",
+    "word": "ski",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["s", "k", "i"],
+    "image": "images/sport-leisure/ski-v.png"
+  },
+  {
+    "id": "sport-leisure-sledge",
+    "word": "sledge",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["sl", "edge"],
+    "image": "images/sport-leisure/sledge.png"
+  },
+  {
+    "id": "sport-leisure-snowball",
+    "word": "snowball",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["snow", "ball"],
+    "image": "images/sport-leisure/snowball.png"
+  },
+  {
+    "id": "sport-leisure-snowboard",
+    "word": "snowboard",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["snow", "board"],
+    "image": "images/sport-leisure/snowboard.png"
+  },
+  {
+    "id": "sport-leisure-snowboarding",
+    "word": "snowboarding",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["snow", "board", "ing"],
+    "image": "images/sport-leisure/snowboarding.png"
+  },
+  {
+    "id": "sport-leisure-snowman",
+    "word": "snowman",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["snow", "man"],
+    "image": "images/sport-leisure/snowman.png"
+  },
+  {
+    "id": "sport-leisure-stage",
+    "word": "stage",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["st", "age"],
+    "image": "images/sport-leisure/stage.png"
+  },
+  {
+    "id": "sport-leisure-suitcase",
+    "word": "suitcase",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["suit", "case"],
+    "image": "images/sport-leisure/suitcase.png"
+  },
+  {
+    "id": "sport-leisure-team",
+    "word": "team",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["t", "ea", "m"],
+    "image": "images/sport-leisure/team.png"
+  },
+  {
+    "id": "sport-leisure-tent",
+    "word": "tent",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["t", "e", "nt"],
+    "image": "images/sport-leisure/tent.png"
+  },
+  {
+    "id": "sport-leisure-torch",
+    "word": "torch",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["t", "or", "ch"],
+    "image": "images/sport-leisure/torch.png"
+  },
+  {
+    "id": "sport-leisure-tune",
+    "word": "tune",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["t", "une"],
+    "image": "images/sport-leisure/tune.png"
+  },
+  {
+    "id": "sport-leisure-tyre",
+    "word": "tyre",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["t", "yre"],
+    "image": "images/sport-leisure/tyre.png"
+  },
+  {
+    "id": "sport-leisure-tire",
+    "word": "tire",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["t", "ire"],
+    "image": "images/sport-leisure/tire.png"
+  },
+  {
+    "id": "sport-leisure-violin",
+    "word": "violin",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["vi", "o", "lin"],
+    "image": "images/sport-leisure/violin.png"
+  },
+  {
+    "id": "sport-leisure-volleyball",
+    "word": "volleyball",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["vol", "ley", "ball"],
+    "image": "images/sport-leisure/volleyball.png"
+  },
+  {
+    "id": "sport-leisure-winner",
+    "word": "winner",
+    "level": "flyers",
+    "category": "sport-leisure",
+    "chunks": ["win", "ner"],
+    "image": "images/sport-leisure/winner.png"
+  },
+
   {
     "id": "time-afternoon",
     "word": "afternoon",

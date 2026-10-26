@@ -6218,12 +6218,12 @@
     "image": "images/time/year.png"
   },
   {
-    "id": "time-after",
+    "id": "time-after-prep",
     "word": "after",
     "level": "movers",
     "category": "time",
     "chunks": ["af", "ter"],
-    "image": "images/time/after.png"
+    "image": "images/time/after-prep.png"
   },
   {
     "id": "time-always",
@@ -6234,12 +6234,12 @@
     "image": "images/time/always.png"
   },
   {
-    "id": "time-before",
+    "id": "time-before-prep",
     "word": "before",
     "level": "movers",
     "category": "time",
     "chunks": ["be", "fore"],
-    "image": "images/time/before.png"
+    "image": "images/time/before-prep.png"
   },
   {
     "id": "time-every",
@@ -6353,6 +6353,359 @@
     "chunks": ["Sun", "day"],
     "image": "images/time/Sunday.png"
   },
+  {
+    "id": "time-a.m.",
+    "word": "a.m.",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["a", ".", "m", "."],
+    "image": "images/time/a.m..png"
+  },
+  {
+    "id": "time-after-conj",
+    "word": "after",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["af", "ter"],
+    "image": "images/time/after-conj.png"
+  },
+  {
+    "id": "time-after-adv",
+    "word": "after",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["af", "ter"],
+    "image": "images/time/after-adv.png"
+  },
+  {
+    "id": "time-ago",
+    "word": "ago",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["a", "go"],
+    "image": "images/time/ago.png"
+  },
+  {
+    "id": "time-autumn",
+    "word": "autumn",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["au", "tumn"],
+    "image": "images/time/autumn.png"
+  },
+  {
+    "id": "time-before-conj",
+    "word": "before",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["be", "fore"],
+    "image": "images/time/before-conj.png"
+  },
+  {
+    "id": "time-before-adv",
+    "word": "before",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["be", "fore"],
+    "image": "images/time/before-adv.png"
+  },
+  {
+    "id": "time-calendar",
+    "word": "calendar",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["cal", "en", "dar"],
+    "image": "images/time/calendar.png"
+  },
+  {
+    "id": "time-century",
+    "word": "century",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["cen", "tu", "ry"],
+    "image": "images/time/century.png"
+  },
+  {
+    "id": "time-date",
+    "word": "date",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["d", "ate"],
+    "image": "images/time/date.png"
+  },
+  {
+    "id": "time-early",
+    "word": "early",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["ear", "ly"],
+    "image": "images/time/early.png"
+  },
+  {
+    "id": "time-end-v",
+    "word": "end",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["e", "nd"],
+    "image": "images/time/end-v.png"
+  },
+  {
+    "id": "time-fall",
+    "word": "fall",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["f", "all"],
+    "image": "images/time/fall.png"
+  },
+  {
+    "id": "time-future",
+    "word": "future",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["fu", "ture"],
+    "image": "images/time/future.png"
+  },
+  {
+    "id": "time-half",
+    "word": "half",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["h", "al", "f"],
+    "image": "images/time/half.png"
+  },
+  {
+    "id": "time-hour",
+    "word": "hour",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["h", "our"],
+    "image": "images/time/hour.png"
+  },
+  {
+    "id": "time-how-long",
+    "word": "how long",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["how", "long"],
+    "image": "images/time/how-long.png"
+  },
+  {
+    "id": "time-late",
+    "word": "late",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["l", "ate"],
+    "image": "images/time/late.png"
+  },
+  {
+    "id": "time-later",
+    "word": "later",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["la", "ter"],
+    "image": "images/time/later.png"
+  },
+  {
+    "id": "time-midday",
+    "word": "midday",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["mid", "day"],
+    "image": "images/time/midday.png"
+  },
+  {
+    "id": "time-midnight",
+    "word": "midnight",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["mid", "night"],
+    "image": "images/time/midnight.png"
+  },
+  {
+    "id": "time-minute",
+    "word": "minute",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["min", "ute"],
+    "image": "images/time/minute.png"
+  },
+  {
+    "id": "time-month",
+    "word": "month",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["m", "o", "nth"],
+    "image": "images/time/month.png"
+  },
+  {
+    "id": "time-p.m.",
+    "word": "p.m.",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["p", ".", "m", "."],
+    "image": "images/time/p.m..png"
+  },
+  {
+    "id": "time-past",
+    "word": "past",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["p", "a", "st"],
+    "image": "images/time/past.png"
+  },
+  {
+    "id": "time-quarter",
+    "word": "quarter",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["qu", "ar", "ter"],
+    "image": "images/time/quarter.png"
+  },
+  {
+    "id": "time-spring",
+    "word": "spring",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["spr", "ing"],
+    "image": "images/time/spring.png"
+  },
+  {
+    "id": "time-summer",
+    "word": "summer",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["sum", "mer"],
+    "image": "images/time/summer.png"
+  },
+  {
+    "id": "time-time",
+    "word": "time",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["t", "ime"],
+    "image": "images/time/time.png"
+  },
+  {
+    "id": "time-tomorrow",
+    "word": "tomorrow",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["to", "mor", "row"],
+    "image": "images/time/tomorrow.png"
+  },
+  {
+    "id": "time-tonight",
+    "word": "tonight",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["to", "night"],
+    "image": "images/time/tonight.png"
+  },
+  {
+    "id": "time-winter",
+    "word": "winter",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["win", "ter"],
+    "image": "images/time/winter.png"
+  },
+  {
+    "id": "time-january",
+    "word": "January",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["Jan", "u", "ary"],
+    "image": "images/time/january.png"
+  },
+  {
+    "id": "time-february",
+    "word": "February",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["Feb", "ru", "ary"],
+    "image": "images/time/february.png"
+  },
+  {
+    "id": "time-march",
+    "word": "March",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["M", "ar", "ch"],
+    "image": "images/time/march.png"
+  },
+  {
+    "id": "time-april",
+    "word": "April",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["A", "pril"],
+    "image": "images/time/april.png"
+  },
+  {
+    "id": "time-may",
+    "word": "May",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["M", "ay"],
+    "image": "images/time/may.png"
+  },
+  {
+    "id": "time-june",
+    "word": "June",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["J", "une"],
+    "image": "images/time/june.png"
+  },
+  {
+    "id": "time-july",
+    "word": "July",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["Ju", "ly"],
+    "image": "images/time/july.png"
+  },
+  {
+    "id": "time-august",
+    "word": "August",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["Au", "gust"],
+    "image": "images/time/august.png"
+  },
+  {
+    "id": "time-september",
+    "word": "September",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["Sep", "tem", "ber"],
+    "image": "images/time/september.png"
+  },
+  {
+    "id": "time-october",
+    "word": "October",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["Oc", "to", "ber"],
+    "image": "images/time/october.png"
+  },
+  {
+    "id": "time-november",
+    "word": "November",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["No", "vem", "ber"],
+    "image": "images/time/november.png"
+  },
+  {
+    "id": "time-december",
+    "word": "December",
+    "level": "flyers",
+    "category": "time",
+    "chunks": ["De", "cem", "ber"],
+    "image": "images/time/december.png"
+  },
+
   {
     "id": "toy-alien",
     "word": "alien",

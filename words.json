@@ -1005,7 +1005,7 @@
     "id": "clothes-crown",
     "word": "crown",
     "level": "flyers",
-    "category": "clothes",
+    "category": ["clothes", "toy"],
     "chunks": ["cr", "own"],
     "image": "images/clothes/crown.png"
   },
@@ -6762,6 +6762,7 @@
     "chunks": ["mod", "el"],
     "image": "images/toy/model.png"
   },
+
   {
     "id": "transport-bus",
     "word": "bus",
@@ -6874,6 +6875,7 @@
     "chunks": ["t", "r", "i", "p"],
     "image": "images/transport/trip.png"
   },
+
   {
     "id": "weather-cloud",
     "word": "cloud",

@@ -4257,7 +4257,7 @@
     "id": "place-direction-airport",
     "word": "airport",
     "level": "flyers",
-    "category": "place-direction",
+    "category": ["place-direction", "transport", "work"],
     "chunks": ["air", "port"],
     "image": "images/place-direction/airport.png"
   },
@@ -5163,7 +5163,7 @@
     "id": "school-timetable",
     "word": "timetable",
     "level": "flyers",
-    "category": "school",
+    "category": ["school", "transport"],
     "chunks": ["time", "table"],
     "image": "images/school/timetable.png"
   },
@@ -6874,6 +6874,150 @@
     "category": "transport",
     "chunks": ["t", "r", "i", "p"],
     "image": "images/transport/trip.png"
+  },
+  {
+    "id": "transport-ambulance",
+    "word": "ambulance",
+    "level": "flyers",
+    "category": "transport",
+    "chunks": ["am", "bu", "lance"],
+    "image": "images/transport/ambulance.png"
+  },
+  {
+    "id": "transport-bicycle",
+    "word": "bicycle",
+    "level": "flyers",
+    "category": "transport",
+    "chunks": ["bi", "cy", "cle"],
+    "image": "images/transport/bicycle.png"
+  },
+  {
+    "id": "transport-fire-engine",
+    "word": "fire engine",
+    "level": "flyers",
+    "category": "transport",
+    "chunks": ["fire", "engine"],
+    "image": "images/transport/fire-engine.png"
+  },
+  {
+    "id": "transport-fire-truck",
+    "word": "fire truck",
+    "level": "flyers",
+    "category": "transport",
+    "chunks": ["fire", "truck"],
+    "image": "images/transport/fire-truck.png"
+  },
+  {
+    "id": "transport-fire-truck",
+    "word": "fire truck",
+    "level": "flyers",
+    "category": "transport",
+    "chunks": ["fire", "truck"],
+    "image": "images/transport/fire-truck.png"
+  },
+  {
+    "id": "transport-journey",
+    "word": "journey",
+    "level": "flyers",
+    "category": "transport",
+    "chunks": ["jour", "ney"],
+    "image": "images/transport/journey.png"
+  },
+  {
+    "id": "transport-lift",
+    "word": "lift",
+    "level": "flyers",
+    "category": "transport",
+    "chunks": ["l", "i", "f", "t"],
+    "image": "images/transport/lift.png"
+  },
+  {
+    "id": "transport-motorway",
+    "word": "motorway",
+    "level": "flyers",
+    "category": "transport",
+    "chunks": ["motor", "way"],
+    "image": "images/transport/motorway.png"
+  },
+  {
+    "id": "transport-passenger",
+    "word": "passenger",
+    "level": "flyers",
+    "category": "transport",
+    "chunks": ["pas", "sen", "ger"],
+    "image": "images/transport/passenger.png"
+  },
+  {
+    "id": "transport-platform",
+    "word": "platform",
+    "level": "flyers",
+    "category": "transport",
+    "chunks": ["plat", "form"],
+    "image": "images/transport/platform.png"
+  },
+  {
+    "id": "transport-racing",
+    "word": "racing",
+    "level": "flyers",
+    "category": "transport",
+    "chunks": ["rac", "ing"],
+    "image": "images/transport/racing.png"
+  },
+  {
+    "id": "transport-railway",
+    "word": "railway",
+    "level": "flyers",
+    "category": "transport",
+    "chunks": ["rail", "way"],
+    "image": "images/transport/railway.png"
+  },
+  {
+    "id": "transport-rocket",
+    "word": "rocket",
+    "level": "flyers",
+    "category": "transport",
+    "chunks": ["rock", "et"],
+    "image": "images/transport/rocket.png"
+  },
+  {
+    "id": "transport-spaceship",
+    "word": "spaceship",
+    "level": "flyers",
+    "category": "transport",
+    "chunks": ["space", "ship"],
+    "image": "images/transport/spaceship.png"
+  },
+  {
+    "id": "transport-taxi",
+    "word": "taxi",
+    "level": "flyers",
+    "category": "transport",
+    "chunks": ["tax", "i"],
+    "image": "images/transport/taxi.png"
+  },
+  {
+    "id": "transport-tour",
+    "word": "tour",
+    "level": "flyers",
+    "category": "transport",
+    "chunks": ["t", "our"],
+    "image": "images/transport/tour.png"
+  },
+  {
+    "id": "transport-traffic",
+    "word": "traffic",
+    "level": "flyers",
+    "category": "transport",
+    "chunks": ["traf", "fic"],
+    "image": "images/transport/traffic.png"
+  },
+  {
+    "id": "transport-wheel",
+    "word": "wheel",
+    "level": "flyers",
+    "category": "transport",
+    "chunks": ["wh", "ee", "l"],
+    "image": "images/transport/wheel.png"
   },
 
   {

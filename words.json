@@ -7109,6 +7109,31 @@
     "image": "images/weather/windy.png"
   },
   {
+    "id": "weather-fog",
+    "word": "fog",
+    "level": "flyers",
+    "category": "weather",
+    "chunks": ["f", "o", "g"],
+    "image": "images/weather/fog.png"
+  },
+  {
+    "id": "weather-foggy",
+    "word": "foggy",
+    "level": "flyers",
+    "category": "weather",
+    "chunks": ["fog", "gy"],
+    "image": "images/weather/foggy.png"
+  },
+  {
+    "id": "weather-storm",
+    "word": "storm",
+    "level": "flyers",
+    "category": "weather",
+    "chunks": ["st", "orm"],
+    "image": "images/weather/storm.png"
+  },
+
+  {
     "id": "work-clown",
     "word": "clown",
     "level": "movers",

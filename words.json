@@ -4321,7 +4321,7 @@
     "id": "place-direction-factory",
     "word": "factory",
     "level": "flyers",
-    "category": "place-direction",
+    "category": ["place-direction", "work"],
     "chunks": ["fac", "tor", "y"],
     "image": "images/place-direction/factory.png"
   },
@@ -4433,7 +4433,7 @@
     "id": "place-direction-police-station",
     "word": "police station",
     "level": "flyers",
-    "category": "place-direction",
+    "category": ["place-direction", "work"],
     "chunks": ["police", "station"],
     "image": "images/place-direction/police-station.png"
   },
@@ -6879,7 +6879,7 @@
     "id": "transport-ambulance",
     "word": "ambulance",
     "level": "flyers",
-    "category": "transport",
+    "category": ["transport", "work"],
     "chunks": ["am", "bu", "lance"],
     "image": "images/transport/ambulance.png"
   },
@@ -6895,7 +6895,7 @@
     "id": "transport-fire-engine",
     "word": "fire engine",
     "level": "flyers",
-    "category": "transport",
+    "category": ["transport", "work"],
     "chunks": ["fire", "engine"],
     "image": "images/transport/fire-engine.png"
   },
@@ -6903,7 +6903,7 @@
     "id": "transport-fire-truck",
     "word": "fire truck",
     "level": "flyers",
-    "category": "transport",
+    "category": ["transport", "work"],
     "chunks": ["fire", "truck"],
     "image": "images/transport/fire-truck.png"
   },
@@ -6975,7 +6975,7 @@
     "id": "transport-rocket",
     "word": "rocket",
     "level": "flyers",
-    "category": "transport",
+    "category": ["transport", "work"],
     "chunks": ["rock", "et"],
     "image": "images/transport/rocket.png"
   },
@@ -6991,7 +6991,7 @@
     "id": "transport-taxi",
     "word": "taxi",
     "level": "flyers",
-    "category": "transport",
+    "category": ["transport", "work"],
     "chunks": ["tax", "i"],
     "image": "images/transport/taxi.png"
   },
@@ -7197,6 +7197,191 @@
     "chunks": ["w", "or", "k"],
     "image": "images/work/work.png"
   },
+  {
+    "id": "work-actor",
+    "word": "actor",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["act", "or"],
+    "image": "images/work/actor.png"
+  },
+  {
+    "id": "work-artist",
+    "word": "artist",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["art", "ist"],
+    "image": "images/work/artist.png"
+  },
+  {
+    "id": "work-astronaut",
+    "word": "astronaut",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["as", "tro", "naut"],
+    "image": "images/work/astronaut.png"
+  },
+  {
+    "id": "work-business",
+    "word": "business",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["busi", "ness"],
+    "image": "images/work/business.png"
+  },
+  {
+    "id": "work-businessman",
+    "word": "businessman",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["business", "man"],
+    "image": "images/work/businessman.png"
+  },
+  {
+    "id": "work-businesswoman",
+    "word": "businesswoman",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["business", "woman"],
+    "image": "images/work/businesswoman.png"
+  },
+  {
+    "id": "work-designer",
+    "word": "designer",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["design", "er"],
+    "image": "images/work/designer.png"
+  },
+  {
+    "id": "work-engineer",
+    "word": "engineer",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["engine", "er"],
+    "image": "images/work/engineer.png"
+  },
+  {
+    "id": "work-fire-fighter",
+    "word": "fire fighter",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["fire", "fighter"],
+    "image": "images/work/fire-fighter.png"
+  },
+  {
+    "id": "work-job",
+    "word": "job",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["j", "o", "b"],
+    "image": "images/work/job.png"
+  },
+  {
+    "id": "work-journalist",
+    "word": "journalist",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["journal", "ist"],
+    "image": "images/work/journalist.png"
+  },
+  {
+    "id": "work-manager",
+    "word": "manager",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["manage", "r"],
+    "image": "images/work/manager.png"
+  },
+  {
+    "id": "work-mechanic",
+    "word": "mechanic",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["me", "cha", "nic"],
+    "image": "images/work/mechanic.png"
+  },
+  {
+    "id": "work-meeting",
+    "word": "meeting",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["meet", "ing"],
+    "image": "images/work/meeting.png"
+  },
+  {
+    "id": "work-news",
+    "word": "news",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["new", "s"],
+    "image": "images/work/news.png"
+  },
+  {
+    "id": "work-newspaper",
+    "word": "newspaper",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["news", "paper"],
+    "image": "images/work/newspaper.png"
+  },
+  {
+    "id": "work-office",
+    "word": "office",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["of", "fice"],
+    "image": "images/work/office.png"
+  },
+  {
+    "id": "work-photographer",
+    "word": "photographer",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["photo", "graph", "er"],
+    "image": "images/work/photographer.png"
+  },
+  {
+    "id": "work-pilot",
+    "word": "pilot",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["pi", "lot"],
+    "image": "images/work/pilot.png"
+  },
+  {
+    "id": "work-police-officer",
+    "word": "police officer",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["police", "officer"],
+    "image": "images/work/police-officer.png"
+  },
+  {
+    "id": "work-queen",
+    "word": "queen",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["qu", "ee", "n"],
+    "image": "images/work/queen.png"
+  },
+  {
+    "id": "work-singer",
+    "word": "singer",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["sing", "er"],
+    "image": "images/work/singer.png"
+  },
+  {
+    "id": "work-waiter",
+    "word": "waiter",
+    "level": "flyers",
+    "category": "work",
+    "chunks": ["wait", "er"],
+    "image": "images/work/waiter.png"
+  },
+
   {
     "id": "the-world-around-us-sand",
     "word": "sand",

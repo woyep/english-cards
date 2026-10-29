@@ -3059,7 +3059,7 @@
     "id": "home-entrance",
     "word": "entrance",
     "level": "flyers",
-    "category": "home",
+    "category": ["home", "the-world-around-us"],
     "chunks": ["en", "tr", "ance"],
     "image": "images/home/entrance.png"
   },
@@ -3083,7 +3083,7 @@
     "id": "home-gate",
     "word": "gate",
     "level": "flyers",
-    "category": "home",
+    "category": ["home", "the-world-around-us"],
     "chunks": ["g", "a", "te"],
     "image": "images/home/gate.png"
   },
@@ -4273,7 +4273,7 @@
     "id": "place-direction-bridge",
     "word": "bridge",
     "level": "flyers",
-    "category": "place-direction",
+    "category": ["place-direction", "the-world-around-us"],
     "chunks": ["br", "i", "dge"],
     "image": "images/place-direction/bridge.png"
   },
@@ -4281,7 +4281,7 @@
     "id": "place-direction-castle",
     "word": "castle",
     "level": "flyers",
-    "category": "place-direction",
+    "category": ["place-direction", "the-world-around-us"],
     "chunks": ["cas", "tle"],
     "image": "images/place-direction/castle.png"
   },
@@ -6461,7 +6461,7 @@
     "id": "time-future",
     "word": "future",
     "level": "flyers",
-    "category": "time",
+    "category": ["time", "the-world-around-us"],
     "chunks": ["fu", "ture"],
     "image": "images/time/future.png"
   },
@@ -7589,5 +7589,149 @@
     "category": "the-world-around-us",
     "chunks": ["w", "or", "ld"],
     "image": "images/the-world-around-us/world.png"
+  },
+  {
+    "id": "the-world-around-us-air",
+    "word": "air",
+    "level": "flyers",
+    "category": "the-world-around-us",
+    "chunks": ["a", "i", "r"],
+    "image": "images/the-world-around-us/air.png"
+  },
+  {
+    "id": "the-world-around-us-cave",
+    "word": "cave",
+    "level": "flyers",
+    "category": "the-world-around-us",
+    "chunks": ["c", "ave"],
+    "image": "images/the-world-around-us/cave.png"
+  },
+  {
+    "id": "the-world-around-us-desert",
+    "word": "desert",
+    "level": "flyers",
+    "category": "the-world-around-us",
+    "chunks": ["des", "ert"],
+    "image": "images/the-world-around-us/desert.png"
+  },
+  {
+    "id": "the-world-around-us-earth",
+    "word": "Earth",
+    "level": "flyers",
+    "category": "the-world-around-us",
+    "chunks": ["Ear", "th"],
+    "image": "images/the-world-around-us/earth.png"
+  },
+  {
+    "id": "the-world-around-us-environment",
+    "word": "environment",
+    "level": "flyers",
+    "category": "the-world-around-us",
+    "chunks": ["en", "vi", "ron", "ment"],
+    "image": "images/the-world-around-us/environment.png"
+  },
+  {
+    "id": "the-world-around-us-exit",
+    "word": "exit",
+    "level": "flyers",
+    "category": "the-world-around-us",
+    "chunks": ["ex", "it"],
+    "image": "images/the-world-around-us/exit.png"
+  },
+  {
+    "id": "the-world-around-us-fire",
+    "word": "fire",
+    "level": "flyers",
+    "category": "the-world-around-us",
+    "chunks": ["f", "ire"],
+    "image": "images/the-world-around-us/fire.png"
+  },
+  {
+    "id": "the-world-around-us-hill",
+    "word": "hill",
+    "level": "flyers",
+    "category": "the-world-around-us",
+    "chunks": ["h", "ill"],
+    "image": "images/the-world-around-us/hill.png"
+  },
+  {
+    "id": "the-world-around-us-land",
+    "word": "land",
+    "level": "flyers",
+    "category": "the-world-around-us",
+    "chunks": ["l", "and"],
+    "image": "images/the-world-around-us/land.png"
+  },
+  {
+    "id": "the-world-around-us-ocean",
+    "word": "ocean",
+    "level": "flyers",
+    "category": "the-world-around-us",
+    "chunks": ["o", "cean"],
+    "image": "images/the-world-around-us/ocean.png"
+  },
+  {
+    "id": "the-world-around-us-planet",
+    "word": "planet",
+    "level": "flyers",
+    "category": "the-world-around-us",
+    "chunks": ["plan", "et"],
+    "image": "images/the-world-around-us/planet.png"
+  },
+  {
+    "id": "the-world-around-us-pond",
+    "word": "pond",
+    "level": "flyers",
+    "category": "the-world-around-us",
+    "chunks": ["p", "ond"],
+    "image": "images/the-world-around-us/pond.png"
+  },
+  {
+    "id": "the-world-around-us-pyramid",
+    "word": "pyramid",
+    "level": "flyers",
+    "category": "the-world-around-us",
+    "chunks": ["pyr", "a", "mid"],
+    "image": "images/the-world-around-us/pyramid.png"
+  },
+  {
+    "id": "the-world-around-us-space",
+    "word": "space",
+    "level": "flyers",
+    "category": "the-world-around-us",
+    "chunks": ["sp", "ace"],
+    "image": "images/the-world-around-us/space.png"
+  },
+  {
+    "id": "the-world-around-us-stone",
+    "word": "stone",
+    "level": "flyers",
+    "category": "the-world-around-us",
+    "chunks": ["st", "one"],
+    "image": "images/the-world-around-us/stone.png"
+  },
+  {
+    "id": "the-world-around-us-stream",
+    "word": "stream",
+    "level": "flyers",
+    "category": "the-world-around-us",
+    "chunks": ["str", "ea", "m"],
+    "image": "images/the-world-around-us/stream.png"
+  },
+  {
+    "id": "the-world-around-us-view",
+    "word": "view",
+    "level": "flyers",
+    "category": "the-world-around-us",
+    "chunks": ["v", "iew"],
+    "image": "images/the-world-around-us/view.png"
+  },
+  {
+    "id": "the-world-around-us-wood",
+    "word": "wood",
+    "level": "flyers",
+    "category": "the-world-around-us",
+    "chunks": ["w", "oo", "d"],
+    "image": "images/the-world-around-us/wood.png"
   }
 ]

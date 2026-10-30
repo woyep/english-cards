@@ -204,7 +204,7 @@
     "word": "polar bear",
     "level": "starters",
     "category": "animal",
-    "chunks": ["polar", "bear"],
+    "chunks": ["polar", " ", "bear"],
     "image": "images/animal/polar-bear.png"
   },
   {
@@ -798,7 +798,7 @@
     "word": "baseball cap",
     "level": "starters",
     "category": "clothes",
-    "chunks": ["baseball", "cap"],
+    "chunks": ["baseball", " ", "cap"],
     "image": "images/clothes/baseball-cap.png"
   },
   {
@@ -1264,7 +1264,7 @@
     "word": "boy",
     "level": "starters",
     "category": "family-friends",
-    "chunks": ["b", "o", "y"],
+    "chunks": ["b", "oy"],
     "image": "images/family-friends/boy.png"
   },
   {
@@ -1344,7 +1344,7 @@
     "word": "girl",
     "level": "starters",
     "category": "family-friends",
-    "chunks": ["gi", "rl"],
+    "chunks": ["g", "ir", "l"],
     "image": "images/family-friends/girl.png"
   },
   {
@@ -1392,7 +1392,7 @@
     "word": "live",
     "level": "starters",
     "category": "family-friends",
-    "chunks": ["l", "i", "v", "e"],
+    "chunks": ["l", "ive"],
     "image": "images/family-friends/live.png"
   },
   {
@@ -1665,7 +1665,7 @@
     "word": "chicken",
     "level": "starters",
     "category": "food-drink",
-    "chunks": ["ch", "ic", "ken"],
+    "chunks": ["ch", "ick", "en"],
     "image": "images/food-drink/chicken.png"
   },
   {
@@ -1713,7 +1713,7 @@
     "word": "eat",
     "level": "starters",
     "category": "food-drink",
-    "chunks": ["e", "a", "t"],
+    "chunks": ["ea", "t"],
     "image": "images/food-drink/eat.png"
   },
   {
@@ -1769,7 +1769,7 @@
     "word": "ice cream",
     "level": "starters",
     "category": "food-drink",
-    "chunks": ["ice", "cream"],
+    "chunks": ["ice", " ", "cream"],
     "image": "images/food-drink/ice-cream.png"
   },
   {
@@ -2290,7 +2290,7 @@
     "word": "taste",
     "level": "flyers",
     "category": "food-drink",
-    "chunks": ["t", "a", "st", "e"],
+    "chunks": ["t", "aste"],
     "image": "images/food-drink/taste.png"
   },
   {
@@ -2483,7 +2483,7 @@
     "word": "fall over",
     "level": "flyers",
     "category": "health",
-    "chunks": ["fall", "over"],
+    "chunks": ["fall", " ", "over"],
     "image": "images/health/fall-over.png"
   },
   {
@@ -2620,7 +2620,7 @@
     "word": "dining room",
     "level": "starters",
     "category": "home",
-    "chunks": ["dining", "room"],
+    "chunks": ["dining", " ", "room"],
     "image": "images/home/dining-room.png"
   },
   {
@@ -2708,7 +2708,7 @@
     "word": "living room",
     "level": "starters",
     "category": "home",
-    "chunks": ["living", "room"],
+    "chunks": ["living", " ", "room"],
     "image": "images/home/living-room.png"
   },
   {
@@ -2812,7 +2812,7 @@
     "word": "toy",
     "level": "starters",
     "category": ["home", "sport-leisure", "toy"],
-    "chunks": ["t", "o", "y"],
+    "chunks": ["t", "oy"],
     "image": "images/home/toy.png"
   },
   {
@@ -2828,7 +2828,7 @@
     "word": "TV",
     "level": "starters",
     "category": ["home", "sport-leisure"],
-    "chunks": ["t", "v"],
+    "chunks": ["T", "V"],
     "image": "images/home/tv.png"
   },
   {
@@ -3262,7 +3262,7 @@
     "word": "card",
     "level": "flyers",
     "category": "material",
-    "chunks": ["ca", "rd"],
+    "chunks": ["c", "ar", "d"],
     "image": "images/material/card.png"
   },
   {
@@ -3383,7 +3383,7 @@
     "word": "eight",
     "level": "starters",
     "category": "number",
-    "chunks": ["ei", "ght"],
+    "chunks": ["eigh", "t"],
     "image": "images/number/eight.png"
   },
   {
@@ -3727,7 +3727,7 @@
     "word": "one hundred and one",
     "level": "flyers",
     "category": "number",
-    "chunks": ["one", "hundred", "and", "one"],
+    "chunks": ["one", " ", "hundred", " ", "and", " ", "one"],
     "image": "images/number/one-hundred-and-one.png"
   },
   {
@@ -3735,7 +3735,7 @@
     "word": "five hundred",
     "level": "flyers",
     "category": "number",
-    "chunks": ["five", "hundred"],
+    "chunks": ["five", " ", "hundred"],
     "image": "images/number/five-hundred.png"
   },
   {
@@ -3743,7 +3743,7 @@
     "word": "nine hundred and ninety-nine",
     "level": "flyers",
     "category": "number",
-    "chunks": ["nine", "hundred", "and", "ninety-nine"],
+    "chunks": ["nine", " ", "hundred", " ", "and", " ", "ninety-nine"],
     "image": "images/number/nine-hundred-and-ninety-nine.png"
   },
   {
@@ -3912,7 +3912,7 @@
     "word": "in front of",
     "level": "starters",
     "category": "place-direction",
-    "chunks": ["in", "front", "of"],
+    "chunks": ["in", " ", "front", " ", "of"],
     "image": "images/place-direction/in-front-of.png"
   },
   {
@@ -3920,7 +3920,7 @@
     "word": "next to",
     "level": "starters",
     "category": "place-direction",
-    "chunks": ["next", "to"],
+    "chunks": ["next", " ", "to"],
     "image": "images/place-direction/next-to.png"
   },
   {
@@ -4017,7 +4017,7 @@
     "word": "bus station",
     "level": "movers",
     "category": ["place-direction", "transport"],
-    "chunks": ["bus", "station"],
+    "chunks": ["bus", " ", "station"],
     "image": "images/place-direction/bus-station.png"
   },
   {
@@ -4025,7 +4025,7 @@
     "word": "bus stop",
     "level": "movers",
     "category": ["place-direction", "transport"],
-    "chunks": ["bus", "stop"],
+    "chunks": ["bus", " ", "stop"],
     "image": "images/place-direction/bus-stop.png"
   },
   {
@@ -4041,7 +4041,7 @@
     "word": "car park",
     "level": "movers",
     "category": "place-direction",
-    "chunks": ["car", "park"],
+    "chunks": ["car", " ", "park"],
     "image": "images/place-direction/car-park.png"
   },
   {
@@ -4081,7 +4081,7 @@
     "word": "city centre",
     "level": "movers",
     "category": "place-direction",
-    "chunks": ["city", "centre"],
+    "chunks": ["city", " ", "centre"],
     "image": "images/place-direction/city-centre.png"
   },
   {
@@ -4089,7 +4089,7 @@
     "word": "city center",
     "level": "movers",
     "category": "place-direction",
-    "chunks": ["city", "center"],
+    "chunks": ["city", " ", "center"],
     "image": "images/place-direction/city-center.png"
   },
   {
@@ -4170,7 +4170,7 @@
     "word": "shopping centre",
     "level": "movers",
     "category": "place-direction",
-    "chunks": ["shopping", "centre"],
+    "chunks": ["shopping", " ", "centre"],
     "image": "images/place-direction/shopping-centre.png"
   },
   {
@@ -4178,7 +4178,7 @@
     "word": "shopping center",
     "level": "movers",
     "category": "place-direction",
-    "chunks": ["shopping", "center"],
+    "chunks": ["shopping", " ", "center"],
     "image": "images/place-direction/shopping-center.png"
   },
   {
@@ -4186,7 +4186,7 @@
     "word": "sports centre",
     "level": "movers",
     "category": ["place-direction", "sport-leisure"],
-    "chunks": ["sports", "centre"],
+    "chunks": ["sports", " ", "centre"],
     "image": "images/place-direction/sports-centre.png"
   },
   {
@@ -4194,7 +4194,7 @@
     "word": "sports center",
     "level": "movers",
     "category": ["place-direction", "sport-leisure"],
-    "chunks": ["sports", "center"],
+    "chunks": ["sports", " ", "center"],
     "image": "images/place-direction/sports-center.png"
   },
   {
@@ -4234,7 +4234,7 @@
     "word": "swimming pool",
     "level": "movers",
     "category": ["place-direction", "sport-leisure"],
-    "chunks": ["swimming", "pool"],
+    "chunks": ["swimming", " ", "pool"],
     "image": "images/place-direction/swimming-pool.png"
   },
   {
@@ -4242,7 +4242,7 @@
     "word": "town centre",
     "level": "movers",
     "category": "place-direction",
-    "chunks": ["town", "centre"],
+    "chunks": ["town", " ", "centre"],
     "image": "images/place-direction/town-centre.png"
   },
   {
@@ -4250,7 +4250,7 @@
     "word": "town center",
     "level": "movers",
     "category": "place-direction",
-    "chunks": ["town", "center"],
+    "chunks": ["town", " ", "center"],
     "image": "images/place-direction/town-center.png"
   },
   {
@@ -4330,7 +4330,7 @@
     "word": "fire station",
     "level": "flyers",
     "category": "place-direction",
-    "chunks": ["fire", "station"],
+    "chunks": ["fire", " ", "station"],
     "image": "images/place-direction/fire-station.png"
   },
   {
@@ -4346,7 +4346,7 @@
     "word": "get to",
     "level": "flyers",
     "category": "place-direction",
-    "chunks": ["get", "to"],
+    "chunks": ["get", " ", "to"],
     "image": "images/place-direction/get-to.png"
   },
   {
@@ -4434,15 +4434,15 @@
     "word": "police station",
     "level": "flyers",
     "category": ["place-direction", "work"],
-    "chunks": ["police", "station"],
+    "chunks": ["police", " ", "station"],
     "image": "images/place-direction/police-station.png"
   },
   {
-    "id": "place-direction-post office",
+    "id": "place-direction-post-office",
     "word": "post office",
     "level": "flyers",
     "category": "place-direction",
-    "chunks": ["post", "office"],
+    "chunks": ["post", " ", "office"],
     "image": "images/place-direction/post-office.png"
   },
   {
@@ -4458,7 +4458,7 @@
     "word": "right",
     "level": "flyers",
     "category": "place-direction",
-    "chunks": ["r", "i", "ght"],
+    "chunks": ["r", "igh", "t"],
     "image": "images/place-direction/right.png"
   },
   {
@@ -4466,7 +4466,7 @@
     "word": "skyscraper",
     "level": "flyers",
     "category": "place-direction",
-    "chunks": ["sky", "scrap", "er"],
+    "chunks": ["sky", "scraper"],
     "image": "images/place-direction/skyscraper.png"
   },
   {
@@ -4490,7 +4490,7 @@
     "word": "straight on",
     "level": "flyers",
     "category": "place-direction",
-    "chunks": ["straight", "on"],
+    "chunks": ["straight", " ", "on"],
     "image": "images/place-direction/straight-on.png"
   },
   {
@@ -4563,7 +4563,7 @@
     "word": "board",
     "level": "starters",
     "category": "school",
-    "chunks": ["bo", "ard"],
+    "chunks": ["b", "oar", "d"],
     "image": "images/school/board.png"
   },
   {
@@ -4632,12 +4632,12 @@
     "image": "images/school/draw.png"
   },
   {
-    "id": "school-English",
+    "id": "school-english",
     "word": "English",
     "level": "starters",
     "category": "school",
     "chunks": ["Eng", "lish"],
-    "image": "images/school/English.png"
+    "image": "images/school/english.png"
   },
   {
     "id": "school-eraser",
@@ -4684,7 +4684,7 @@
     "word": "know",
     "level": "starters",
     "category": "school",
-    "chunks": ["k", "no", "w"],
+    "chunks": ["kn", "ow"],
     "image": "images/school/know.png"
   },
   {
@@ -4828,7 +4828,7 @@
     "word": "right",
     "level": "starters",
     "category": "school",
-    "chunks": ["r", "i", "ght"],
+    "chunks": ["r", "igh", "t"],
     "image": "images/school/right.png"
   },
   {
@@ -4960,6 +4960,14 @@
     "image": "images/school/homework.png"
   },
   {
+    "id": "school-mistake",
+    "word": "mistake",
+    "level": "movers",
+    "category": "school",
+    "chunks": ["mis", "take"],
+    "image": "images/school/mistake.png"
+  },
+  {
     "id": "school-teach",
     "word": "teach",
     "level": "movers",
@@ -5012,7 +5020,7 @@
     "word": "competition",
     "level": "flyers",
     "category": "school",
-    "chunks": ["com", "pe", "ti", "ption"],
+    "chunks": ["com", "pe", "ti", "tion"],
     "image": "images/school/competition.png"
   },
   {
@@ -5325,7 +5333,7 @@
     "word": "guitar",
     "level": "starters",
     "category": "sport-leisure",
-    "chunks": ["gi", "tar"],
+    "chunks": ["gui", "tar"],
     "image": "images/sport-leisure/guitar.png"
   },
   {
@@ -5361,12 +5369,12 @@
     "image": "images/sport-leisure/jump.png"
   },
   {
-    "id": "sport-leisure-kick",
+    "id": "sport-leisure-kick-v",
     "word": "kick",
     "level": "starters",
     "category": "sport-leisure",
     "chunks": ["k", "i", "ck"],
-    "image": "images/sport-leisure/kick.png"
+    "image": "images/sport-leisure/kick-v.png"
   },
   {
     "id": "sport-leisure-kite",
@@ -5473,11 +5481,11 @@
     "image": "images/sport-leisure/swim-v.png"
   },
   {
-    "id": "sport-leisure-table tennis",
+    "id": "sport-leisure-table-tennis",
     "word": "table tennis",
     "level": "starters",
     "category": "sport-leisure",
-    "chunks": ["table", "tennis"],
+    "chunks": ["table", " ", "tennis"],
     "image": "images/sport-leisure/table-tennis.png"
   },
   {
@@ -5485,7 +5493,7 @@
     "word": "take a photo",
     "level": "starters",
     "category": "sport-leisure",
-    "chunks": ["take", "a", "photo"],
+    "chunks": ["take", " ", "a", " ", "photo"],
     "image": "images/sport-leisure/take-a-photo.png"
   },
   {
@@ -5493,7 +5501,7 @@
     "word": "take a picture",
     "level": "starters",
     "category": "sport-leisure",
-    "chunks": ["take", "a", "picture"],
+    "chunks": ["take", " ", "a", " ", "picture"],
     "image": "images/sport-leisure/take-a-picture.png"
   },
   {
@@ -5509,7 +5517,7 @@
     "word": "tennis racket",
     "level": "starters",
     "category": "sport-leisure",
-    "chunks": ["tennis", "racket"],
+    "chunks": ["tennis", " ", "racket"],
     "image": "images/sport-leisure/tennis-racket.png"
   },
   {
@@ -5521,12 +5529,12 @@
     "image": "images/sport-leisure/throw.png"
   },
   {
-    "id": "sport-leisure-walk",
+    "id": "sport-leisure-walk-v",
     "word": "walk",
     "level": "starters",
     "category": "sport-leisure",
     "chunks": ["w", "alk"],
-    "image": "images/sport-leisure/walk.png"
+    "image": "images/sport-leisure/walk-v.png"
   },
   {
     "id": "sport-leisure-band",
@@ -5537,12 +5545,12 @@
     "image": "images/sport-leisure/band.png"
   },
   {
-    "id": "sport-leisure-CD",
+    "id": "sport-leisure-cd",
     "word": "CD",
     "level": "movers",
     "category": "sport-leisure",
     "chunks": ["C", "D"],
-    "image": "images/sport-leisure/CD.png"
+    "image": "images/sport-leisure/cd.png"
   },
   {
     "id": "sport-leisure-cinema",
@@ -5565,7 +5573,7 @@
     "word": "comic book",
     "level": "movers",
     "category": "sport-leisure",
-    "chunks": ["comic", "book"],
+    "chunks": ["comic", " ", "book"],
     "image": "images/sport-leisure/comic-book.png"
   },
   {
@@ -5585,12 +5593,12 @@
     "image": "images/sport-leisure/drive-n.png"
   },
   {
-    "id": "sport-leisure-DVD",
+    "id": "sport-leisure-dvd",
     "word": "DVD",
     "level": "movers",
     "category": "sport-leisure",
     "chunks": ["D", "V", "D"],
-    "image": "images/sport-leisure/DVD.png"
+    "image": "images/sport-leisure/dvd.png"
   },
   {
     "id": "sport-leisure-email",
@@ -5621,7 +5629,7 @@
     "word": "go shopping",
     "level": "movers",
     "category": "sport-leisure",
-    "chunks": ["go", "shop", "ping"],
+    "chunks": ["go", " ", "shop", "ping"],
     "image": "images/sport-leisure/go-shopping.png"
   },
   {
@@ -5653,7 +5661,7 @@
     "word": "ice skates",
     "level": "movers",
     "category": "sport-leisure",
-    "chunks": ["ice", "skates"],
+    "chunks": ["ice", " ", "skates"],
     "image": "images/sport-leisure/ice-skates.png"
   },
   {
@@ -5661,7 +5669,7 @@
     "word": "ice skating",
     "level": "movers",
     "category": "sport-leisure",
-    "chunks": ["ice", "skating"],
+    "chunks": ["ice", " ", "skating"],
     "image": "images/sport-leisure/ice-skating.png"
   },
   {
@@ -5741,7 +5749,7 @@
     "word": "roller skates",
     "level": "movers",
     "category": "sport-leisure",
-    "chunks": ["roller", "skates"],
+    "chunks": ["roller", " ", "skates"],
     "image": "images/sport-leisure/roller-skates.png"
   },
   {
@@ -5749,7 +5757,7 @@
     "word": "roller skating",
     "level": "movers",
     "category": "sport-leisure",
-    "chunks": ["roller", "skating"],
+    "chunks": ["roller", " ", "skating"],
     "image": "images/sport-leisure/roller-skating.png"
   },
   {
@@ -5897,14 +5905,6 @@
     "image": "images/sport-leisure/invitation.png"
   },
   {
-    "id": "sport-leisure-invitation",
-    "word": "invitation",
-    "level": "flyers",
-    "category": "sport-leisure",
-    "chunks": ["in", "vi", "ta", "tion"],
-    "image": "images/sport-leisure/invitation.png"
-  },
-  {
     "id": "sport-leisure-join",
     "word": "join",
     "level": "flyers",
@@ -5949,7 +5949,7 @@
     "word": "pop music",
     "level": "flyers",
     "category": "sport-leisure",
-    "chunks": ["pop", "music"],
+    "chunks": ["pop", " ", "music"],
     "image": "images/sport-leisure/pop-music.png"
   },
   {
@@ -5989,7 +5989,7 @@
     "word": "rock music",
     "level": "flyers",
     "category": "sport-leisure",
-    "chunks": ["rock", "music"],
+    "chunks": ["rock", " ", "music"],
     "image": "images/sport-leisure/rock-music.png"
   },
   {
@@ -5998,7 +5998,7 @@
     "level": "flyers",
     "category": "sport-leisure",
     "chunks": ["sc", "ore"],
-    "image": "images/sport-leisure/score-v.png"
+    "image": "images/sport-leisure/score-n.png"
   },
   {
     "id": "sport-leisure-ski-n",
@@ -6258,12 +6258,12 @@
     "image": "images/time/never.png"
   },
   {
-    "id": "time-o'clock",
+    "id": "time-o-clock",
     "word": "o'clock",
     "level": "movers",
     "category": "time",
-    "chunks": ["o'", "clock"],
-    "image": "images/time/o'clock.png"
+    "chunks": ["o", "'", "clock"],
+    "image": "images/time/o-clock.png"
   },
   {
     "id": "time-sometimes",
@@ -6298,68 +6298,68 @@
     "image": "images/time/yesterday.png"
   },
   {
-    "id": "time-Monday",
+    "id": "time-monday",
     "word": "Monday",
     "level": "movers",
     "category": "time",
     "chunks": ["Mon", "day"],
-    "image": "images/time/Monday.png"
+    "image": "images/time/monday.png"
   },
   {
-    "id": "time-Tuesday",
+    "id": "time-tuesday",
     "word": "Tuesday",
     "level": "movers",
     "category": "time",
     "chunks": ["Tues", "day"],
-    "image": "images/time/Tuesday.png"
+    "image": "images/time/tuesday.png"
   },
   {
-    "id": "time-Wednesday",
+    "id": "time-wednesday",
     "word": "Wednesday",
     "level": "movers",
     "category": "time",
     "chunks": ["Wednes", "day"],
-    "image": "images/time/Wednesday.png"
+    "image": "images/time/wednesday.png"
   },
   {
-    "id": "time-Thursday",
+    "id": "time-thursday",
     "word": "Thursday",
     "level": "movers",
     "category": "time",
     "chunks": ["Thurs", "day"],
-    "image": "images/time/Thursday.png"
+    "image": "images/time/thursday.png"
   },
   {
-    "id": "time-Friday",
+    "id": "time-friday",
     "word": "Friday",
     "level": "movers",
     "category": "time",
     "chunks": ["Fri", "day"],
-    "image": "images/time/Friday.png"
+    "image": "images/time/friday.png"
   },
   {
-    "id": "time-Saturday",
+    "id": "time-saturday",
     "word": "Saturday",
     "level": "movers",
     "category": "time",
     "chunks": ["Sat", "ur", "day"],
-    "image": "images/time/Saturday.png"
+    "image": "images/time/saturday.png"
   },
   {
-    "id": "time-Sunday",
+    "id": "time-sunday",
     "word": "Sunday",
     "level": "movers",
     "category": "time",
     "chunks": ["Sun", "day"],
-    "image": "images/time/Sunday.png"
+    "image": "images/time/sunday.png"
   },
   {
-    "id": "time-a.m.",
+    "id": "time-am",
     "word": "a.m.",
     "level": "flyers",
     "category": "time",
     "chunks": ["a", ".", "m", "."],
-    "image": "images/time/a.m..png"
+    "image": "images/time/am.png"
   },
   {
     "id": "time-after-conj",
@@ -6486,7 +6486,7 @@
     "word": "how long",
     "level": "flyers",
     "category": "time",
-    "chunks": ["how", "long"],
+    "chunks": ["how", " ", "long"],
     "image": "images/time/how-long.png"
   },
   {
@@ -6538,12 +6538,12 @@
     "image": "images/time/month.png"
   },
   {
-    "id": "time-p.m.",
+    "id": "time-pm",
     "word": "p.m.",
     "level": "flyers",
     "category": "time",
     "chunks": ["p", ".", "m", "."],
-    "image": "images/time/p.m..png"
+    "image": "images/time/pm.png"
   },
   {
     "id": "time-past",
@@ -6727,7 +6727,7 @@
     "word": "board game",
     "level": "starters",
     "category": "toy",
-    "chunks": ["board", "game"],
+    "chunks": ["board", " ", "game"],
     "image": "images/toy/board-game.png"
   },
   {
@@ -6751,7 +6751,7 @@
     "word": "teddy bear",
     "level": "starters",
     "category": "toy",
-    "chunks": ["teddy", "bear"],
+    "chunks": ["teddy", " ", "bear"],
     "image": "images/toy/teddy-bear.png"
   },
   {
@@ -6896,7 +6896,7 @@
     "word": "fire engine",
     "level": "flyers",
     "category": ["transport", "work"],
-    "chunks": ["fire", "engine"],
+    "chunks": ["fire", " ", "engine"],
     "image": "images/transport/fire-engine.png"
   },
   {
@@ -6904,15 +6904,7 @@
     "word": "fire truck",
     "level": "flyers",
     "category": ["transport", "work"],
-    "chunks": ["fire", "truck"],
-    "image": "images/transport/fire-truck.png"
-  },
-  {
-    "id": "transport-fire-truck",
-    "word": "fire truck",
-    "level": "flyers",
-    "category": "transport",
-    "chunks": ["fire", "truck"],
+    "chunks": ["fire", " ", "truck"],
     "image": "images/transport/fire-truck.png"
   },
   {
@@ -7162,7 +7154,7 @@
     "word": "film star",
     "level": "movers",
     "category": "work",
-    "chunks": ["film", "star"],
+    "chunks": ["film", " ", "star"],
     "image": "images/work/film-star.png"
   },
   {
@@ -7170,7 +7162,7 @@
     "word": "movie star",
     "level": "movers",
     "category": "work",
-    "chunks": ["movie", "star"],
+    "chunks": ["movie", " ", "star"],
     "image": "images/work/movie-star.png"
   },
   {
@@ -7186,7 +7178,7 @@
     "word": "pop star",
     "level": "movers",
     "category": "work",
-    "chunks": ["pop", "star"],
+    "chunks": ["pop", " ", "star"],
     "image": "images/work/pop-star.png"
   },
   {
@@ -7266,7 +7258,7 @@
     "word": "fire fighter",
     "level": "flyers",
     "category": "work",
-    "chunks": ["fire", "fighter"],
+    "chunks": ["fire", " ", "fighter"],
     "image": "images/work/fire-fighter.png"
   },
   {
@@ -7354,7 +7346,7 @@
     "word": "police officer",
     "level": "flyers",
     "category": "work",
-    "chunks": ["police", "officer"],
+    "chunks": ["police", " ", "officer"],
     "image": "images/work/police-officer.png"
   },
   {
